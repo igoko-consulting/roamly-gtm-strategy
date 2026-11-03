@@ -65,3 +65,18 @@ Based on this, refine my strategic inputs and generate a V1 GTM strategy one-pag
 ```text
 Now take the GTM strategy one-pager you just created and turn it into a clean, visual one-page summary I can share with my team. Use clear sections, short punchy headers, and make it scannable. Format it as if it were a real internal strategy document.
 ```
+
+**How the two infographics compared**
+
+| Point | GPT-6 (one-page PDF) | Claude (Claude Docs page with two diagrams) |
+|---|---|---|
+| Headline | "Expand, prove, acquire" as a three-step strip | "Win back group demand we already have, then let guests spread it", over six cards |
+| Motion | Labels CLG "secondary", then calls communities "experimental" | Product-led; community a gated stage-3 test, as agreed |
+| Launch | Three steps, no timings or gates | Four stages with timings (pilot weeks 1–4 at 5–10% of eligible users in 1–2 cities; widen weeks 5–10; community from week 11) and three gates |
+| North star | Incremental completed group bookings per eligible organiser, against a holdout, over 30 days | Group booking completion rate, against the multi-account baseline |
+| Guardrails | Solo conversion, ratings and repeat booking | Solo, host, payment and support health |
+| Open decisions | Unpaid-share rule named as a must-have, not decided | Five decisions with owners and proposals |
+
+- **GPT-6's is the better single image:** one page, scannable, and the three-step strip carries the thesis at a glance. It reverts to "CLG secondary", which contradicts the agreed motion.
+- **Claude's is the better plan:** it is the only one with gates, and it carries the stage timings missing from its earlier one-pager reply. Gate 3 asks only for an early guest-loop signal by week 11, before a 90-day read is possible.
+- **Neither filled the X and Z targets.** Both still need Roamly's baseline data.

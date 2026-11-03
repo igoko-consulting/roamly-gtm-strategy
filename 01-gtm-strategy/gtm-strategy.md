@@ -64,13 +64,14 @@ Out of V1: paid acquisition, influencers, corporate offsites and launch PR.
 - **North star:** group booking completion rate, the share of Groups sessions that reach a fully paid, confirmed booking, against the multi-account baseline and a holdout. Target set once the baseline is in.
 - **Diagnostic funnel:** group created → invites accepted → date agreed → all shares paid → booking confirmed. The biggest drop at invites or date points to commitment; at payment, to money.
 - **Loop metric:** share of guests who book on their own account within 90 days.
-- **Guardrails:** solo conversion and ratings, host cancellation rate, payment failures and chargebacks, and support contacts per group booking.
+- **Guardrails:** solo conversion, ratings and repeat booking, host cancellation rate, payment failures and chargebacks, and support contacts per group booking.
 
 **Launch plan**
-- **Type:** closed beta, widening by stage.
-- **Stage 1, closed beta (about 4 weeks):** multi-account users in cities with host capacity, owned channels only. Gate: completion beats baseline and guardrails hold.
-- **Stage 2, optimise:** all eligible existing organisers; fix the step where groups drop most. Gate: guest loop read at 90 days.
-- **Stage 3, launch:** in-product promotion to all users and the community seeding test.
+- **Type:** closed beta, widening by stage. Timings and percentages are placeholders, like the X and Z targets, until baselines are in.
+- **Stage 0, before launch:** gate on the unpaid-share rule signed, host terms agreed, tracking live and baselines captured.
+- **Stage 1, closed beta (weeks 1–4):** 5–10% of eligible multi-account users in 1–2 cities with spare host capacity, the rest of the eligible users as the holdout; owned channels only. Gate: completion beats baseline and guardrails hold.
+- **Stage 2, widen (weeks 5–10):** all eligible existing organisers, and group size in search for every user; fix the step where groups drop most. Gate: completion holds and an early read of the guest loop shows signal.
+- **Stage 3, launch (week 11 on):** in-product promotion to all users and the community seeding test. The full 90-day guest-loop read follows as a checkpoint.
 - **Enablement order:** leadership (metrics and a 30-day monitoring plan), then support (unpaid-share rule, FAQs, escalation path), then host ops (host terms), then marketing last, once positioning is locked.
 - **Decision rules:** a commitment drop moves availability polling and headcount locking ahead of payment features; a money drop tunes the deadline, reminders and organiser cover; a guardrail breach pauses expansion; a flat guest loop means Groups is justified on recovered bookings alone.
 
