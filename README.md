@@ -1,4 +1,4 @@
-# Roamly Groups: Go-To-Market Strategy
+# Roamly Groups: Go-To-Market Strategy, by Martin Cook
 
 > My final project for Product School's **Go-To-Market** certification. A complete go-to-market strategy for **Roamly Groups**: a new group-booking feature, built across six in-class labs, no homework required.
 
