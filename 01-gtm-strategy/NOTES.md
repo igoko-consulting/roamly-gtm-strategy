@@ -75,7 +75,7 @@ Session 1, 3 Nov 2026. Sources: Module 1 slides, class notes and Lab Guide. Outp
 ## Labs
 
 - **Discover Framework:** chose occasion groups (hen and stag parties, milestone birthdays), because the most acute pain and the authority to book sit with one person.
-- **V1 strategy:** PLG + CLG and Acquire went into the pressure test. Claude and GPT-6, each as a sceptical CMO, both called Acquire the weakest input and asked whether payment friction was really commitment friction. I accepted Expand and a rule for unpaid shares, and pushed back on "prove it before you build": the product is built, so a staged launch is the faster test. Prompts and both models' replies compared: [PROMPTS.md](../PROMPTS.md).
+- **V1 strategy:** PLG + CLG and Acquire went into the pressure test. GPT-6 and Claude, each as a sceptical CMO, both called Acquire the weakest input and asked whether payment friction was really commitment friction. I accepted Expand and a rule for unpaid shares, and pushed back on "prove it before you build": the product is built, so a staged launch is the faster test. Prompts and both models' replies compared: [PROMPTS.md](../PROMPTS.md).
 - **What AI cracked open:** I picked my goal from the motion table instead of my own evidence. Every signal came from existing users, yet I chose Acquire because PLG pairs with it. Missed: both models pushed the same way, and neither knew the product was built. Two models agreeing on the same thin prompt isn't independent evidence.
 
 ## What this means for Roamly Groups

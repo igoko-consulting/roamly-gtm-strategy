@@ -2,7 +2,7 @@
 
 > My final project for Product School's **Go-To-Market** certification. A complete go-to-market strategy for **Roamly Groups**: a new group-booking feature, built across six in-class labs, no homework required.
 
-**How to read this repo:** each module folder holds its deliverable and a `NOTES.md` with the module's ideas and my takeaways. [PROMPTS.md](PROMPTS.md) keeps every lab prompt, run word for word in Claude and GPT-6, and how the replies differed; each module's `ai-replies/` folder holds both models' replies as evidence.
+**How to read this repo:** each module folder holds its deliverable and a `NOTES.md` with the module's ideas and my takeaways. [PROMPTS.md](PROMPTS.md) keeps every lab prompt, run word for word in GPT-6 and Claude, and how the replies differed; each module's `ai-replies/` folder holds both models' replies as evidence.
 
 ---
 
@@ -33,7 +33,7 @@ ___
 ```
 roamly-gtm-strategy/
 ├── README.md                          ← this dashboard
-├── PROMPTS.md                         ← every lab prompt, and how Claude and GPT-6 replied
+├── PROMPTS.md                         ← every lab prompt, and how GPT-6 and Claude replied
 ├── 01-gtm-strategy/
 │   ├── gtm-strategy.md                ← M1: Discover Framework + motion    ★ Deliverable 1
 │   ├── NOTES.md                       ← M1 class notes and takeaways

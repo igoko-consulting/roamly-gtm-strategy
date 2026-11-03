@@ -31,15 +31,29 @@ Module 6's launch plan has no field, so a short version lives in section 5 of th
 
 # Two-model prompts
 
-- Lab prompts go word for word to Claude (claude.ai, a fresh chat with no memory or project instructions) and GPT-6. Follow-up prompts run in the same chat as the prompt before them.
-- Keep every prompt, and a short comparison of the replies, in `PROMPTS.md`.
+- Running both models is how Martin works in practice: a second model is a cheap second reviewer, and the replies are kept so the rigour is visible.
+- Lab prompts go word for word to GPT-6 and to Claude (claude.ai, a fresh chat with no memory or project instructions). Follow-up prompts run in the same chat as the prompt before them.
+- Keep every prompt, and a short comparison of the replies, in `PROMPTS.md`; keep the replies themselves in the module's `ai-replies/` folder.
 
 # Per-module pattern
 
 1. Martin adds the module's Lab Guide PDF to the course folder, `~/Library/CloudStorage/Dropbox/Study/Product School/Go-to-Market/`.
 2. Work through the Lab Guide in order and write the deliverable.
-3. After class, write the module's `NOTES.md` beside the deliverable: class notes in Martin's words, bullets with bold sub-headers, each ending with a "Missed:" alternate view.
-4. Update the README status table.
+3. For each lab prompt: record it and the comparison in `PROMPTS.md`, and save both replies in `ai-replies/`.
+4. After class, write the module's `NOTES.md` beside the deliverable: class notes in Martin's words, bullets with bold sub-headers, each ending with a "Missed:" alternate view.
+5. Update the README status table and repo map.
+
+# Clarity and consistency (every module)
+
+Every module should read the same way, so a reader who has seen Module 1 knows where everything is in Module 5.
+
+- **Module folder:** the deliverable, `NOTES.md`, and `ai-replies/`. Nothing else unless the Lab Guide produces it.
+- **`ai-replies/` files:** one Markdown file per lab step, `<step>-<name>.md`, holding both replies, GPT-6 first, then Claude. Visual outputs go in as `<step>-<name>-gpt6.pdf` and `<step>-<name>-claude.pdf`. Each file opens with one line naming the prompt, the date and that the words are unchanged, then a jump line to each model. Restore tables and lists flattened by copying; where something can't be recovered, say so in an italic bracketed note rather than leaving a silent gap.
+- **`PROMPTS.md`:** an H2 per module (`Module N · <deliverable>`), an H3 per step (`N. <step>`), the prompt in a `text` block, then "**How the two … compared** · " with links to the replies, a GPT-6 | Claude table, and two or three verdict bullets.
+- **Model order:** GPT-6 first, then Claude, everywhere: prose, tables and files. It is the order Martin runs them.
+- **Terms:** use one name per idea across modules: the multi-account pattern, the unpaid-share rule, the guest loop, occasion groups (the segment) and occasion organisers (the buyer), Expand and Acquire as the course's goal names, stage 0 to 3 for the rollout.
+- **Changed decisions:** when a later module changes an earlier answer, update every place it appears (deliverable, `NOTES.md`, README sentence, `PROMPTS.md` verdicts) in the same commit, after Martin approves the change.
+- **Own words versus verbatim:** everything written for Martin follows his tone rules. Prompts and model replies stay word for word, including their spelling and dashes.
 
 `pdftotext` isn't installed: extract PDFs with `pypdf` in a scratchpad venv, and run Python with `-I`.
 

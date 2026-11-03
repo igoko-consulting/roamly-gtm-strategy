@@ -1,6 +1,6 @@
 # Prompts
 
-Every lab prompt I ran, word for word. Each one went to Claude and GPT-6 in fresh chats, identical in both, so the replies can be compared. Follow-up prompts ran in the same chat as the prompt before them.
+Every lab prompt I ran, word for word. Each one went to GPT-6 and Claude in fresh chats, identical in both, so the replies can be compared. Follow-up prompts ran in the same chat as the prompt before them.
 
 - **Why two models:** it's how I work in practice. A second model is a cheap second reviewer: where both agree, the point carries more weight; where they differ, I look harder before deciding. Missed: two models reading the same prompt aren't fully independent, so agreement is a signal, not proof.
 - **Evidence:** every reply is kept word for word in each module's `ai-replies/` folder, linked under each step, so each comparison below can be checked against its source.
