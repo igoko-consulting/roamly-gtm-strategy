@@ -2,6 +2,9 @@
 
 Every lab prompt I ran, word for word. Each one went to Claude and GPT-6 in fresh chats, identical in both, so the replies can be compared. Follow-up prompts ran in the same chat as the prompt before them.
 
+- **Why two models:** it's how I work in practice. A second model is a cheap second reviewer: where both agree, the point carries more weight; where they differ, I look harder before deciding. Missed: two models reading the same prompt aren't fully independent, so agreement is a signal, not proof.
+- **Evidence:** every reply is kept word for word in each module's `ai-replies/` folder, linked under each step, so each comparison below can be checked against its source.
+
 ---
 
 ## Module 1 · GTM strategy
@@ -26,7 +29,7 @@ Here are my Discover Framework answers and strategic inputs:
 Play the role of a skeptical CMO who has reviewed dozens of GTM plans. Tell me: (1) which of my inputs is the weakest and why, (2) the assumption I am most likely not seeing because I am too close to it, and (3) what you would cut or sharpen. Be direct.
 ```
 
-**How the two replies compared**
+**How the two replies compared** · both replies, word for word: [1-pressure-test.md](01-gtm-strategy/ai-replies/1-pressure-test.md)
 
 | Point | GPT-6 | Claude |
 |---|---|---|
@@ -46,7 +49,7 @@ Here is my pushback on one of your assumptions: You assume Roamly Groups still n
 Based on this, refine my strategic inputs and generate a V1 GTM strategy one-pager that includes: a recommended channel approach and a suggested success metric for this motion. Keep it concise and actionable. This is a first draft I will refine over the coming weeks.
 ```
 
-**How the two one-pagers compared**
+**How the two one-pagers compared** · both replies, word for word: [2-refinement.md](01-gtm-strategy/ai-replies/2-refinement.md)
 
 | Point | GPT-6 | Claude |
 |---|---|---|
@@ -66,7 +69,7 @@ Based on this, refine my strategic inputs and generate a V1 GTM strategy one-pag
 Now take the GTM strategy one-pager you just created and turn it into a clean, visual one-page summary I can share with my team. Use clear sections, short punchy headers, and make it scannable. Format it as if it were a real internal strategy document.
 ```
 
-**How the two infographics compared**
+**How the two infographics compared** · both, as delivered: [GPT-6 (PDF)](01-gtm-strategy/ai-replies/3-infographic-gpt6.pdf) · [Claude (PDF export of the Claude Docs page)](01-gtm-strategy/ai-replies/3-infographic-claude.pdf)
 
 | Point | GPT-6 (one-page PDF) | Claude (Claude Docs page with two diagrams) |
 |---|---|---|
