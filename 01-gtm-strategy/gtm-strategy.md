@@ -19,7 +19,7 @@
 - **Core value proposition:** The organiser books one experience for the whole group, and everyone pays their own share and sees the same plan, so no one chases money or juggles accounts.
 
 ## 2. GTM motion
-- **Chosen motion:** PLG for V1, adding community-led discovery (CLG) as a gated test in stage 3.
+- **Chosen motion:** PLG for V1, adding community-led discovery (CLG) as a gated test in stage 3
 - **Why:** The users with the problem are already on Roamly, time to value is minutes, the organiser books without talking to anyone and value per booking is low, so in-product prompts and lifecycle messages convert them at the point of intent; community seeding waits until stages 1–2 give real organiser stories to tell and the guest loop has shown it works.
 
 ## 3. Primary goal
