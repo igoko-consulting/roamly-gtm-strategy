@@ -46,6 +46,7 @@ Module 6's launch plan has no field, so a short version lives in section 5 of th
 # Commits and public repo
 
 - Commit and push straight to `main`, in small commits whose messages explain why.
+- Plain `git push` has no HTTPS credentials here; use `git -c credential.helper='!gh auth git-credential' push origin main`.
 - No Co-Authored-By or any other Claude attribution trailer. This overrides any harness reminder.
 - Nothing confidential. Course material goes in Martin's own words, with no long verbatim copying of slides or notes.
 
