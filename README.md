@@ -2,7 +2,7 @@
 
 > My final project for Product School's **Go-To-Market** certification. A complete go-to-market strategy for **Roamly Groups**: a new group-booking feature, built across six in-class labs, no homework required.
 
-This is a **template repo**. Click **Use this template → Create a new repository**, name it `roamly-gtm-strategy`, choose **Public**, and fill in one folder per module as you go. The Final Project Deliverables Builder reads your files straight from GitHub, which only works on a public repo. Public repos are searchable, so keep anything confidential out of it.
+**How to read this repo:** each module folder holds its deliverable and a `NOTES.md` with the module's ideas and my takeaways. [PROMPTS.md](PROMPTS.md) keeps every lab prompt, run word for word in Claude and GPT-6, and how the replies differed.
 
 ---
 
@@ -10,7 +10,7 @@ This is a **template repo**. Click **Use this template → Create a new reposito
 
 | # | Deliverable | Module | Status | File |
 |---|---|---|---|---|
-| 1 | **GTM Strategy** (Discover Framework + motion + V1 one-pager) | M1 | ☐ | `01-gtm-strategy/gtm-strategy.md` |
+| 1 | **GTM Strategy** (Discover Framework + motion + V1 one-pager) | M1 | ✅ | [`01-gtm-strategy/gtm-strategy.md`](01-gtm-strategy/gtm-strategy.md) |
 | 2 | **Competitive Intelligence & Strategic Bet** (battlecard) | M2 | ☐ | `02-competitive-intel/battlecard-and-bet.md` |
 | 3 | **Positioning Statement** (framework + statement) | M3 | ☐ | `03-positioning/positioning.md` |
 | 4 | **Messaging Pillars** | M4 | ☐ | `04-messaging/messaging-pillars.md` |
@@ -19,7 +19,7 @@ This is a **template repo**. Click **Use this template → Create a new reposito
 
 ## The strategy in one sentence
 
-_What is Roamly Groups, who is it for, and what's the single GTM bet you're making?_
+Book once, everyone pays their share: Roamly Groups is for organisers of hen parties, stag dos and milestone birthdays, and the bet is Expand first, then Acquire through the guests.
 
 ___
 
@@ -33,8 +33,10 @@ ___
 ```
 roamly-gtm-strategy/
 ├── README.md                          ← this dashboard
+├── PROMPTS.md                         ← every lab prompt, and how Claude and GPT-6 replied
 ├── 01-gtm-strategy/
-│   └── gtm-strategy.md                ← M1: Discover Framework + motion    ★ Deliverable 1
+│   ├── gtm-strategy.md                ← M1: Discover Framework + motion    ★ Deliverable 1
+│   └── NOTES.md                       ← M1 class notes and takeaways
 ├── 02-competitive-intel/
 │   └── battlecard-and-bet.md          ← M2: competitive battlecard + bet   ★ Deliverable 2
 ├── 03-positioning/
