@@ -58,7 +58,7 @@ Based on this, refine my strategic inputs and generate a V1 GTM strategy one-pag
 | Primary metric | Incremental completed group bookings per organiser, against a holdout | Group booking completion rate, against the multi-account baseline |
 | Motion | PLG, CLG still called secondary but run as an experiment | PLG only in V1; CLG a gated stage-3 test |
 | Unpaid shares | Named as a rule to set | Proposed one: payment deadline, organiser covers or releases seats, Roamly doesn't underwrite |
-| Launch gates | Three stages, no gates | Pre-launch checklist, kill criteria and decision rules per funnel outcome |
+| Launch gates | Three stages, no timings or gates | Four stages with timings and three gates, a pre-launch checklist, and decision rules per funnel outcome |
 
 - **Claude's was the stronger base.** It made every decision the CMO had asked for. GPT-6 added the holdout, which measures what Groups adds rather than what would have happened anyway.
 - **Section 5 of the deliverable merges the two:** Claude's structure, unpaid-share rule, channels and decision rules, with GPT-6's holdout and "Expand, prove the group experience, then Acquire".
@@ -81,5 +81,5 @@ Now take the GTM strategy one-pager you just created and turn it into a clean, v
 | Open decisions | Unpaid-share rule named as a must-have, not decided | Five decisions with owners and proposals |
 
 - **GPT-6's is the better single image:** one page, scannable, and the three-step strip carries the thesis at a glance. It reverts to "CLG secondary", which contradicts the agreed motion.
-- **Claude's is the better plan:** it is the only one with gates, and it carries the stage timings missing from its earlier one-pager reply. Gate 3 asks only for an early guest-loop signal by week 11, before a 90-day read is possible.
+- **Claude's is the better plan:** it is the only one with stage timings and gates, the same rollout as its one-pager. Gate 3 asks only for an early guest-loop signal by week 11, before a 90-day read is possible.
 - **Neither filled the X and Z targets.** Both still need Roamly's baseline data.

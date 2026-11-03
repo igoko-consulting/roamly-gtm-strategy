@@ -198,7 +198,20 @@ Proposed rule for unpaid shares (V1 default, for sign-off):
 
 V1 launches to existing multi-account users first and widens only when a gate's criteria are met. Solo booking stays untouched throughout.
 
-_[The staged-launch table didn't survive the copy from Claude chat. The same four stages and three gates are in Claude's infographic, [3-infographic-claude.pdf](3-infographic-claude.pdf), page 2.]_
+_[A diagram in the original, "Each stage widens only when its gate is met", transcribed from Claude's doc. The same diagram appears in its infographic, [3-infographic-claude.pdf](3-infographic-claude.pdf), page 2.]_
+
+| Stage | When | What happens |
+|---|---|---|
+| Pre-launch | Stage 0 · prep | Unpaid-share rule; host terms agreed; tracking and baselines live |
+| Pilot | Stage 1 · weeks 1-4 | 5-10% of eligible users, 1-2 cities; in-product and CRM; guest loop measured |
+| Expand | Stage 2 · weeks 5-10 | All eligible users; group size in search for every user; guest prompts tuned |
+| Community test | Stage 3 · week 11+ | Seed occasion planning communities; organiser stories from stages 1-2 |
+
+| Gate | Criteria |
+|---|---|
+| Gate 1: ready | Rule signed, tracking live, baselines captured |
+| Gate 2: scale | Completion beats baseline, guardrails hold |
+| Gate 3: widen | Completion holds and guest loop shows signal |
 
 Stage 1 is the pilot that settles money versus commitment. Stage durations are proposals to test against host capacity and seasonality.
 
