@@ -79,4 +79,4 @@ Out of V1: paid acquisition, influencers, corporate offsites and launch PR.
 
 **Open questions:** who owns go/no-go at each gate; which cities have host capacity for stage 1; what payment deadline hosts accept; whether hen and stag seasonality distorts a 4-week read.
 
-**Visual versions:** [GPT-6](ai-replies/3-infographic-gpt6.pdf) · [Claude](ai-replies/3-infographic-claude.pdf); Claude's was chosen for Slack because it shows the gates and matches this plan.
+Both models' visual versions: [GPT-6](ai-replies/3-infographic-gpt6.pdf) · [Claude](ai-replies/3-infographic-claude.pdf).
