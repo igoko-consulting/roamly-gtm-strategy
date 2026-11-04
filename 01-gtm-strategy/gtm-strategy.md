@@ -30,6 +30,8 @@
 
 I accepted the rest of the challenge: Expand as the primary goal, since the evidence comes from existing users, with guest acquisition as the secondary loop to prove; and a rule for who pays when a guest doesn't, set before launch.
 
+Both models' replies, word for word: [pressure test](ai-replies/1-pressure-test.md) · [refinement](ai-replies/2-refinement.md).
+
 ## 5. V1 GTM strategy one-pager
 
 **Thesis:** move existing users who already try to book in groups across separate accounts onto Roamly Groups through a staged in-product launch that lifts group completion and shows why groups fail. Expand first, prove the group experience, then Acquire.
@@ -76,3 +78,5 @@ Out of V1: paid acquisition, influencers, corporate offsites and launch PR.
 - **Decision rules:** a commitment drop moves availability polling and headcount locking ahead of payment features; a money drop tunes the deadline, reminders and organiser cover; a guardrail breach pauses expansion; a flat guest loop means Groups is justified on recovered bookings alone.
 
 **Open questions:** who owns go/no-go at each gate; which cities have host capacity for stage 1; what payment deadline hosts accept; whether hen and stag seasonality distorts a 4-week read.
+
+**Visual versions:** [GPT-6](ai-replies/3-infographic-gpt6.pdf) · [Claude](ai-replies/3-infographic-claude.pdf); Claude's was chosen for Slack because it shows the gates and matches this plan.
