@@ -47,6 +47,7 @@ Both models' replies, word for word: [pressure test](ai-replies/1-pressure-test.
 **Before launch**
 - **Unpaid-share rule (proposed V1 default):** each guest pays by a deadline set at booking; at the deadline the organiser covers unpaid shares or releases the seats; the host gets a confirmed headcount. Roamly does not underwrite unpaid shares in V1. The rule is shown to the organiser before inviting and to guests at payment. Needs payments, risk and legal sign-off.
 - **Host terms:** opt-in to groups of 6–12, group cancellations and released seats, agreed with host ops.
+- **Guarantee:** what organisers and guests get back if a booking falls through, shown before anyone pays.
 - **Tracking:** every step live, from group created to booking confirmed, plus the occasion tag.
 - **Baselines:** multi-account completion rate, solo conversion and host cancellation rate captured; holdout group set.
 
@@ -70,7 +71,7 @@ Out of V1: paid acquisition, influencers, corporate offsites and launch PR.
 
 **Launch plan**
 - **Type:** closed beta, widening by stage. Timings and percentages are placeholders, like the X and Z targets, until baselines are in.
-- **Stage 0, before launch:** gate on the unpaid-share rule signed, host terms agreed, tracking live and baselines captured.
+- **Stage 0, before launch:** gate on the unpaid-share rule signed, host terms agreed, the guarantee live in the booking flow, tracking live and baselines captured.
 - **Stage 1, closed beta (weeks 1–4):** 5–10% of eligible multi-account users in 1–2 cities with spare host capacity, the rest of the eligible users as the holdout; owned channels only. Gate: completion beats baseline and guardrails hold.
 - **Stage 2, widen (weeks 5–10):** all eligible existing organisers, and group size in search for every user; fix the step where groups drop most. Gate: completion holds and an early read of the guest loop shows signal.
 - **Stage 3, launch (week 11 on):** in-product promotion to all users and the community seeding test. The full 90-day guest-loop read follows as a checkpoint.
