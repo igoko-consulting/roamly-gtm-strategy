@@ -83,3 +83,42 @@ Now take the GTM strategy one-pager you just created and turn it into a clean, v
 - **GPT-6's is the better single image:** one page, scannable, and the three-step strip carries the thesis at a glance. It reverts to "CLG secondary", which contradicts the agreed motion.
 - **Claude's is the better plan:** it is the only one with stage timings and gates, the same rollout as its one-pager. Gate 3 asks only for an early guest-loop signal by week 11, before a 90-day read is possible.
 - **Neither filled the X and Z targets.** Both still need Roamly's baseline data.
+
+---
+
+## Module 2 · Battlecard and bet
+
+### 1. Research
+
+```text
+I am a Senior Product Manager at Roamly, a platform that connects travelers to curated local experiences hosted by vetted local experts across 40 cities. We are launching Roamly Groups, a new feature enabling coordinated group booking, split payments and shared itinerary planning.
+
+My target segment is: Occasion groups (hen and stag parties, milestone birthdays): the pain is most acute, with one organiser chasing money from 6–12 people against a fixed date, and that organiser chooses and books, so pain and buying authority sit with one person.
+My value proposition for them is: The organiser books one experience for the whole group, and everyone pays their own share and sees the same plan, so no one chases money or juggles accounts.
+
+Identify my top 3 competitors, including at least one I might not have considered, and for each, tell me: who they primarily serve, how they position themselves, where they win, and where they are most vulnerable.
+
+Also tell me what the status quo alternative is for a buyer who chooses none of them.
+```
+
+**How the two replies compared** · both replies, word for word: [1-research.md](02-competitive-intel/ai-replies/1-research.md)
+
+| Point | GPT-6 | Claude |
+|---|---|---|
+| The one I hadn't considered | GoHen and StagWeb, hen and stag specialists, "now under Funktion Leisure" | GoHen, under "Groupia" |
+| The other two | The Stag Company; Airbnb Experiences | Airbnb Experiences; GetYourGuide and Viator |
+| Status quo | WhatsApp, spreadsheets and bank transfers; Splitwise settles up but doesn't book | The same, plus the organiser carries any dropouts; most of Roamly's drop-off probably goes here |
+| Main challenge | "Everyone pays their own share" is a feature, not a differentiator | Split payment is table stakes; the edge is curated hosts, booked self-serve in minutes |
+| Fast follower | Not named | Airbnb, with Tripadvisor supply on the way |
+
+**Checked against live sources, 5 Nov 2026:**
+
+- **GoHen's owner:** GPT-6 was right. Groupia went into administration in June 2026, and Funktion Leisure bought GoHen and StagWeb out of it ([Funktion](https://www.funktionevents.co.uk/hen-party/blog/funktion-leisure-acquires-gohen-stagweb), [Travel Weekly](https://travelweekly.co.uk/all-content/stag-and-hen-tour-operator-bought-out-of-adm)). Claude named the failed owner. Neither said that Funktion Events, the buyer, also sells hen and stag trips where "everyone pays their own share".
+- **GoHen's payments:** guests pay GoHen directly, from a £25 deposit, and an app tracks who has paid; packages start at £59 a head. GoHen is ABTA-protected, not ABTOT as Claude said ([GoHen](https://www.gohen.com/)).
+- **The Stag Company:** a £50 deposit secures the group, then each guest pays at least £30 within 14 days through the Party Hub, with the balance due 42 days before ([FAQ](https://static.thestagcompany.com/frequently-asked-questions)).
+- **Airbnb:** I found no per-guest payment for Experiences. The Tripadvisor partnership was announced on 11 August 2026 and launches later this year ([Tripadvisor](https://tripadvisor.mediaroom.com/2026-08-11-Tripadvisor-Group-and-Airbnb-Announce-Experiences-Partnership)). Claude's "new shared itinerary feature" is unverified.
+- **GetYourGuide and Viator:** "Holiday Hero or Zero" was a UK campaign in summer 2026 aimed at the group's organiser ([Creative Salon](https://creative.salon/articles/work/getyourguide-holiday-hero-or-zero-ace-of-hearts)). Viator became Gemini's first connected app for travel experiences on 30 July 2026 ([Tripadvisor](https://tripadvisor.mediaroom.com/2026-07-30-Viator-Becomes-Googles-First-Connected-App-for-Travel-Experiences)).
+
+- **They agreed on what matters:** specialists already sell my value proposition to my segment, so split payment is the entry ticket, not the edge, and the status quo is where most drop-off goes.
+- **Claude's was the more useful research:** it found GoHen's rule for unpaid places, GetYourGuide's campaign aimed at the organiser, and Airbnb's new supply. GPT-6 got the ownership right and had the clearer capability table.
+- **Neither reply is context-free:** GPT-6 quoted my "Expand, Prove, Acquire" sequence and the multi-account pattern, which aren't in the prompt. Claude's mentions of Roamly's drop-off and an unset rule for unpaid shares suggest it drew on earlier chats too.
