@@ -74,7 +74,7 @@ Session 1, 3 Nov 2026. Sources: Module 1 slides, class notes and Lab Guide. Outp
 
 ## Labs
 
-- **Discover Framework:** chose occasion groups (hen and stag parties, milestone birthdays), because the most acute pain and the authority to book sit with one person.
+- **Discover Framework:** chose occasion groups (hen and stag parties, milestone birthdays), because the most acute pain and the authority to book sit with one person. Module 2 narrowed this to milestone celebrations, because specialists already sell per-guest payment to hen and stag groups.
 - **V1 strategy:** PLG + CLG and Acquire went into the pressure test. GPT-6 and Claude, each as a sceptical CMO, both called Acquire the weakest input and asked whether payment friction was really commitment friction. I accepted Expand and a rule for unpaid shares, and pushed back on "prove it before you build": the product is built, so a staged launch is the faster test. Prompts and both models' replies compared: [PROMPTS.md](../PROMPTS.md); the replies, word for word: [ai-replies/](ai-replies/).
 - **Infographic:** each model turned its one-pager into a visual ([GPT-6](ai-replies/3-infographic-gpt6.pdf) · [Claude](ai-replies/3-infographic-claude.pdf)). I chose Claude's for Slack because it matches the agreed motion and shows the gates. Missed: GPT-6's was the cleaner single image, and in a busy channel a visual that reads faster can matter more than a more complete one.
 - **What AI cracked open:** I picked my goal from the motion table instead of my own evidence. Every signal came from existing users, yet I chose Acquire because PLG pairs with it. Missed: both models pushed the same way, and neither knew the product was built. Two models agreeing on the same thin prompt isn't independent evidence.
@@ -83,4 +83,4 @@ Session 1, 3 Nov 2026. Sources: Module 1 slides, class notes and Lab Guide. Outp
 
 - **Tier 1:** reach grows from multi-account users to every user and their guests; the impact is a new revenue line and an acquisition loop; saying nothing leaves users on the workaround. Missed: the staged launch can look like Tier 2. The tier sets the GTM investment, not how fast access widens.
 - **No competitor signal yet:** the brief names none. Module 2 has to find who wins these groups today, even if it's WhatsApp and a bank transfer.
-- **Segment evidence is the open risk:** the signals probably come from friend groups, not occasion groups. The occasion tag at group creation is how I'll find out.
+- **Segment evidence is the open risk:** the signals probably come from friend groups, not milestone celebrations. The occasion tag at group creation is how I'll find out.

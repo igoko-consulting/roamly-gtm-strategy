@@ -53,7 +53,7 @@ Every module should read the same way, so a reader who has seen Module 1 knows w
 - **`PROMPTS.md`:** an H2 per module (`Module N · <deliverable>`), an H3 per step (`N. <step>`), the prompt in a `text` block, then "**How the two … compared** · " with links to the replies, a GPT-6 | Claude table, and two or three verdict bullets.
 - **Evidence links:** the deliverable links to its `ai-replies/` files where a decision rests on them (the pushback, the one-pager, any visual), and `NOTES.md` links to them in its Labs section.
 - **Model order:** GPT-6 first, then Claude, everywhere: prose, tables and files. It is the order Martin runs them.
-- **Terms:** use one name per idea across modules: the multi-account pattern, the unpaid-share rule, the guest loop, occasion groups (the segment) and occasion organisers (the buyer), Expand and Acquire as the course's goal names, stage 0 to 3 for the rollout.
+- **Terms:** use one name per idea across modules: the multi-account pattern, the unpaid-share rule, the guest loop, milestone celebrations (the segment, narrowed from occasion groups in Module 2) and their organisers (the buyer), Expand and Acquire as the course's goal names, stage 0 to 3 for the rollout.
 - **Changed decisions:** when a later module changes an earlier answer, update every place it appears (deliverable, `NOTES.md`, README sentence, `PROMPTS.md` verdicts) in the same commit, after Martin approves the change.
 - **Own words versus verbatim:** everything written for Martin follows his tone rules. Prompts and model replies stay word for word, including their spelling and dashes.
 

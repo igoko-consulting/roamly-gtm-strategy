@@ -11,7 +11,7 @@
 | # | Deliverable | Module | Status | File |
 |---|---|---|---|---|
 | 1 | **GTM Strategy** (Discover Framework + motion + V1 one-pager) | M1 | ✅ | [`01-gtm-strategy/gtm-strategy.md`](01-gtm-strategy/gtm-strategy.md) |
-| 2 | **Competitive Intelligence & Strategic Bet** (battlecard) | M2 | ☐ | `02-competitive-intel/battlecard-and-bet.md` |
+| 2 | **Competitive Intelligence & Strategic Bet** (battlecard) | M2 | ✅ | [`02-competitive-intel/battlecard-and-bet.md`](02-competitive-intel/battlecard-and-bet.md) |
 | 3 | **Positioning Statement** (framework + statement) | M3 | ☐ | `03-positioning/positioning.md` |
 | 4 | **Messaging Pillars** | M4 | ☐ | `04-messaging/messaging-pillars.md` |
 | 5 | **Pricing Recommendation** | M5 | ☐ | `05-pricing/pricing-recommendation.md` |
@@ -19,7 +19,7 @@
 
 ## The strategy in one sentence
 
-Book once, everyone pays their share: Roamly Groups is for organisers of hen parties, stag dos and milestone birthdays, and the bet is Expand first, then Acquire through the guests.
+One standout experience, booked for the whole group in minutes: Roamly Groups is for organisers of milestone celebrations, and the bet is Expand first, then Acquire through the guests.
 
 ___
 
@@ -39,7 +39,8 @@ roamly-gtm-strategy/
 │   ├── NOTES.md                       ← M1 class notes and takeaways
 │   └── ai-replies/                    ← both models' replies, word for word
 ├── 02-competitive-intel/
-│   └── battlecard-and-bet.md          ← M2: competitive battlecard + bet   ★ Deliverable 2
+│   ├── battlecard-and-bet.md          ← M2: competitive battlecard + bet   ★ Deliverable 2
+│   └── ai-replies/                    ← both models' replies, word for word
 ├── 03-positioning/
 │   └── positioning.md                 ← M3: positioning framework + stmt    ★ Deliverable 3
 ├── 04-messaging/

@@ -15,7 +15,7 @@
 - **Cross-functional stakeholders:** Product, engineering, design, marketing, analytics, finance and customer support (who saw the signal first); payments, risk and legal for split payments; host operations for capacity and host terms.
 
 ### Form Your Hypothesis
-- **Most valuable segment to target first, and why:** Occasion groups (hen and stag parties, milestone birthdays): the pain is most acute, with one organiser chasing money from 6–12 people against a fixed date, and that organiser chooses and books, so pain and buying authority sit with one person.
+- **Most valuable segment to target first, and why:** Milestone celebrations (big birthdays, anniversaries, reunions), narrowed in Module 2 from occasion groups that included hen and stag parties: the pain is most acute, with one organiser chasing money from 6–12 people against a fixed date, and that organiser chooses and books, so pain and buying authority sit with one person.
 - **Core value proposition:** The organiser books one experience for the whole group, and everyone pays their own share and sees the same plan, so no one chases money or juggles accounts.
 
 ## 2. GTM motion
@@ -40,7 +40,7 @@ Both models' replies, word for word: [pressure test](ai-replies/1-pressure-test.
 |---|---|
 | **Problem** | Group demand already on Roamly fails between invite and payment. Whether money or commitment kills it is not yet known; Groups' event tracking will show which. |
 | **Goal** | Expand (primary): move existing multi-account groups onto Groups. Acquire (secondary): prove guests go on to book on their own accounts. |
-| **Audience** | Stage 1: existing users showing the multi-account pattern (3+ accounts booking the same experience and date within a short window). Segment hypothesis: occasion organisers of 6–12, checked by an occasion tag at group creation. |
+| **Audience** | Stage 1: existing users showing the multi-account pattern (3+ accounts booking the same experience and date within a short window). Segment hypothesis: organisers of milestone celebrations for 6–12, checked by an occasion tag at group creation. |
 | **Value proposition** | Book once for the whole group. Everyone pays their own share. You never chase anyone. |
 | **Motion** | PLG in V1. Community-led discovery is a gated stage-3 test. |
 
@@ -58,7 +58,7 @@ Both models' replies, word for word: [pressure test](ai-replies/1-pressure-test.
 | Lifecycle email and push | Users with the multi-account pattern in the last 12 months; abandoned group sessions | 1 |
 | Guest surfaces | Invite, payment page and shared itinerary, each with a light path to an account and a post-trip "plan your own" prompt | 1 measured, 2 optimised |
 | Customer support | Group-booking tickets routed to Groups and tagged | 1 |
-| Community seeding | Hen, wedding and birthday planning communities, using organiser stories from stages 1–2 | 3, gated |
+| Community seeding | Birthday, anniversary and reunion planning communities, using organiser stories from stages 1–2 | 3, gated |
 
 Out of V1: paid acquisition, influencers, corporate offsites and launch PR.
 
@@ -77,6 +77,6 @@ Out of V1: paid acquisition, influencers, corporate offsites and launch PR.
 - **Enablement order:** leadership (metrics and a 30-day monitoring plan), then support (unpaid-share rule, FAQs, escalation path), then host ops (host terms), then marketing last, once positioning is locked.
 - **Decision rules:** a commitment drop moves availability polling and headcount locking ahead of payment features; a money drop tunes the deadline, reminders and organiser cover; a guardrail breach pauses expansion; a flat guest loop means Groups is justified on recovered bookings alone.
 
-**Open questions:** who owns go/no-go at each gate; which cities have host capacity for stage 1; what payment deadline hosts accept; whether hen and stag seasonality distorts a 4-week read.
+**Open questions:** who owns go/no-go at each gate; which cities have host capacity for stage 1; what payment deadline hosts accept; whether seasonality distorts a 4-week read.
 
 Both models' visual versions: [GPT-6](ai-replies/3-infographic-gpt6.pdf) · [Claude](ai-replies/3-infographic-claude.pdf).
