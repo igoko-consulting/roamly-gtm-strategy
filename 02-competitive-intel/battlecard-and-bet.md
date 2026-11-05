@@ -6,7 +6,7 @@
 - **How they position themselves:** The stress-free way to plan a hen do: one booking, no chasing for money and ABTA protection, against the risk and effort of organising it yourself.
 - **Primary audience:** The person organising the hen weekend, usually the maid of honour, for a large group in the UK or Europe.
 - **Known pricing or packaging:** Packages from £59 a head (Liverpool) to £229 (HenFest), secured with a £25 deposit. Each guest pays their own share direct ([gohen.com](https://www.gohen.com/), checked 5 Nov 2026).
-- **Why they're the biggest threat:** They already sell my value proposition (everyone pays their own share, no chasing) to the most visible occasion in my segment. Funktion Leisure, which bought them out of administration in 2026 and also runs StagWeb and Funktion Events, is investing to grow them.
+- **Why they're the biggest threat:** They already sell my value proposition (everyone pays their own share, no chasing) to the most visible occasion in my Module 1 segment. Funktion Leisure, which bought them out of administration in 2026 and also runs StagWeb and Funktion Events, is investing to grow them.
 
 Both models' research, word for word, and my checks against live sources: [research](ai-replies/1-research.md).
 
