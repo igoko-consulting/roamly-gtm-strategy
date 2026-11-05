@@ -82,5 +82,5 @@ Session 1, 3 Nov 2026. Sources: Module 1 slides, class notes and Lab Guide. Outp
 ## What this means for Roamly Groups
 
 - **Tier 1:** reach grows from multi-account users to every user and their guests; the impact is a new revenue line and an acquisition loop; saying nothing leaves users on the workaround. Missed: the staged launch can look like Tier 2. The tier sets the GTM investment, not how fast access widens.
-- **No competitor signal yet:** the brief names none. Module 2 has to find who wins these groups today, even if it's WhatsApp and a bank transfer.
+- **No competitor signal yet:** the brief names none. Module 2 has to find who wins these groups today, even if it's WhatsApp and a bank transfer. Module 2 found it: GoHen for hen and stag groups, the status quo for milestone celebrations.
 - **Segment evidence is the open risk:** the signals probably come from friend groups, not milestone celebrations. The occasion tag at group creation is how I'll find out.

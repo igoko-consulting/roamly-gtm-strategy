@@ -38,7 +38,7 @@ Module 6's launch plan has no field, so a short version lives in section 5 of th
 
 # Per-module pattern
 
-1. Martin adds the module's Lab Guide PDF to the course folder, `~/Library/CloudStorage/Dropbox/Study/Product School/Go-to-Market/`.
+1. Read the module's Lab Guide from the public course site. Module 2's was `https://product-school-platform.github.io/ps-content-library/certifications/gtmc/2026.1/Modules/Module%202%20-%20Exercise%201%20Guide.html`; download it with curl, since its script holds the full prompt templates that the slides cut short. Fill them with Martin's earlier answers, word for word from the deliverables. Only if the page can't be read, ask Martin for the Lab Guide PDF in the course folder, `~/Library/CloudStorage/Dropbox/Study/Product School/Go-to-Market/`, where the slides already are.
 2. Work through the Lab Guide in order and write the deliverable.
 3. For each lab prompt: record it and the comparison in `PROMPTS.md`, and save both replies in `ai-replies/`.
 4. After class, write the module's `NOTES.md` beside the deliverable: class notes in Martin's words, bullets with bold sub-headers, each ending with a "Missed:" alternate view.
