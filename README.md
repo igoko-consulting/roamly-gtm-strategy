@@ -40,6 +40,7 @@ roamly-gtm-strategy/
 │   └── ai-replies/                    ← both models' replies, word for word
 ├── 02-competitive-intel/
 │   ├── battlecard-and-bet.md          ← M2: competitive battlecard + bet   ★ Deliverable 2
+│   ├── NOTES.md                       ← M2 class notes and takeaways
 │   └── ai-replies/                    ← both models' replies, word for word
 ├── 03-positioning/
 │   └── positioning.md                 ← M3: positioning framework + stmt    ★ Deliverable 3
