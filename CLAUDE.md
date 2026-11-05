@@ -32,7 +32,8 @@ Module 6's launch plan has no field, so a short version lives in section 5 of th
 # Two-model prompts
 
 - Running both models is how Martin works in practice: a second model is a cheap second reviewer, and the replies are kept so the rigour is visible.
-- Lab prompts go word for word to GPT-6 and to Claude (claude.ai, a fresh chat with no memory or project instructions). Follow-up prompts run in the same chat as the prompt before them.
+- Lab prompts go word for word to GPT-6 and to Claude (claude.ai), each in a chat that uses no memory or project instructions: ChatGPT's Temporary Chat and Claude's incognito chat. Follow-up prompts run in the same chat as the prompt before them.
+- Module 2 ran in new chats with memory on, and both models drew on earlier chats; PROMPTS.md notes it. Memory-off chats start from Module 3.
 - Keep every prompt, and a short comparison of the replies, in `PROMPTS.md`; keep the replies themselves in the module's `ai-replies/` folder.
 
 # Per-module pattern
