@@ -122,3 +122,32 @@ Also tell me what the status quo alternative is for a buyer who chooses none of 
 - **They agreed on what matters:** specialists already sell my value proposition to my segment, so split payment is the entry ticket, not the edge, and the status quo is where most drop-off goes.
 - **Claude's was the more useful research:** it found GoHen's rule for unpaid places, GetYourGuide's campaign aimed at the organiser, and Airbnb's new supply. GPT-6 got the ownership right and had the clearer capability table.
 - **Neither reply is context-free:** GPT-6 quoted my "Expand, Prove, Acquire" sequence and the multi-account pattern, which aren't in the prompt. Claude's mentions of Roamly's drop-off and an unset rule for unpaid shares suggest it drew on earlier chats too.
+
+### 2. Battlecard · same chat as each research reply
+
+```text
+Using the research above, generate a competitive battlecard for GoHen with the following sections and components:
+
+Know the Landscape: Competitor Overview, Key Offerings, Pricing
+Understand the Battlefield: Key Strengths, Key Weaknesses
+Win the Deal: Why You Win, Why They Win, Why You
+Handle the Hard Moments: Quick Dismiss, Landmine Questions, Objection Handling
+
+Be direct and specific. Where Roamly loses, say so honestly. Where it wins, explain why the advantage is defensible.
+```
+
+**How the two battlecards compared** · both, word for word: [2-battlecard.md](02-competitive-intel/ai-replies/2-battlecard.md)
+
+| Point | GPT-6 | Claude (a Claude Docs page) |
+|---|---|---|
+| Why they win | When the organiser wants a whole weekend, human help or flexible instalments: GoHen's strengths, framed as the buyer's choice | Whole weekend, financial protection, proven payment rules, a human planner, the category brand: framed as Roamly's gaps, "We lose these deals today" |
+| Why we win | Curated local experts, starting from one experience, discovery and payment in one flow | The same, plus guests who come back and booking one experience onto a trip already planned |
+| Landmine questions | Six, plus the best one: "If you've already solved collecting everyone's money, what's still the hardest part?" | Five, plus where not to set one: payment certainty, protection and human support |
+| Pricing | £59, £69 and £229 a head from GoHen's site; a £50 deposit | A £50 deposit from the organiser and £50 a head from guests; no package prices |
+| Open item | None | The protection and non-payer answers wait on the unpaid-share rule |
+
+**Checked against GoHen's site, 5 Nov 2026:** the organiser pays one small deposit (the homepage shows £25) and each guest pays their own within four weeks ([how payments work](https://www.gohen.com/planning-tips/how-do-payments-work.asp)). Neither model's £50 appears there, and the site doesn't say what happens to a guest who doesn't pay, so Claude's "unpaid places released" is unverified. Claude still has the old owner, Groupia, and ABTOT bonding; GoHen is now Funktion Leisure's and states ABTA.
+
+- **Claude's is the more honest card:** its "Why they win" names what Roamly lacks, which is what the lab asks for. GPT-6's reads as GoHen's sales strengths.
+- **GPT-6 adds the best single question:** "what's still the hardest part?" moves the talk off payments, the feature GoHen already has.
+- **Both missed two uncomfortable points:** whether Roamly's hosts want hen and stag groups at all, and whether Roamly's 40 cities include the towns where hen weekends happen.
