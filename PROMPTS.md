@@ -151,3 +151,39 @@ Be direct and specific. Where Roamly loses, say so honestly. Where it wins, expl
 - **Claude's is the more honest card:** its "Why they win" names what Roamly lacks, which is what the lab asks for. GPT-6's reads as GoHen's sales strengths.
 - **GPT-6 adds the best single question:** "what's still the hardest part?" moves the talk off payments, the feature GoHen already has.
 - **Both missed two uncomfortable points:** whether Roamly's hosts want hen and stag groups at all, and whether Roamly's 40 cities include the towns where hen weekends happen.
+
+### 3. Corrections · same chat as each battlecard
+
+My tweaks before the clean-up, as the Lab Guide asks: the facts the checks above corrected, the two missed points, and GPT-6's best landmine question. I chose Claude's card as the base.
+
+```text
+Before we format it, correct and add to the battlecard:
+
+- Ownership: Groupia went into administration in June 2026, and Funktion Leisure bought GoHen and StagWeb out of it. GoHen states ABTA protection, not ABTOT.
+- Pricing: GoHen's site shows packages from £59 a head (Liverpool) to £229 (HenFest). The organiser pays one small deposit (the homepage shows £25), and each guest pays their own deposit within four weeks. I can't verify a £50 deposit or what happens to a guest who doesn't pay, so don't state either as fact.
+- Why they win, add these if you agree they belong:
+  - Host fit: GoHen's suppliers are chosen for hen and stag groups. Roamly's curated hosts, such as food tours and workshops, may not want a loud group of 12, and if they opt out, the curated-experience edge disappears for this segment.
+  - City coverage: hen weekends cluster in UK party towns such as Liverpool, Newcastle, Bath and Brighton, and a few European cities. Roamly's 40 cities may not include them, and where they don't, there is no deal to win.
+- Landmine questions, add: "If you've already solved collecting everyone's money, what's still the hardest part of organising the experience?"
+
+Keep everything else as it is.
+```
+
+Neither model pushed back, so their replies aren't kept: the clean versions below include every change.
+
+### 4. Clean-up · same chat as each correction
+
+```text
+Now format the completed battlecard as a clean, structured document I can save and share. Use Markdown, clear section headers, and keep each field concise and scannable.
+```
+
+**How the two clean versions compared** · both, word for word: [4-clean-up.md](02-competitive-intel/ai-replies/4-clean-up.md)
+
+| Point | GPT-6 | Claude |
+|---|---|---|
+| Corrections | All taken, plus a new, unsourced claim that ABTOT "relates to arrangements for certain bookings made with the previous Groupia operator" | All taken, word for word; nothing else changed |
+| Host fit and city coverage | Added as reasons they win, and again as checks to run before scaling | Added as two rows, each ending in an action: confirm host opt-in; map our cities against hen destinations |
+| Scope | Grew into a rollout plan, success measures and a "CPO verdict" drawn from Module 1 | Stayed a battlecard |
+
+- **Claude edited like a careful colleague:** it changed only what I asked, and turned the two new risks into actions a team can take.
+- **GPT-6 kept adding:** a new unsourced claim, and a launch plan the battlecard didn't ask for. Its checks before scaling are still worth keeping for Lab 2.

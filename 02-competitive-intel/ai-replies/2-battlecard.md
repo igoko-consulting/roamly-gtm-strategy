@@ -2,7 +2,7 @@
 
 > The [battlecard prompt](../../PROMPTS.md#2-battlecard--same-chat-as-each-research-reply), sent word for word to GPT-6 and Claude on 5 Nov 2026, each in the same chat as its research reply. Each model's words are unchanged; headings, lists and tables are restored where copying from the chat flattened them. The comparison and what I did with it are in [PROMPTS.md](../../PROMPTS.md#2-battlecard--same-chat-as-each-research-reply).
 >
-> *[GPT-6's source links and citation markers were lost when copying and can't be recovered. Claude replied with a Claude Docs page; its text is exported unchanged, with headings moved down a level to sit under its name.]*
+> *[GPT-6's source links and citation markers were lost when copying and can't be recovered. Claude replied with a Claude Docs page; its text is exported unchanged, with headings moved down a level to sit under its name and the author tag shown as plain text.]*
 
 **Jump to:** [GPT-6](#gpt-6) · [Claude](#claude)
 
@@ -273,7 +273,7 @@ Research note: Competitor capabilities and advertised pricing are based on GoHen
 
 ### Battlecard: Roamly Groups vs GoHen
 
-Nov 5, 2026 · @Martin
+Nov 5, 2026 · Martin
 
 GoHen already sells our core promise, individual payments with no chasing, to our exact target organiser. We win on curated local experiences booked self-serve in minutes, not on split payments.
 
