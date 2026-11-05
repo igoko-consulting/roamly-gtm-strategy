@@ -144,16 +144,16 @@ I want to revisit my segment because specialists already sell my exact value pro
 ## 4. Strategic bet
 
 ### Data
-- **Who Roamly Groups is for:** _____
-- **The one thing worth choosing it for:** _____
-- **The biggest threat to that position:** _____
+- **Who Roamly Groups is for:** Organisers of milestone celebrations (big birthdays, anniversaries, reunions) booking one standout experience for 6–12 people.
+- **The one thing worth choosing it for:** One standout experience with a vetted local host, booked for the whole group in minutes, with everyone paying their own share: no quote, no package.
+- **The biggest threat to that position:** Hosts may not take groups of 6–12 on the dates groups want; if they opt out, the curated-experience edge disappears.
 
 ### Insight
-_____
+Split payment is table stakes where specialists sell to hen and stag groups, and missing where milestone groups book, on Airbnb Experiences and GetYourGuide. To take that buyer, Roamly Groups must lead with the curated experience and use per-guest payment as proof that no one gets chased, not as the headline.
 
 ### Belief
-_____
+I now believe that Roamly Groups wins when a group wants one standout experience rather than a packaged weekend, because curated local hosts and everyone paying their own share come together nowhere else.
 
 ### Bet
-- **I am betting that Roamly Groups wins by:** _____
-- **To make this bet, I am deprioritizing:** _____
+- **I am betting that Roamly Groups wins by:** Owning milestone celebrations: one standout experience with a vetted local host, booked for the whole group in minutes, with every guest paying their own share.
+- **To make this bet, I am deprioritizing:** Hen and stag weekends as a target, and anything packaged (accommodation, nightlife, a human planner), leaving that market to GoHen.
