@@ -46,7 +46,7 @@ Both models' replies, word for word: [pressure test](ai-replies/1-pressure-test.
 
 **Before launch**
 - **Unpaid-share rule (proposed V1 default):** each guest pays by a deadline set at booking; at the deadline the organiser covers unpaid shares or releases the seats; the host gets a confirmed headcount. Roamly does not underwrite unpaid shares in V1. The rule is shown to the organiser before inviting and to guests at payment. Needs payments, risk and legal sign-off.
-- **Host terms:** group cancellations and released seats, agreed with host ops.
+- **Host terms:** opt-in to groups of 6–12, group cancellations and released seats, agreed with host ops.
 - **Tracking:** every step live, from group created to booking confirmed, plus the occasion tag.
 - **Baselines:** multi-account completion rate, solo conversion and host cancellation rate captured; holdout group set.
 

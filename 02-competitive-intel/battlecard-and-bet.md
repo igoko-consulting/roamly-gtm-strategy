@@ -12,7 +12,7 @@ Both models' research, word for word, and my checks against live sources: [resea
 
 ## 2. Battlecard
 
-Claude's clean version, with two fact fixes of mine. Both models' work, word for word: [first battlecards](ai-replies/2-battlecard.md) · [clean versions](ai-replies/4-clean-up.md).
+Claude's clean version, with two fact fixes of mine; claims I couldn't verify on GoHen's site are marked. Both models' work, word for word: [first battlecards](ai-replies/2-battlecard.md) · [clean versions](ai-replies/4-clean-up.md).
 
 ### Battlecard: Roamly Groups vs GoHen
 
@@ -24,7 +24,7 @@ GoHen already sells our core promise, individual payments with no chasing, to ou
 
 - **Who:** UK-based hen party planner, trading since 2002, now owned by Funktion Leisure, which bought GoHen and StagWeb out of Groupia's administration (Groupia entered administration in June 2026; Funktion announced the sale on 29 July). Claims over 750,000 guests.
 - **Buyer:** the maid of honour or bridesmaid organising a hen weekend for a group.
-- **Coverage:** 70+ hen destinations across the UK and Europe.
+- **Coverage:** 70+ hen destinations across the UK and Europe (unverified).
 - **Model:** packaged trips (accommodation, activities, nightlife), quoted and supported by a dedicated event planner and phone team.
 - **Positioning:** one booking, everyone pays individually, no chasing. ABTA protected, so the organiser feels safe.
 
@@ -35,9 +35,9 @@ GoHen already sells our core promise, individual payments with no chasing, to ou
 | Hen packages | Accommodation, activities and nightlife bundled into itineraries |
 | Individual payments | Each guest pays their own deposit and instalments online |
 | Planning app (check status after the sale) | Itinerary on the go, tracks who has paid, sends notifications |
-| Pay for someone else | Any guest can cover the bride's share or another guest's |
+| Pay for someone else | Any guest can cover the bride's share or another guest's (unverified) |
 | Dedicated event planner | Human help by phone and WhatsApp |
-| AI hen planner | Chat-based planning assistant (new) |
+| AI hen planner | Chat-based planning assistant (new; unverified) |
 | Financial protection | ABTA protected |
 
 ##### Pricing
@@ -46,7 +46,7 @@ GoHen already sells our core promise, individual payments with no chasing, to ou
 | --- | --- | --- |
 | Booking deposit | One small deposit from the organiser (homepage shows £25) | TBC |
 | Guest deposits | Each guest pays their own deposit within four weeks (amount unverified) | TBC (set by unpaid-share rule) |
-| Final balance | Due about 6 weeks before the event, with final numbers | TBC |
+| Final balance | Due about 6 weeks before the event, with final numbers (unverified) | TBC |
 | Unpaid places | Unverified | Organiser covers or releases seats (proposed) |
 | Package price | From £59 a head (Liverpool) to £229 (HenFest) | Per-person experience price |
 
