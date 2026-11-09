@@ -209,3 +209,25 @@ Here are my six components:
 
 Using these inputs, write a sharp positioning statement of one to two sentences that leads with the core product offering and then follows with the core value proposition. Keep it specific, clear, and free of jargon.
 ```
+
+**How the two statements compared** · both, word for word: [1-generation.md](03-positioning/ai-replies/1-generation.md)
+
+| Point | GPT-6 | Claude |
+|---|---|---|
+| Who it's for | Not named: "organisers" | Named: "anyone organising a big birthday, anniversary or reunion" |
+| For a stranger | No examples | "such as a food tour or cooking class" |
+| Outcome | "a memorable experience to look forward to" | "booking something memorable in minutes, then enjoying it as a guest" |
+| Length | Two sentences, 48 words | Two sentences, 68 words |
+
+- **Claude's is my first draft:** it names the occasion and the outcome; GPT-6's could describe any experiences site.
+- **Both left out the defensible part:** neither says "vetted local host", and both put per-guest payment, the feature Airbnb could copy, in the first sentence. The pressure test checks whether that matters.
+
+### 2. Pressure test · same chat as each statement
+
+Test B, competitor discomfort, run on my first draft (Claude's statement) in both chats. The Lab Guide fills in my Module 2 competitor, GoHen; I swapped in Airbnb Experiences, because GoHen doesn't serve milestone celebrations and Airbnb is the likelier copier.
+
+```text
+Now role-play as a product leader at Airbnb Experiences. Read the following positioning statement for Roamly Groups. Could your company use this statement word for word without anyone noticing? If yes, what specifically makes it too generic? If no, what makes it ownable to Roamly specifically?
+
+Roamly Groups lets one person book a curated local experience, such as a food tour or cooking class, for up to 12 people, with each guest paying their own share and everyone seeing the same plan. For anyone organising a big birthday, anniversary or reunion, that means booking something memorable in minutes, then enjoying it as a guest instead of fronting the bill or chasing friends to pay.
+```

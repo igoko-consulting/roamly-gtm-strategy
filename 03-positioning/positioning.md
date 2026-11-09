@@ -12,10 +12,12 @@
 ## 2. Positioning statement
 
 ### First draft
-_____
+Roamly Groups lets one person book a curated local experience, such as a food tour or cooking class, for up to 12 people, with each guest paying their own share and everyone seeing the same plan. For anyone organising a big birthday, anniversary or reunion, that means booking something memorable in minutes, then enjoying it as a guest instead of fronting the bill or chasing friends to pay.
+
+Claude's statement, chosen over GPT-6's because it names the occasion and the outcome. Both, word for word: [generation](ai-replies/1-generation.md).
 
 ### Pressure test
-- **Test I ran:** _____
+- **Test I ran:** B · Competitor discomfort, against Airbnb Experiences in place of my Module 2 competitor, GoHen, which doesn't serve milestone celebrations.
 - **What it revealed:** _____
 
 ### Final statement
