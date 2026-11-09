@@ -231,3 +231,16 @@ Now role-play as a product leader at Airbnb Experiences. Read the following posi
 
 Roamly Groups lets one person book a curated local experience, such as a food tour or cooking class, for up to 12 people, with each guest paying their own share and everyone seeing the same plan. For anyone organising a big birthday, anniversary or reunion, that means booking something memorable in minutes, then enjoying it as a guest instead of fronting the bill or chasing friends to pay.
 ```
+
+**How the two pressure tests compared** · both replies, word for word: [2-pressure-test.md](03-positioning/ai-replies/2-pressure-test.md)
+
+| Point | GPT-6 | Claude |
+|---|---|---|
+| Could Airbnb use it? | "most of this word for word" | "almost word for word"; only per-guest payment gives it pause, and that goes "on our roadmap" |
+| What's ownable | One booking, per-guest payment and vetted hosts, together | Hosts who have opted in to groups, a plain promise on unpaid seats, proof from Roamly's base, and a product built for groups |
+| Its rewrite leads with | The payment mechanism | A vetted local host who welcomes groups |
+| Its caveat | Benchmark the guest-payment journey against Airbnb and GetYourGuide | Confirm host opt-in and the payment rule are true at launch |
+
+- **They agreed the draft wasn't ownable:** both flagged the category's default words, and both called per-guest payment something Airbnb could copy.
+- **Claude turned my weakness into the position:** host opt-in, my "Despite", becomes a promise Airbnb can't make across mass supply, and Module 1's stage 0 gate already requires it. GPT-6's rewrite leads with payment, the part it had just said Airbnb could build.
+- **Unverified in Claude's role-play:** that Airbnb has launched a shared itinerary, the same claim I couldn't verify in Module 2.

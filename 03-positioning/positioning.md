@@ -18,7 +18,9 @@ Claude's statement, chosen over GPT-6's because it names the occasion and the ou
 
 ### Pressure test
 - **Test I ran:** B · Competitor discomfort, against Airbnb Experiences in place of my Module 2 competitor, GoHen, which doesn't serve milestone celebrations.
-- **What it revealed:** _____
+- **What it revealed:** Airbnb could use it almost word for word: 'curated local experience', the examples and the shared plan are category defaults, and per-guest payment is a feature it could copy; only hosts who opt in to groups and a clear promise on unpaid seats are ownable.
+
+The final statement is Claude's rewrite with "booking something memorable in minutes" cut, because both models called it generic. Both replies, word for word: [pressure test](ai-replies/2-pressure-test.md).
 
 ### Final statement
-_____
+Roamly Groups lets one person book an experience with a vetted local host who welcomes groups, such as a chef's table or a private food tour, for 6–12 people, with each guest paying their own share by a set deadline. For anyone organising a big birthday, anniversary or reunion, that means enjoying the day as a guest, never covering a seat you didn't choose to.
