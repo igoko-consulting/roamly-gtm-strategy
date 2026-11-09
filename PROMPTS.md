@@ -244,3 +244,48 @@ Roamly Groups lets one person book a curated local experience, such as a food to
 - **They agreed the draft wasn't ownable:** both flagged the category's default words, and both called per-guest payment something Airbnb could copy.
 - **Claude turned my weakness into the position:** host opt-in, my "Despite", becomes a promise Airbnb can't make across mass supply, and Module 1's stage 0 gate already requires it. GPT-6's rewrite leads with payment, the part it had just said Airbnb could build.
 - **Unverified in Claude's role-play:** that Airbnb has launched a shared itinerary, the same claim I couldn't verify in Module 2.
+
+### 3. Stranger clarity · same chat as each pressure test
+
+Test C, run on the final statement in place of the blind read, which I skipped.
+
+```text
+Now role-play as someone who has never heard of Roamly or Roamly Groups. Read the following positioning statement and explain back in your own words: what is this product, who is it for, and why would someone choose it over the alternatives? Do not use any words from the statement itself.
+
+Roamly Groups lets one person book an experience with a vetted local host who welcomes groups, such as a chef's table or a private food tour, for 6–12 people, with each guest paying their own share by a set deadline. For anyone organising a big birthday, anniversary or reunion, that means enjoying the day as a guest, never covering a seat you didn't choose to.
+```
+
+**How the two strangers compared** · both replies, word for word: [3-stranger-clarity.md](03-positioning/ai-replies/3-stranger-clarity.md)
+
+| Point | GPT-6 | Claude |
+|---|---|---|
+| What it is | "A group reservation service for activities run by local professionals" | "Some sort of reservation app", run by "screened residents, happy taking on bigger parties" |
+| Who it's for | Someone arranging "a significant birthday, wedding anniversary or family gathering" | Whoever's planning "turning 40, marking years of marriage, catching up after ages apart" |
+| Why choose it | The organiser doesn't subsidise everyone; hosts take larger parties | Every invitee pays directly before a cutoff, so the organiser joins in |
+| What tripped it | What happens if someone misses the payment deadline | "Chef's table" reads two ways; the last clause is a double negative; no sign of where it works |
+
+- **The statement passes:** both strangers named the product, the person and the main benefit in their own words.
+- **Both stumbled on the same clause:** "never covering a seat you didn't choose to" hints at dropouts without saying what happens. Module 1's unpaid-share rule has the answer; the statement should say it plainly.
+
+### 4. Audience recognition · same chat as each stranger test
+
+Test A, on the final statement, to complete all three tests.
+
+```text
+Now role-play as this person: Organisers of milestone celebrations (big birthdays, anniversaries, reunions) booking one standout experience for 6–12 people. Read the following positioning statement and react honestly: do you immediately recognize yourself in it? Does it speak directly to your situation, or does it feel too broad, too vague, or pointed at someone else? Be direct.
+
+Roamly Groups lets one person book an experience with a vetted local host who welcomes groups, such as a chef's table or a private food tour, for 6–12 people, with each guest paying their own share by a set deadline. For anyone organising a big birthday, anniversary or reunion, that means enjoying the day as a guest, never covering a seat you didn't choose to.
+```
+
+**How the two organisers compared** · both replies, word for word: [4-audience-recognition.md](03-positioning/ai-replies/4-audience-recognition.md)
+
+| Point | GPT-6 | Claude |
+|---|---|---|
+| Recognises itself? | "Yes" | "Partly": playing someone organising their sister's 40th, it says the statement "reads like a product spec, not like my problem" |
+| "Enjoying the day as a guest" | Overclaims: the organiser still chooses and coordinates | "Really lands": "what I want and never get" |
+| The deadline | "What does the deadline mean in practice? … This matters enormously." | "Sounds like admin"; the double negative raises a worry it didn't have |
+| New gaps | Choice beyond two food examples | The birthday person doesn't pay; guests may need an account; anniversaries and reunions dilute it |
+
+- **The deadline came up in all four replies to tests C and A:** the statement has to say what happens to an unpaid place, in plain words.
+- **Claude's persona found what the framework missed:** the honoured guest. Birthdays and anniversaries nearly always have someone who doesn't pay, which per-guest payment doesn't cover. That's a product question before it's a message, and an input to who pays in Module 5.
+- **They disagreed on "as a guest":** GPT-6 called it an overclaim; Claude's persona called it the line that lands. A role-played persona is still the model reading my own "For" text back, so neither is evidence about real organisers.
