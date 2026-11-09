@@ -187,3 +187,25 @@ Now format the completed battlecard as a clean, structured document I can save a
 
 - **Claude edited like a careful colleague:** it changed only what I asked, and turned the two new risks into actions a team can take.
 - **GPT-6 kept adding:** a new unsourced claim, and a launch plan the battlecard didn't ask for. Its checks before scaling are still worth keeping for Lab 2.
+
+---
+
+## Module 3 · Positioning
+
+From this module, both models run in memory-off chats: ChatGPT's Temporary Chat and Claude's incognito chat.
+
+### 1. Generation
+
+```text
+I have completed a positioning framework for a new feature called Roamly Groups, a coordinated group booking feature on a curated travel experience platform.
+
+Here are my six components:
+- For: Organisers of milestone celebrations (big birthdays, anniversaries, reunions) booking one standout experience for 6–12 people.
+- Who want / need: To give everyone one experience they'll remember, without fronting the whole cost or chasing friends for their share.
+- We offer: Roamly Groups lets one person book a curated local experience, such as a food tour or a cooking class, for a group of up to 12, with each guest paying their own share and everyone seeing the same plan.
+- Because of: The organiser books something memorable in minutes and then gets to enjoy it as a guest, without fronting the cost or chasing anyone.
+- Despite: Not every Roamly host takes groups of 6–12, so the experience the organiser wants may not be bookable for their group on their date.
+- Better than: Paying on one card and chasing friends, or booking on Airbnb Experiences or GetYourGuide where one person still pays for everyone: Roamly pairs vetted local hosts with each guest paying their own share.
+
+Using these inputs, write a sharp positioning statement of one to two sentences that leads with the core product offering and then follows with the core value proposition. Keep it specific, clear, and free of jargon.
+```
