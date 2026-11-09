@@ -16,7 +16,7 @@
 
 ### Form Your Hypothesis
 - **Most valuable segment to target first, and why:** Milestone celebrations (big birthdays, anniversaries, reunions), narrowed in Module 2 from occasion groups that included hen and stag parties: the pain is most acute, with one organiser chasing money from 6–12 people against a fixed date, and that organiser chooses and books, so pain and buying authority sit with one person.
-- **Core value proposition:** The organiser books one experience for the whole group, and everyone pays their own share and sees the same plan, so no one chases money or juggles accounts.
+- **Core value proposition:** The organiser books an experience with a vetted local host who welcomes the group, then enjoys the day with everyone else, because each guest pays their own share and no one gets chased (refined in Module 3).
 
 ## 2. GTM motion
 - **Chosen motion:** PLG for V1, adding community-led discovery (CLG) as a gated test in stage 3
@@ -41,7 +41,7 @@ Both models' replies, word for word: [pressure test](ai-replies/1-pressure-test.
 | **Problem** | Group demand already on Roamly fails between invite and payment. Whether money or commitment kills it is not yet known; Groups' event tracking will show which. |
 | **Goal** | Expand (primary): move existing multi-account groups onto Groups. Acquire (secondary): prove guests go on to book on their own accounts. |
 | **Audience** | Stage 1: existing users showing the multi-account pattern (3+ accounts booking the same experience and date within a short window). Segment hypothesis: organisers of milestone celebrations for 6–12, checked by an occasion tag at group creation. |
-| **Value proposition** | Book once for the whole group. Everyone pays their own share. You never chase anyone. |
+| **Value proposition** | A local host who welcomes your group. Everyone pays their own share. You enjoy the day too. |
 | **Motion** | PLG in V1. Community-led discovery is a gated stage-3 test. |
 
 **Before launch**

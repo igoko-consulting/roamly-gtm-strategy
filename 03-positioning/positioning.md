@@ -4,10 +4,12 @@
 
 - **For (target audience):** Organisers of milestone celebrations (big birthdays, anniversaries, reunions) booking one standout experience for 6–12 people.
 - **Who want / need:** To give everyone one experience they'll remember, without fronting the whole cost or chasing friends for their share.
-- **We offer:** Roamly Groups lets one person book a curated local experience, such as a food tour or a cooking class, for a group of up to 12, with each guest paying their own share and everyone seeing the same plan.
-- **Because of (value proposition):** The organiser books something memorable in minutes and then gets to enjoy it as a guest, without fronting the cost or chasing anyone.
+- **We offer:** Roamly Groups lets one person book a curated local experience, such as a food tour or a cooking class, for a group of 6–12, with each guest paying their own share and everyone seeing the same plan.
+- **Because of (value proposition):** The organiser books something memorable in minutes and then enjoys the day with everyone else, without fronting the cost or chasing anyone.
 - **Despite (barriers):** Not every Roamly host takes groups of 6–12, so the experience the organiser wants may not be bookable for their group on their date.
-- **Better than (differentiation):** Paying on one card and chasing friends, or booking on Airbnb Experiences or GetYourGuide where one person still pays for everyone: Roamly pairs vetted local hosts with each guest paying their own share.
+- **Better than (differentiation):** Paying on one card and chasing friends, or booking on Airbnb Experiences or GetYourGuide where one person still pays for everyone: Roamly pairs vetted local hosts who have opted in to groups with each guest paying their own share.
+
+Updated after the pressure tests: "We offer", "Because of" and "Better than" now match the final statement. The [generation prompt](../PROMPTS.md#1-generation) used the first version.
 
 ## 2. Positioning statement
 
