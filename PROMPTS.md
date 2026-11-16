@@ -325,3 +325,30 @@ For each, tell me which part of the pillar it leads with and why.
 
 - **Claude's copy stays on the pillar:** it leads with the outcome where the reader isn't booking yet, and with the mechanism where they are. It also answers the unpaid-place objection in the social post, the job Module 3 handed to Module 4.
 - **GPT-6's social post overclaims:** "12,000+ vetted local hosts … plenty to discover" implies they all take groups, which my "Despite" says they don't.
+
+### 2. Visual asset · same chat as each set of copy
+
+The Lab Guide gives no prompt for this step, so I wrote one and sent it identically to both. It uses my chosen social post (Claude's), not each model's own.
+
+```text
+Turn this social post into a single standalone visual for Instagram (a 4:5 portrait image). Keep the copy as written, and make three things clear at a glance to someone who has never heard of Roamly: who it's for, what Roamly Groups does, and why they should trust it. Don't add statistics, testimonials or logos that aren't in the copy.
+
+You picked the date. You found something special. Then you spent weeks chasing eleven friends for their share.
+Roamly Groups sorts the last bit. Book one experience for 6–12 people with a vetted local host who's said yes to groups. Send everyone a link and each person pays their own share by the deadline. Anyone who hasn't paid? Your call: cover them or free up the place.
+Pick something special. Then enjoy it with everyone else.
+Hosted by locals from Roamly's 12,000+ vetted hosts.
+```
+
+**How the two visuals compared** · both, as delivered: [GPT-6 (PDF)](04-messaging/ai-replies/2-visual-asset-gpt6.pdf) · [Claude (PDF)](04-messaging/ai-replies/2-visual-asset-claude.pdf)
+
+| Point | GPT-6 | Claude |
+|---|---|---|
+| Look | A photo of friends laughing over dinner at sunset in a hilltop town | Type only: a dark panel for the pain, three icon rows for the mechanism, a yellow band for the payoff |
+| Copy | All of it, plus three new labels: "For you", "What it does", "Why trust it" | All of it, word for word, nothing added |
+| Who it's for | Named: "Big birthdays, anniversaries and reunions", in a label it wrote itself | Implied by "eleven friends" and eleven empty circles; no occasion named |
+| What it does | Shown as an experience (the dinner) and told in the copy | Told as three payment steps; no experience shown |
+| Why trust it | "A vetted local host who's happy to host groups", and the 12,000+ hosts line | A shield beside the 12,000+ hosts line |
+
+- **GPT-6's shows the experience; Claude's shows the payment.** A blind reader of Claude's could say "a bill-splitting app", the table-stakes framing Modules 2 and 3 moved away from.
+- **Claude's kept the brief; GPT-6's wrote the test onto the poster.** Its "For you / What it does / Why trust it" labels answer the blind-read questions by quoting my prompt, and the occasion line isn't in the reviewed copy.
+- **I chose Claude's:** it keeps the reviewed copy word for word. The cost is that it shows payment steps rather than the experience, which the blind read would test.

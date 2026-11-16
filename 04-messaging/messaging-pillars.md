@@ -31,3 +31,7 @@
 ### Where the copy came from
 
 All three are Claude's lines, chosen over GPT-6's because they stay on the pillar; GPT-6's social post implied every host takes groups. Both models' copy, word for word: [copy generation](ai-replies/1-copy-generation.md).
+
+## 5. Visual asset
+
+Claude's, built from the social post: [visual (PDF)](ai-replies/2-visual-asset-claude.pdf). I chose it over GPT-6's because it keeps the reviewed copy word for word; its gap is that it shows the payment steps rather than the experience. Both models' visuals: [GPT-6](ai-replies/2-visual-asset-gpt6.pdf) · [Claude](ai-replies/2-visual-asset-claude.pdf).
