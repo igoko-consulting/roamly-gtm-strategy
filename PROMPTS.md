@@ -378,3 +378,4 @@ It took three rounds to get clean reads: in the first, GPT-6's chat had context 
 - **My visual reads as a payment tool, and both readers guessed hen and stag parties,** the segment I deprioritised in Module 2. Without an occasion named, "eleven friends" reads as a hen do as easily as a birthday.
 - **The photo helps less than I expected:** GPT-6 read dining from it, but Claude called it generic stock and still asked what an experience is. The copy has to name the experience, not just the picture.
 - **No sign of a model favouring its own work:** Claude was the harsher reader of both visuals.
+- **What I changed after the blind reads:** the social post's opening now names the occasion and the experience, and the organiser pillar lists the guarantee. The visual is unchanged.
