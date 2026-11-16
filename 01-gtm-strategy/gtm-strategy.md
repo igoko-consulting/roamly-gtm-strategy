@@ -55,7 +55,7 @@ Both models' replies, word for word: [pressure test](ai-replies/1-pressure-test.
 
 | Channel | Role | Stage |
 |---|---|---|
-| In-product prompts | Convert at the point of intent: group size 3+ in search, a second account joining the same experience and date, "invite your group" at checkout | 1 |
+| In-product prompts | Convert at the point of intent: group size 6+ in search, a second account joining the same experience and date, "invite your group" at checkout | 1 |
 | Lifecycle email and push | Users with the multi-account pattern in the last 12 months; abandoned group sessions | 1 |
 | Guest surfaces | Invite, payment page and shared itinerary, each with a light path to an account and a post-trip "plan your own" prompt | 1 measured, 2 optimised |
 | Customer support | Group-booking tickets routed to Groups and tagged | 1 |

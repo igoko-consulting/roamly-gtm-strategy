@@ -320,7 +320,7 @@ For each, tell me which part of the pillar it leads with and why.
 |---|---|---|
 | In-app notification | "Planning a big birthday? …": names an occasion the in-app user may not have | "Booking for 6 or more?": capability at the moment of intent, with a trigger (group size 6+ or group checkout) |
 | Email subject line | "Your celebration, your friends, one less bill to worry about": money-led | "Book the big day, then enjoy it like everyone else", with preview text carrying the payment proof |
-| Social post | Occasions, then capabilities, then "12,000+ vetted local hosts … plenty to discover" | Pain first ("weeks chasing eleven friends"), the unpaid-place rule in the middle, hosts last |
+| Social post | Occasions, then capabilities, then "12,000+ vetted local hosts … plenty to discover" | Pain first ("weeks chasing eleven friends"), the unpaid-share rule in the middle, hosts last |
 | Evidence | Platform figures used as proof; warns that beta figures are targets | Keeps evidence out of the lead, because group proof doesn't exist yet |
 
 - **Claude's copy stays on the pillar:** it leads with the outcome where the reader isn't booking yet, and with the mechanism where they are. It also answers the unpaid-place objection in the social post, the job Module 3 handed to Module 4.
@@ -371,7 +371,7 @@ It took three rounds to get clean reads: in the first, GPT-6's chat had context 
 
 | Reader | My chosen visual (Claude's) | GPT-6's visual |
 |---|---|---|
-| GPT-6 | Who: "a birthday, hen or stag party". What: "less about discovering experiences and more about … getting everyone committed". Trust: specificity and the unpaid-place rule | Who: the occasions, from its own label. What: "the photograph suggests dining". Trust: "photography feels authentic" |
+| GPT-6 | Who: "a birthday, hen or stag party". What: "less about discovering experiences and more about … getting everyone committed". Trust: specificity and the unpaid-share rule | Who: the occasions, from its own label. What: "the photograph suggests dining". Trust: "photography feels authentic" |
 | Claude | Who: "the birthday, hen do or reunion". What: "really it's a split-payment and commitment tool". Trust: "moderate" | Who: "the birthday dinner or reunion trip". What: "group booking with split payment built in". Trust: "not much"; the labels feel "like filler" |
 
 - **All four reads got the organiser and the mechanism; trust was the weakest layer in every one.** "Vetted" is never explained, and there's no rating, review, refund or cancellation promise. The course says evidence is usually the weakest layer.
