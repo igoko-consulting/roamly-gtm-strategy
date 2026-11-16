@@ -289,3 +289,39 @@ Roamly Groups lets one person book an experience with a vetted local host who we
 - **The deadline came up in all four replies to tests C and A:** the statement has to say what happens to an unpaid place, in plain words.
 - **Claude's persona found what the framework missed:** the honoured guest. Birthdays and anniversaries nearly always have someone who doesn't pay, which per-guest payment doesn't cover. That's a product question before it's a message, and an input to who pays in Module 5.
 - **They disagreed on "as a guest":** GPT-6 called it an overclaim; Claude's persona called it the line that lands. A role-played persona is still the model reading my own "For" text back, so neither is evidence about real organisers.
+
+---
+
+## Module 4 · Messaging
+
+Both models run in memory-off chats: ChatGPT's Temporary Chat and Claude's incognito chat.
+
+### 1. Copy generation
+
+```text
+I am building messaging for Roamly Groups, a coordinated group-booking feature on a curated travel experience platform.
+
+Here is my full messaging pillar for Organisers of milestone celebrations:
+- Value prop: Pick something special for the big day and enjoy it with everyone else, without fronting the bill or chasing anyone.
+- Capabilities: One booking for 6–12 people with a vetted local host who has opted in to groups; each guest pays their own share through a link by a deadline; at the deadline, the organiser decides whether to cover or release any unpaid place; everyone sees one shared plan.
+- Evidence: Repeat booking at 3× the industry average and 12,000+ vetted hosts; group proof comes from the stage 1 beta: completion rate against the multi-account baseline and organisers' own stories (targets, not yet results).
+
+Generate one copy variation for each of these three surfaces, written entirely from the pillar above. Keep each one human, specific, and free of jargon:
+1. In-app notification
+2. Email subject line
+3. Social post
+
+For each, tell me which part of the pillar it leads with and why.
+```
+
+**How the two sets of copy compared** · both replies, word for word: [1-copy-generation.md](04-messaging/ai-replies/1-copy-generation.md)
+
+| Surface | GPT-6 | Claude |
+|---|---|---|
+| In-app notification | "Planning a big birthday? …": names an occasion the in-app user may not have | "Booking for 6 or more?": capability at the moment of intent, with a trigger (group size 6+ or group checkout) |
+| Email subject line | "Your celebration, your friends, one less bill to worry about": money-led | "Book the big day, then enjoy it like everyone else", with preview text carrying the payment proof |
+| Social post | Occasions, then capabilities, then "12,000+ vetted local hosts … plenty to discover" | Pain first ("weeks chasing eleven friends"), the unpaid-place rule in the middle, hosts last |
+| Evidence | Platform figures used as proof; warns that beta figures are targets | Keeps evidence out of the lead, because group proof doesn't exist yet |
+
+- **Claude's copy stays on the pillar:** it leads with the outcome where the reader isn't booking yet, and with the mechanism where they are. It also answers the unpaid-place objection in the social post, the job Module 3 handed to Module 4.
+- **GPT-6's social post overclaims:** "12,000+ vetted local hosts … plenty to discover" implies they all take groups, which my "Despite" says they don't.

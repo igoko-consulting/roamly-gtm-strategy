@@ -24,6 +24,10 @@
 
 ## 4. Copy across three surfaces
 
-- **Surface 1:** _____
-- **Surface 2:** _____
-- **Surface 3:** _____
+- **Surface 1:** In-app notification, shown when the group size reaches 6 or a group checkout starts: "Booking for 6 or more? Book once for the whole group. Everyone pays their own share through a link, so you don't front the bill."
+- **Surface 2:** Email subject line: "Book the big day, then enjoy it like everyone else", with the preview text "Everyone pays their own share. No fronting the bill, no chasing."
+- **Surface 3:** Social post: "You picked the date. You found something special. Then you spent weeks chasing eleven friends for their share. Roamly Groups sorts the last bit. Book one experience for 6–12 people with a vetted local host who's said yes to groups. Send everyone a link and each person pays their own share by the deadline. Anyone who hasn't paid? Your call: cover them or free up the place. Pick something special. Then enjoy it with everyone else. Hosted by locals from Roamly's 12,000+ vetted hosts."
+
+### Where the copy came from
+
+All three are Claude's lines, chosen over GPT-6's because they stay on the pillar; GPT-6's social post implied every host takes groups. Both models' copy, word for word: [copy generation](ai-replies/1-copy-generation.md).
