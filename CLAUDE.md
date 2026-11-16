@@ -48,7 +48,7 @@ Module 6's launch plan has no field, so a short version lives in section 5 of th
 
 Every module should read the same way, so a reader who has seen Module 1 knows where everything is in Module 5.
 
-- **Module folder:** the deliverable, `NOTES.md`, and `ai-replies/`. Nothing else unless the Lab Guide produces it.
+- **Module folder:** the deliverable, `NOTES.md`, and `ai-replies/`. Nothing else unless the Lab Guide produces it, such as Module 4's visual asset (`visual-asset-v2.png` and its labelled copy), which sits beside the deliverable.
 - **`ai-replies/` files:** one Markdown file per lab step, `<step>-<name>.md`, holding both replies, GPT-6 first, then Claude. Visual outputs go in as `<step>-<name>-gpt6.pdf` and `<step>-<name>-claude.pdf`. Each file opens with one line naming the prompt, the date and that the words are unchanged, then a jump line to each model. Restore tables and lists flattened by copying; where something can't be recovered, say so in an italic bracketed note rather than leaving a silent gap.
 - **`PROMPTS.md`:** an H2 per module (`Module N · <deliverable>`), an H3 per step (`N. <step>`), the prompt in a `text` block, then "**How the two … compared** · " with links to the replies, a GPT-6 | Claude table, and two or three verdict bullets.
 - **Evidence links:** the deliverable links to its `ai-replies/` files where a decision rests on them (the pushback, the one-pager, any visual), and `NOTES.md` links to them in its Labs section.

@@ -2,7 +2,7 @@
 
 > My final project for Product School's **Go-To-Market** certification. A complete go-to-market strategy for **Roamly Groups**: a new group-booking feature, built across six in-class labs, no homework required.
 
-**How to read this repo:** each module folder holds its deliverable and a `NOTES.md` with the module's ideas and my takeaways. [PROMPTS.md](PROMPTS.md) keeps every lab prompt, run word for word in GPT-6 and Claude, and how the replies differed; each module's `ai-replies/` folder holds both models' replies as evidence.
+**How to read this repo:** each module folder holds its deliverable and a `NOTES.md` with the module's ideas and my takeaways. [PROMPTS.md](PROMPTS.md) keeps every lab prompt, run word for word in GPT-6 and Claude, and how the replies differed; each module's `ai-replies/` folder holds both models' replies as evidence. [CLAUDE.md](CLAUDE.md) holds the working rules I set for Claude Code, which I used to run the labs, check facts and keep the repo consistent.
 
 ---
 
@@ -45,6 +45,7 @@ ___
 roamly-gtm-strategy/
 ├── README.md                          ← this dashboard
 ├── PROMPTS.md                         ← every lab prompt, and how GPT-6 and Claude replied
+├── CLAUDE.md                          ← my working rules for Claude Code
 ├── 01-gtm-strategy/
 │   ├── gtm-strategy.md                ← M1: Discover Framework + motion    ★ Deliverable 1
 │   ├── NOTES.md                       ← M1 class notes and takeaways
@@ -59,6 +60,8 @@ roamly-gtm-strategy/
 │   └── ai-replies/                    ← both models' replies, word for word
 ├── 04-messaging/
 │   ├── messaging-pillars.md           ← M4: messaging pillars + copy        ★ Deliverable 4
+│   ├── visual-asset-v2.png            ← M4: the Instagram ad, ready to post
+│   ├── visual-asset-v2-labelled.png   ← the same ad, with its three layers labelled
 │   ├── NOTES.md                       ← M4 class notes and takeaways
 │   └── ai-replies/                    ← both models' replies and visuals
 ├── 05-pricing/
