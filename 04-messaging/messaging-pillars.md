@@ -35,3 +35,12 @@ All three are Claude's lines, chosen over GPT-6's because they stay on the pilla
 ## 5. Visual asset
 
 Claude's, built from the social post: [visual (PDF)](ai-replies/2-visual-asset-claude.pdf). I chose it over GPT-6's because it keeps the reviewed copy word for word; its gap is that it shows the payment steps rather than the experience. Both models' visuals: [GPT-6](ai-replies/2-visual-asset-gpt6.pdf) · [Claude](ai-replies/2-visual-asset-claude.pdf).
+
+### Blind read
+
+Two cold AI reads stood in for a classmate, and each model also read GPT-6's visual for contrast ([all reads](ai-replies/3-blind-read.md)).
+
+- **Who it's for:** both readers found the organiser who ends up as the debt collector, but guessed hen and stag parties as readily as birthdays.
+- **What it does:** both got the mechanism, and both read it as "a split-payment and commitment tool"; neither could say what they'd book.
+- **What makes them trust it:** moderate at best; "vetted" isn't explained, and there's no rating, review, refund or cancellation promise.
+- **V2:** a photo of a group at a host's table in the top band, a line saying what Roamly is, the milestone occasion named in the hook, and a refund or cancellation promise as the trust line once it exists.

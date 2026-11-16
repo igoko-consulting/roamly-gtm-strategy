@@ -352,3 +352,29 @@ Hosted by locals from Roamly's 12,000+ vetted hosts.
 - **GPT-6's shows the experience; Claude's shows the payment.** A blind reader of Claude's could say "a bill-splitting app", the table-stakes framing Modules 2 and 3 moved away from.
 - **Claude's kept the brief; GPT-6's wrote the test onto the poster.** Its "For you / What it does / Why trust it" labels answer the blind-read questions by quoting my prompt, and the occasion line isn't in the reviewed copy.
 - **I chose Claude's:** it keeps the reviewed copy word for word. The cost is that it shows payment steps rather than the experience, which the blind read would test.
+
+### 3. Blind read · new memory-off chats, the image attached
+
+In place of a classmate's blind read: each model sees only my chosen visual (Claude's) and the Lab Guide's three questions, with no other context.
+
+```text
+Look at this image for about a minute, as if it had appeared in your social feed. Without any other context, answer three questions:
+1. Who is it built for?
+2. What does the product do, based on what you can see?
+3. What makes you trust it?
+Answer in your own words, and say where the image left you unsure.
+```
+
+**How the blind reads compared** · all the replies, word for word: [3-blind-read.md](04-messaging/ai-replies/3-blind-read.md)
+
+It took three rounds to get clean reads: in the first, GPT-6's chat had context and Claude's image didn't upload; in the second, GPT-6 was given its own visual. By the end, each model had read each visual cold.
+
+| Reader | My chosen visual (Claude's) | GPT-6's visual |
+|---|---|---|
+| GPT-6 | Who: "a birthday, hen or stag party". What: "less about discovering experiences and more about … getting everyone committed". Trust: specificity and the unpaid-place rule | Who: the occasions, from its own label. What: "the photograph suggests dining". Trust: "photography feels authentic" |
+| Claude | Who: "the birthday, hen do or reunion". What: "really it's a split-payment and commitment tool". Trust: "moderate" | Who: "the birthday dinner or reunion trip". What: "group booking with split payment built in". Trust: "not much"; the labels feel "like filler" |
+
+- **All four reads got the organiser and the mechanism; trust was the weakest layer in every one.** "Vetted" is never explained, and there's no rating, review, refund or cancellation promise. The course says evidence is usually the weakest layer.
+- **My visual reads as a payment tool, and both readers guessed hen and stag parties,** the segment I deprioritised in Module 2. Without an occasion named, "eleven friends" reads as a hen do as easily as a birthday.
+- **The photo helps less than I expected:** GPT-6 read dining from it, but Claude called it generic stock and still asked what an experience is. The copy has to name the experience, not just the picture.
+- **No sign of a model favouring its own work:** Claude was the harsher reader of both visuals.
