@@ -5,6 +5,13 @@ Every lab prompt I ran, word for word. Each one went to GPT-6 and Claude in new 
 - **Why two models:** it's how I work in practice. A second model is a cheap second reviewer: where both agree, the point carries more weight; where they differ, I look harder before deciding. Missed: two models reading the same prompt aren't fully independent, so agreement is a signal, not proof.
 - **Evidence:** every reply is kept word for word in each module's `ai-replies/` folder, linked under each step, so each comparison below can be checked against its source.
 
+**Contents**
+
+- [Module 1 · GTM strategy](#module-1--gtm-strategy): [1. Pressure test](#1-pressure-test) · [2. Refinement](#2-refinement--same-chat-as-each-pressure-test) · [3. Infographic](#3-infographic--same-chat-as-each-refinement)
+- [Module 2 · Battlecard and bet](#module-2--battlecard-and-bet): [1. Research](#1-research) · [2. Battlecard](#2-battlecard--same-chat-as-each-research-reply) · [3. Corrections](#3-corrections--same-chat-as-each-battlecard) · [4. Clean-up](#4-clean-up--same-chat-as-each-correction)
+- [Module 3 · Positioning](#module-3--positioning): [1. Generation](#1-generation) · [2. Pressure test](#2-pressure-test--same-chat-as-each-statement) · [3. Stranger clarity](#3-stranger-clarity--same-chat-as-each-pressure-test) · [4. Audience recognition](#4-audience-recognition--same-chat-as-each-stranger-test)
+- [Module 4 · Messaging](#module-4--messaging): [1. Copy generation](#1-copy-generation) · [2. Visual asset](#2-visual-asset--same-chat-as-each-set-of-copy) · [3. Blind read](#3-blind-read--new-memory-off-chats-the-image-attached)
+
 ---
 
 ## Module 1 · GTM strategy
