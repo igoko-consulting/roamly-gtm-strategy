@@ -78,6 +78,6 @@ Out of V1: paid acquisition, influencers, corporate offsites and launch PR.
 - **Enablement order:** leadership (metrics and a 30-day monitoring plan), then support (unpaid-share rule, FAQs, escalation path), then host ops (host terms), then marketing last, once positioning is locked.
 - **Decision rules:** a commitment drop moves availability polling and headcount locking ahead of payment features; a money drop tunes the deadline, reminders and organiser cover; a guardrail breach pauses expansion; a flat guest loop means Groups is justified on recovered bookings alone.
 
-**Open questions:** who owns go/no-go at each gate; which cities have host capacity for stage 1; what payment deadline hosts accept; whether seasonality distorts a 4-week read.
+**Open questions:** who owns go/no-go at each gate; which cities have host capacity for stage 1; what payment deadline hosts accept; whether seasonality distorts a 4-week read. Raised in Modules 3 and 4: who pays the honoured guest's share (the birthday person who doesn't pay); the minimum group size once unpaid places are released; whether guests can pay without an account; and what "vetted" means for groups.
 
 Both models' visual versions: [GPT-6](ai-replies/3-infographic-gpt6.pdf) · [Claude](ai-replies/3-infographic-claude.pdf).
