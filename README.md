@@ -30,7 +30,7 @@ Each module tested an earlier answer, and four of them changed it. Every change 
 | 1 | Primary goal from Acquire to Expand, with Acquire second, through the guests | Both models, as a sceptical CMO, pointed out that every signal came from existing users | [Pressure test](01-gtm-strategy/ai-replies/1-pressure-test.md) |
 | 2 | Segment narrowed from occasion groups (hen, stag, milestone birthdays) to milestone celebrations | The battlecard showed a specialist already sells per-guest payment to hen and stag groups; the marketplaces milestone groups use don't | [Battlecard and bet](02-competitive-intel/battlecard-and-bet.md) |
 | 3 | Positioning rebuilt around hosts who welcome groups | Playing Airbnb, both models said they could reuse the first draft; host opt-in, my "Despite" turned round, was the part they couldn't copy | [Pressure tests](03-positioning/ai-replies/2-pressure-test.md) |
-| 4 | Copy now names the occasion and the experience; the organiser pillar adds the guarantee | Cold blind reads saw a payment tool, guessed hen parties and found little to trust | [Blind reads](04-messaging/ai-replies/3-blind-read.md) |
+| 4 | Copy now names the occasion and the experience; the organiser pillar adds the guarantee; a V2 ad shows what you'd book | Cold blind reads saw a payment tool, guessed hen parties and found little to trust | [Blind reads](04-messaging/ai-replies/3-blind-read.md) |
 
 ___
 

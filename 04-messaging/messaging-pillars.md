@@ -34,13 +34,15 @@ All three are Claude's lines, chosen over GPT-6's because they stay on the pilla
 
 ## 5. Visual asset
 
-Claude's, built from the social post: [visual (PDF)](ai-replies/2-visual-asset-claude.pdf). I chose it over GPT-6's because it keeps the reviewed copy word for word; its gap is that it shows the payment steps rather than the experience. Both models' visuals: [GPT-6](ai-replies/2-visual-asset-gpt6.pdf) · [Claude](ai-replies/2-visual-asset-claude.pdf).
+**V2, the asset:** [ready to post](visual-asset-v2.png) · [with value prop, capabilities and evidence labelled](visual-asset-v2-labelled.png). I built it with Claude Code after the blind reads, from the organiser pillar's wording: a booking card shows what you'd book, a line says what Roamly is, the occasion is named, and value prop, capabilities and evidence run top to bottom.
 
-### Blind read
+**V1:** Claude's, built from the social post ([PDF](ai-replies/2-visual-asset-claude.pdf)), chosen over GPT-6's because it kept the reviewed copy word for word; the blind reads below found it showed the payment steps rather than the experience. Both models' visuals: [GPT-6](ai-replies/2-visual-asset-gpt6.pdf) · [Claude](ai-replies/2-visual-asset-claude.pdf).
+
+### Blind read of V1
 
 Two cold AI reads stood in for a classmate, and each model also read GPT-6's visual for contrast ([all reads](ai-replies/3-blind-read.md)).
 
 - **Who it's for:** both readers found the organiser who ends up as the debt collector, but guessed hen and stag parties as readily as birthdays.
 - **What it does:** both got the mechanism, and both read it as "a split-payment and commitment tool"; neither could say what they'd book.
 - **What makes them trust it:** moderate at best; "vetted" isn't explained, and there's no rating, review, refund or cancellation promise.
-- **V2:** the copy now names the occasion and the experience (section 4). The visual should follow, with a photo of a group at a host's table in the top band, a line saying what Roamly is, and a refund or cancellation promise as the trust line once it exists.
+- **V2:** the copy now names the occasion and the experience (section 4), and the V2 ad above shows the experience as a booking card, says what Roamly is and adds the guarantee. A refund or cancellation promise becomes the trust line once its terms are set.
