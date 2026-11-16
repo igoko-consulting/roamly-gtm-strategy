@@ -323,7 +323,7 @@ For each, tell me which part of the pillar it leads with and why.
 | Social post | Occasions, then capabilities, then "12,000+ vetted local hosts … plenty to discover" | Pain first ("weeks chasing eleven friends"), the unpaid-share rule in the middle, hosts last |
 | Evidence | Platform figures used as proof; warns that beta figures are targets | Keeps evidence out of the lead, because group proof doesn't exist yet |
 
-- **Claude's copy stays on the pillar:** it leads with the outcome where the reader isn't booking yet, and with the mechanism where they are. It also answers the unpaid-place objection in the social post, the job Module 3 handed to Module 4.
+- **Claude's copy stays on the pillar:** it leads with the outcome where the reader isn't booking yet, and with the mechanism where they are. It also answers the objection the unpaid-share rule settles in the social post, the job Module 3 handed to Module 4.
 - **GPT-6's social post overclaims:** "12,000+ vetted local hosts … plenty to discover" implies they all take groups, which my "Despite" says they don't.
 
 ### 2. Visual asset · same chat as each set of copy
