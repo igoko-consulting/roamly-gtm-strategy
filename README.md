@@ -23,7 +23,7 @@ A vetted local host who welcomes the group, and everyone pays their own share: R
 
 ## How the strategy changed
 
-Each module tested an earlier answer, and four of them changed it. Every change was carried back through the earlier modules in the same commit.
+Each module tested an earlier answer, and all five changed one. Every change was carried back through the earlier modules in the same commit.
 
 | Module | What changed | Why | Evidence |
 |---|---|---|---|
@@ -31,6 +31,7 @@ Each module tested an earlier answer, and four of them changed it. Every change 
 | 2 | Segment narrowed from occasion groups (hen, stag, milestone birthdays) to milestone celebrations | The battlecard showed a specialist already sells per-guest payment to hen and stag groups; the marketplaces milestone groups use don't | [Battlecard and bet](02-competitive-intel/battlecard-and-bet.md) |
 | 3 | Positioning rebuilt around hosts who welcome groups | Playing Airbnb, both models said they could reuse the first draft; host opt-in, my "Despite" turned round, was the part they couldn't copy | [Pressure tests](03-positioning/ai-replies/2-pressure-test.md) |
 | 4 | Copy now names the occasion and the experience; the organiser pillar adds the guarantee; a V2 ad shows what you'd book | Cold blind reads saw a payment tool, guessed hen parties and found little to trust | [Blind reads](04-messaging/ai-replies/3-blind-read.md) |
+| 5 | The honoured guest's share, open since Module 3, is split across the paying guests and shown up front; Private celebration waits until hosts can deliver it; the assumption is tested at the price guests actually pay | GPT-6 argued the tiers and the premium weren't earned; Claude found the split lifts each guest's price to about £80 at a £56 usual price | [Recommendation replies](05-pricing/ai-replies/1-recommendation.md) |
 
 ___
 

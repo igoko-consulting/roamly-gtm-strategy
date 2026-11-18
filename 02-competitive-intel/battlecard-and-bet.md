@@ -48,7 +48,8 @@ GoHen already sells our core promise, individual payments with no chasing, to ou
 | Guest deposits | Each guest pays their own deposit within four weeks (amount unverified) | TBC (set by unpaid-share rule) |
 | Final balance | Due about 6 weeks before the event, with final numbers (unverified) | TBC |
 | Unpaid places | Unverified | Organiser covers or releases seats (proposed) |
-| Package price | From £59 a head (Liverpool) to £229 (HenFest) | Per-person experience price |
+| Package price | From £59 a head (Liverpool) to £229 (HenFest) | Per head, set in Module 5: the host's usual price to join a session, about 25% more for a private session, about £110–£150 for a private celebration |
+| Honoured guest's place | Guests pay on her behalf; her cost can't be spread across everyone's price (unverified) | Split across the paying guests by default and shown on the invite before anyone pays; the organiser can cover it instead (Module 5) |
 
 Terms vary by itinerary and promotion, including zero-deposit offers. Check live terms before quoting them to prospects.
 
