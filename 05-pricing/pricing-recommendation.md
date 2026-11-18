@@ -42,6 +42,9 @@ Prices are rough estimates: the brief gives no Roamly prices or commission rate.
 
 - **The honoured guest** pays nothing by default. Their share is split across the paying guests and shown on the invite ("Sam's share is split across the group: £80 each"), unless the organiser covers it. Everyone else pays as section 2 sets out.
 - **The real price:** the split adds 9% a head for 12 people, 14% for 8 and 20% for 6. At a £56 usual price, an 8-person Private session costs each guest about £80, 43% above it. That £80 is the figure to test, and to show.
+- **Drop-outs before the cut-off:** the guest gets their own place back; their part of the honoured guest's share stays, so no one else pays more (8-person Private session: £70 back, £10 kept). For the private tiers the cut-off is the payment deadline, when the organiser covers or releases the place; Join a session follows Roamly's standard terms, as its seats go back on sale.
+- **After the cut-off:** no refund, but a free transfer: the new guest pays through a link and the first is refunded. The host is paid in full.
+- **Below the host's minimum at the deadline:** the organiser covers the gap, moves the group to Join a session if one runs that day, or cancels with everyone refunded. The invite shows how many paid places the minimum needs.
 
 ### Finance
 
@@ -86,4 +89,5 @@ With no sales team, sales here means host supply.
 
 - **Base:** Claude's reply, with its figures checked. GPT-6's reply, which read the three files, added the incremental-revenue rule, the package-price warning, the guarantee as a commercial priority, the interviews, and treating privacy as an attribute of the experience, tested apart from the celebration. Both models' replies, word for word: [1-recommendation.md](ai-replies/1-recommendation.md).
 - **Changed after the replies:** the honoured guest's split is shown on the invite (both models asked for it to be explicit); Private celebration waits for hosts who can deliver it, and Private session gets a host-set minimum price (GPT-6 argued against launching three tiers at all); the assumption is tested at the price each guest pays (Claude), and the result now decides the default tier. The [recommendation prompt](../PROMPTS.md#1-recommendation) used the first version of sections 2 to 4.
+- **Added after testing:** the drop-out rules, from working through each tier for a group of 8 that loses one paying guest.
 - **Not adopted:** GPT-6's single price with no tiers. The tiers stand, staged, and the test decides the default.
