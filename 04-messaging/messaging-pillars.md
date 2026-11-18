@@ -14,7 +14,7 @@
 
 ### Audience 1: Organisers of milestone celebrations
 - **Value prop:** Pick something special for the big day and enjoy it with everyone else, without fronting the bill or chasing anyone.
-- **Capabilities:** One booking for 6–12 people with a vetted local host who has opted in to groups; each guest pays their own share through a link by a deadline; at the deadline, the organiser decides whether to cover or release any unpaid place; everyone sees one shared plan; and a guarantee, shown before anyone pays, of what everyone gets back if the booking falls through.
+- **Capabilities:** One booking for 6–12 people with a vetted local host who has opted in to groups; each guest pays their own share through a link by a deadline, and the honoured guest's share is split across the group unless the organiser covers it; at the deadline, the organiser decides whether to cover or release any unpaid place; everyone sees one shared plan; and a guarantee, shown before anyone pays, of what everyone gets back if the booking falls through.
 - **Evidence:** Repeat booking at 3× the industry average and 12,000+ vetted hosts; group proof comes from the stage 1 beta: completion rate against the multi-account baseline and organisers' own stories (targets, not yet results).
 
 ### Audience 2: Guests invited to the celebration
@@ -30,7 +30,7 @@
 
 ### Where the copy came from
 
-All three are Claude's lines, chosen over GPT-6's because they stay on the pillar; GPT-6's social post implied every host takes groups. Both models' copy, word for word: [copy generation](ai-replies/1-copy-generation.md). After the blind reads, I named the occasion and the experience in the social post's opening and added the guarantee to the organiser pillar's capabilities; the generation prompt and the visual used the first versions.
+All three are Claude's lines, chosen over GPT-6's because they stay on the pillar; GPT-6's social post implied every host takes groups. Both models' copy, word for word: [copy generation](ai-replies/1-copy-generation.md). After the blind reads, I named the occasion and the experience in the social post's opening and added the guarantee to the organiser pillar's capabilities, then, after Module 5, the honoured guest's split; the generation prompt and the visual used the first versions.
 
 ## 5. Visual asset
 

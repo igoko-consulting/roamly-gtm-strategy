@@ -29,4 +29,4 @@ Roamly Groups books your whole group, 6–12 people, into an experience with a v
 
 ### Further tests
 - **C · Stranger clarity:** both models, as strangers, named the product, the person and the benefit in their own words; both stumbled on the earlier closing clause, a double negative about unpaid seats.
-- **A · Audience recognition:** GPT-6 recognised itself; Claude's persona only partly, and found the honoured guest: the birthday person who doesn't pay, which per-guest payment doesn't yet cover.
+- **A · Audience recognition:** GPT-6 recognised itself; Claude's persona only partly, and found the honoured guest: the birthday person who doesn't pay, which per-guest payment doesn't yet cover (settled in Module 5: split across the paying guests by default).
