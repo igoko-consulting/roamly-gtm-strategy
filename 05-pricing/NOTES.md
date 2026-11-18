@@ -1,0 +1,41 @@
+# Module 5 notes: Price and Package from Willingness to Pay
+
+Session 5, 18 Nov 2026. Sources: Module 5 slides and Lab Guide. Output: [pricing-recommendation.md](pricing-recommendation.md).
+
+## The big idea
+
+- **Pricing is the decision you can't quietly undo:** it's the first signal of what a product thinks it's worth, it places the product in a competitive set, and it moves revenue faster than any launch. monday.com raised prices by first listing everything it had added since the last rise; Adobe bundled AI features nobody asked for into a price rise and lost trust. Missed: Roamly Groups has no price to raise, but the honoured guest's split works the same way. A guest who meets a higher share at the payment link feels it as a hidden increase.
+- **Pricing and packaging are separate levers:** pricing is the number, packaging is what it buys, and changing one changes how the other reads. Missed: my tiers set the packaging (shared, private, celebration), but hosts set the number, so Roamly holds only half of the lever.
+- **Four functions share the call:** product brings perceived value, finance the margin, sales leadership what closes, and product marketing the story, until a company hires a pricing specialist, often around $50M ARR. Missed: Roamly Groups has no sales team, so Claude read Sales Leadership as host supply, the right reading for a marketplace.
+
+## Researching value
+
+- **Willingness to pay versus elasticity:** willingness to pay is one customer's ceiling; elasticity is how demand across all customers moves as the price moves. The right price depends on whether the goal is revenue, share or acquisition. Missed: in a group, willingness to pay isn't one person's. The organiser chooses, each guest pays, and the honoured guest's split changes what each guest pays.
+- **Three methods, each for a different question:** Van Westendorp maps a starting price range, Max-Diff ranks which features lead and what goes in each tier, and Conjoint shows how customers trade price against features. A PM commissions them and recruits respondents who match the ICP. Missed: GPT-6 argued for behaviour first, interviews and then live price tests in the beta, which is cheaper for a product with real bookings to watch.
+- **The pricing playbook:** launch strategies (penetration, skimming, loss leader), revenue optimisation (dynamic pricing, price discrimination) and positioning (value-based, premium, economy, competitive), usually combined. Missed: Roamly Groups combines value-based pricing, the private premium, with giving the coordination away and earning on the seats it fills, closer to a loss leader than to a feature fee.
+- **AI changes the cost of giving value away:** every use costs compute, so value gates move from features to usage, outcomes become a pricing unit, and free tiers need a harder trade-off. Missed: none of this touches Roamly Groups directly. Its marginal costs are payments, support and host time, not compute.
+- **ElevenLabs pricing page:** who it's for, what the strategy is, and whether it would convert you cold. Missed: the same three questions are a quick check on my own tier table. Would an organiser know which tier is theirs without reading the descriptions?
+
+## Building the recommendation
+
+- **The model follows how value arrives:** continuous value points to a subscription, consumption to usage-based, an event to a transaction. Watch the default to subscription. Missed: a group booking is an event, so transaction-based was the easy call; the hard one was who pays.
+- **Packaging structures:** by features, accounts, products or usage limits. Good-Better-Best turns "do I buy?" into "which one?", routes most people to the middle, and stops at four tiers before choice overload. Missed: my tiers are packaged by experience, nearest to features, and GPT-6 questioned whether three were earned before the first group booking.
+- **The order: value, then packaging, then stakeholders:** start with how the customer experiences value, match packaging to the audiences, then test it with each function. Missed: the stakeholder step found what the first two missed, that the price each guest pays isn't the tier price.
+- **A pricing change is a launch:** localise beyond currency, protect existing customers with grandfathering, default to annual billing, explain the first rise before it lands, and set the monitoring dashboard and rollback threshold before roll-out. Missed: for Roamly Groups, localisation matters most. Roamly runs in 40 cities on four continents, and my figures are in pounds.
+
+## Labs
+
+- **Answers and recommendation:** both are in the deliverable. The prompt and comparison: [PROMPTS.md](../PROMPTS.md#1-recommendation); all three replies, word for word: [ai-replies/1-recommendation.md](ai-replies/1-recommendation.md).
+- **Decision, goal: grow revenue from a known audience,** matching Expand in Module 1. Missed: milestone celebrations are new territory for Roamly, so "enter a new market" was a fair reading too.
+- **Decision, model: transaction-based, with no Groups fee.** Each guest pays their own share, the organiser pays their own place and any unpaid place they cover, and hosts pay the standard commission. Missed: the brief gives no commission rate, so Finance can't size the revenue until the beta.
+- **Decision, tiers: Join a session, Private session ★ and Private celebration,** staged so stage 1 launches the first two, with a minimum price the host sets for private sessions. Missed: privacy is an attribute, not a tier, as GPT-6 said, and Airbnb already sells private groups with a minimum price, so privacy can't be Roamly's edge.
+- **Decision, assumption: the private premium, tested at the price each guest pays,** about £80 against a £56 usual price for a group of 8. If fewer than half of organisers choose Private session at that price, Join a session becomes the default. Missed: if guests won't pay it, Groups still earns the standard commission on recovered bookings. The revenue lever fails, not the case for Groups.
+- **Insight, the honoured guest's split is a price change:** Claude worked out that splitting one guest's share adds 9% a head for a group of 12 and 20% for a group of 6, so group size sets the real price as much as the tier does. Missed: neither model asked whether guests mind paying for the honoured guest at all. GPT-6's interviews are where to find out.
+- **What AI cracked open:** GPT-6's first run never saw the files and pulled older work from my ChatGPT Library, the same leak as Module 4's blind reads. The rerun read the files but knew its first answer, and argued against it. Missed: a model that knows its earlier answer tends to change something, so its case against the tiers may be partly that. It's one reason I staged the tiers rather than dropping them.
+
+## What this means for Roamly Groups
+
+- **The no-fee model rests on the unpaid-share rule:** Roamly takes no new payment risk only because the organiser covers or releases unpaid places. Missed: the rule is still a proposal until payments, risk and legal sign it off at stage 0.
+- **Host supply is the pricing constraint:** a private premium needs hosts who will run private sessions for groups of 6–12, at a minimum price they set. Missed: host fit was Module 2's biggest open risk; Module 5 makes it a revenue risk as well.
+- **Show the real share everywhere:** the invite, the payment link and Module 4's guest pillar now all show each guest's share after the honoured guest's split. Missed: the guest copy for each surface hasn't been written yet; only the organiser got copy in Module 4.
+- **Still open:** when the organiser is charged, what happens if fewer than six pay, whether guests can pay without an account, and the commission rate. Missed: these are the questions Module 6's launch plan has to close at stage 0.
