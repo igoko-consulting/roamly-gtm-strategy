@@ -19,7 +19,7 @@
 
 ### Audience 2: Guests invited to the celebration
 - **Value prop:** Say yes, pay your share in a minute and just turn up, with no bank details to swap or IOUs to remember.
-- **Capabilities:** A personal invite link showing the plan, the host and your share; pay by card before the deadline; the shared plan on your phone; a light path to your own Roamly account afterwards.
+- **Capabilities:** A personal invite link showing the plan, the host and your share, including any split of the honoured guest's place; pay by card before the deadline; the shared plan on your phone; a light path to your own Roamly account afterwards.
 - **Evidence:** The same vetted hosts; the guest-to-own-booking rate from the beta (a target, not yet a result).
 
 ## 4. Copy across three surfaces

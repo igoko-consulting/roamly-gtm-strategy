@@ -31,7 +31,7 @@ Each module tested an earlier answer, and all five changed one. Every change was
 | 2 | Segment narrowed from occasion groups (hen, stag, milestone birthdays) to milestone celebrations | The battlecard showed a specialist already sells per-guest payment to hen and stag groups; the marketplaces milestone groups use don't | [Battlecard and bet](02-competitive-intel/battlecard-and-bet.md) |
 | 3 | Positioning rebuilt around hosts who welcome groups | Playing Airbnb, both models said they could reuse the first draft; host opt-in, my "Despite" turned round, was the part they couldn't copy | [Pressure tests](03-positioning/ai-replies/2-pressure-test.md) |
 | 4 | Copy now names the occasion and the experience; the organiser pillar adds the guarantee; a V2 ad shows what you'd book | Cold blind reads saw a payment tool, guessed hen parties and found little to trust | [Blind reads](04-messaging/ai-replies/3-blind-read.md) |
-| 5 | The honoured guest's share, open since Module 3, is split across the paying guests and shown up front; Private celebration waits until hosts can deliver it; the assumption is tested at the price guests actually pay | GPT-6 argued the tiers and the premium weren't earned; Claude found the split lifts each guest's price to about £80 at a £56 usual price | [Recommendation replies](05-pricing/ai-replies/1-recommendation.md) |
+| 5 | The honoured guest's share, open since Module 3, is split across the paying guests and shown up front; Private celebration waits until hosts can deliver it, and Private session gets a host-set minimum price; the assumption is tested at the price guests actually pay, and decides the default tier | GPT-6 argued the tiers and the premium weren't earned; Claude found the split lifts each guest's price to about £80 at a £56 usual price | [Recommendation replies](05-pricing/ai-replies/1-recommendation.md) |
 
 ___
 
@@ -67,6 +67,7 @@ roamly-gtm-strategy/
 │   └── ai-replies/                    ← both models' replies and visuals
 ├── 05-pricing/
 │   ├── pricing-recommendation.md      ← M5: pricing model + recommendation  ★ Deliverable 5
+│   ├── NOTES.md                       ← M5 class notes and takeaways
 │   └── ai-replies/                    ← both models' replies, word for word
 └── final-presentation.html            ← M6: your final presentation         ★ Deliverable 6
 ```

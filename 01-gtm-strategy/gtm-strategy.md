@@ -43,6 +43,7 @@ Both models' replies, word for word: [pressure test](ai-replies/1-pressure-test.
 | **Audience** | Stage 1: existing users showing the multi-account pattern (3+ accounts booking the same experience and date within a short window). Segment hypothesis: organisers of milestone celebrations for 6–12, checked by an occasion tag at group creation. |
 | **Value proposition** | A local host who welcomes your group. Everyone pays their own share. You enjoy the day too. |
 | **Motion** | PLG in V1. Community-led discovery is a gated stage-3 test. |
+| **Pricing** | No Groups fee: Roamly's standard commission on every seat, and each guest pays their own share. Stage 1 offers Join a session and Private session (Module 5). |
 
 **Before launch**
 - **Unpaid-share rule (proposed V1 default):** each guest pays by a deadline set at booking; at the deadline the organiser covers unpaid shares or releases the seats; the host gets a confirmed headcount. Roamly does not underwrite unpaid shares in V1. The rule is shown to the organiser before inviting and to guests at payment. Needs payments, risk and legal sign-off.
