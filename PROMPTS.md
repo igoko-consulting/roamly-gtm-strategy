@@ -412,7 +412,7 @@ Write a one-page pricing recommendation for Finance, Sales Leadership and Produc
 
 **How the two recommendations compared** · all three replies, word for word: [1-recommendation.md](05-pricing/ai-replies/1-recommendation.md)
 
-GPT-6 took two runs. The first couldn't find the three files and drew on older work in my ChatGPT Library, so it brought back hen and stag. The second read the files, but it also knew the first ("the previous recommendation"), so it wasn't fully cold.
+GPT-6 took two runs. The first couldn't find the three files and drew on older work in my ChatGPT Library, so it brought back hen and stag. The second read the files, but it also knew the first ("the previous recommendation"), so it wasn't fully cold. After the lab I renamed Join a session to Shared session; the prompt and replies keep the old name.
 
 | Point | GPT-6 (rerun, with the files) | Claude |
 |---|---|---|
@@ -424,6 +424,6 @@ GPT-6 took two runs. The first couldn't find the three files and drew on older w
 | Finance | Count only incremental bookings; contribution margin | A revenue formula and illustrative value per booking: £448, £560, £1,040 |
 | Research method | Behavioural first: interviews, then live price tests; Conjoint later | Choice-based Conjoint, confirmed by beta take-up |
 
-- **Claude's became the one-pager:** it works from my plan, its figures check out, and its £80 finding changed my assumption. Its one slip: "our £55–£150 range fits the category" leaves out Join a session at £40, and compares experiences with GoHen's packages.
+- **Claude's became the one-pager:** it works from my plan, its figures check out, and its £80 finding changed my assumption. Its one slip: "our £55–£150 range fits the category" leaves out Shared session at £40, and compares experiences with GoHen's packages.
 - **GPT-6's was the stronger challenge:** it questioned whether the tiers and the premium were earned at all. I kept the tiers but staged them, gave Private session a minimum price the host sets, made the test decide the default tier, and took its incremental-revenue rule, the package-price warning, the guarantee as a commercial priority and its interviews before the Conjoint.
 - **Both ended on Conjoint, and both wanted the honoured guest's split made explicit.** Missed: Claude cited Airbnb's private groups for host controls but didn't draw the conclusion. Airbnb already sells privacy, so privacy isn't Roamly's edge; per-guest payment and hosts who welcome groups are.

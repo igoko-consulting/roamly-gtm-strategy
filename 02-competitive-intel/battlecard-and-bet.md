@@ -49,7 +49,7 @@ GoHen already sells our core promise, individual payments with no chasing, to ou
 | Final balance | Due about 6 weeks before the event, with final numbers (unverified) | None: the full share is due by the deadline, when unpaid places are covered or released |
 | Unpaid places | Unverified | Organiser covers or releases seats (proposed) |
 | Guest drops out after paying | Unverified | Before the cut-off, their own place is refunded and their part of the honoured guest's share stays; after it, no refund, but they can transfer the place (Module 5) |
-| Package price | From £59 a head (Liverpool) to £229 (HenFest) | Per head, set in Module 5: the host's usual price to join a session, about 25% more for a private session, about £110–£150 for a private celebration |
+| Package price | From £59 a head (Liverpool) to £229 (HenFest) | Per head, set in Module 5: the host's usual price for a Shared session, about 25% more for a private session, about £110–£150 for a private celebration |
 | Honoured guest's place | Guests pay on her behalf; her cost can't be spread across everyone's price (unverified) | Split across the paying guests by default and shown on the invite before anyone pays; the organiser can cover it instead (Module 5) |
 
 Terms vary by itinerary and promotion, including zero-deposit offers. Check live terms before quoting them to prospects.
@@ -133,7 +133,7 @@ Ask these to surface where GoHen is a weak fit, without attacking them:
 | "GoHen already lets everyone pay individually." | "True, and so do we. The difference is what you're booking: a vetted local host's experience, self-serve in minutes, not a quoted package." |
 | "GoHen is ABTA protected. Are you?" | Answer honestly with Roamly's actual payment and cancellation protection. Never imply protection we don't have. If the gap matters to the organiser, this is a GoHen deal. |
 | "What if someone doesn't pay?" | "Every guest has a deadline to pay their share. At the deadline, you choose: cover the gap or release the seat. The host gets confirmed numbers either way." |
-| "What if someone drops out after paying?" | "Before the cut-off, they get their place back, and no one else's price changes. After it, they can pass their place to someone else. If a private session falls below the host's minimum, you choose: cover the gap, switch to a shared session or cancel with everyone refunded." |
+| "What if someone drops out after paying?" | "Before the cut-off, they get their place back, and no one else's price changes. After it, they can pass their place to someone else. If a private session falls below the host's minimum, you choose: cover the gap, switch to a Shared session or cancel with everyone refunded." |
 | "I want accommodation, activities and nightlife in one place." | "Then a package planner may suit you better for the weekend. Book Roamly for the one experience that makes it special." Don't overreach. |
 | "I'd rather talk to a person." | Point to Roamly support for group bookings. If the organiser needs a dedicated planner, concede it. |
 | "Their deposits are smaller." | Compare like for like: the total cost per guest, and what's included. Lead with value per head, not the deposit. |
