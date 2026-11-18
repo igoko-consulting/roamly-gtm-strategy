@@ -11,6 +11,7 @@ Every lab prompt I ran, word for word. Each one went to GPT-6 and Claude in new 
 - [Module 2 · Battlecard and bet](#module-2--battlecard-and-bet): [1. Research](#1-research) · [2. Battlecard](#2-battlecard--same-chat-as-each-research-reply) · [3. Corrections](#3-corrections--same-chat-as-each-battlecard) · [4. Clean-up](#4-clean-up--same-chat-as-each-correction)
 - [Module 3 · Positioning](#module-3--positioning): [1. Generation](#1-generation) · [2. Pressure test](#2-pressure-test--same-chat-as-each-statement) · [3. Stranger clarity](#3-stranger-clarity--same-chat-as-each-pressure-test) · [4. Audience recognition](#4-audience-recognition--same-chat-as-each-stranger-test)
 - [Module 4 · Messaging](#module-4--messaging): [1. Copy generation](#1-copy-generation) · [2. Visual asset](#2-visual-asset--same-chat-as-each-set-of-copy) · [3. Blind read](#3-blind-read--new-memory-off-chats-the-image-attached)
+- [Module 5 · Pricing recommendation](#module-5--pricing-recommendation): [1. Recommendation](#1-recommendation)
 
 ---
 
@@ -386,3 +387,43 @@ It took three rounds to get clean reads: in the first, GPT-6's chat had context 
 - **The photo helps less than I expected:** GPT-6 read dining from it, but Claude called it generic stock and still asked what an experience is. The copy has to name the experience, not just the picture.
 - **No sign of a model favouring its own work:** Claude was the harsher reader of both visuals.
 - **What I changed after the blind reads:** the social post's opening now names the occasion and the experience, and the organiser pillar lists the guarantee. The visual is unchanged.
+
+---
+
+## Module 5 · Pricing recommendation
+
+Both models run in memory-off chats, ChatGPT's Temporary Chat and Claude's incognito chat, with `battlecard-and-bet.md`, `positioning.md` and `messaging-pillars.md` attached, as the Lab Guide asks.
+
+### 1. Recommendation
+
+```text
+You are a senior product manager preparing a pricing recommendation for Roamly Groups, a coordinated group-booking feature on a curated travel experience platform. It has no price yet.
+
+My pricing plan:
+- Pricing goal: Grow revenue from a known audience: existing users who already book in groups across separate accounts and drop off before paying, matching my Module 1 goal (Expand) and my Module 2 bet on milestone celebrations.
+- Pricing model: Transaction-based: Roamly earns its standard commission on every seat in a group booking, with no separate fee for using Groups. Who pays, and for what: Each guest pays their own share of the per-person price through a link; the organiser pays only their own place and any unpaid place they choose to cover; the honoured guest's share is split across the paying guests by default; hosts pay the standard commission on more seats.
+- Tiers: Good: Join a session, for groups of 6–12 happy to share a host's scheduled session, at the host's usual price (about £40–£70 a head); Better ★: Private session, for milestone celebrations of 6–12 who want the host to themselves, about 25% above the usual price (about £55–£90 a head); Best: Private celebration, a private session built around the occasion (a toast, photos, a menu or route the group chooses) plus one free date change, for the biggest milestones (about £110–£150 a head).
+- The assumption I'd test before launch: Guests at a milestone celebration will pay about 25% more a head for a private session, so most organisers choose Private session over joining a scheduled one.
+
+My earlier work is attached: battlecard-and-bet.md (my strategic bet), positioning.md (my positioning statement) and messaging-pillars.md (my audiences). Use them.
+
+Write a one-page pricing recommendation for Finance, Sales Leadership and Product Marketing. Use clear section headers, and for each stakeholder name what they most need to hear. Keep it concise and scannable. End with which research method would best test my assumption: Van Westendorp, Max-Diff or Conjoint.
+```
+
+**How the two recommendations compared** · all three replies, word for word: [1-recommendation.md](05-pricing/ai-replies/1-recommendation.md)
+
+GPT-6 took two runs. The first couldn't find the three files and drew on older work in my ChatGPT Library, so it brought back hen and stag. The second read the files, but it also knew the first ("the previous recommendation"), so it wasn't fully cold.
+
+| Point | GPT-6 (rerun, with the files) | Claude |
+|---|---|---|
+| Fee and model | No Groups fee; standard commission on paid seats | Same |
+| Tiers | Against launching three tiers: one proposition at the host's usual price, private only where hosts already offer it | Kept all three: Private session as the default, Private celebration as the anchor |
+| The 25% premium | "No evidence yet that privacy drives willingness to pay" | Kept, and showed the honoured guest's split lifts each guest's price to about £80 at a £56 usual price, 43% more |
+| Honoured guest | Make it explicit; don't assume a free place is covered | Split by default, with each guest's real share shown before they pay |
+| Sales Leadership | Sell the experience, not the payment feature; check host inventory | Recast as host supply, since there's no sales team: the host pitch and a minimum price for private sessions |
+| Finance | Count only incremental bookings; contribution margin | A revenue formula and illustrative value per booking: £448, £560, £1,040 |
+| Research method | Behavioural first: interviews, then live price tests; Conjoint later | Choice-based Conjoint, confirmed by beta take-up |
+
+- **Claude's became the one-pager:** it works from my plan, its figures check out, and its £80 finding changed my assumption. Its one slip: "our £55–£150 range fits the category" leaves out Join a session at £40, and compares experiences with GoHen's packages.
+- **GPT-6's was the stronger challenge:** it questioned whether the tiers and the premium were earned at all. I kept the tiers but staged them, and took its incremental-revenue rule, the package-price warning, the guarantee as a commercial priority and its interviews before the Conjoint.
+- **Both ended on Conjoint, and both wanted the honoured guest's split made explicit.** Missed: Claude cited Airbnb's private groups for host controls but didn't draw the conclusion. Airbnb already sells privacy, so privacy isn't Roamly's edge; per-guest payment and hosts who welcome groups are.
