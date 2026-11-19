@@ -7,7 +7,7 @@
 ## 2. Pricing model
 
 - **Model:** Transaction-based: Roamly earns its standard commission on every seat in a group booking, with no separate fee for using Groups.
-- **Who pays, and for what:** Each guest pays their own share of the per-person price through a link; the organiser pays only their own place and any unpaid place they choose to cover; the honoured guest's share is split across the paying guests by default and shown on the invite before anyone pays, unless the organiser covers it; hosts pay the standard commission on more seats.
+- **Who pays, and for what:** Each guest pays for their own place through a link; the organiser pays only for their own place and any unpaid place they choose to cover; the honoured guest's share is split across the paying guests by default and shown on the invite before anyone pays, unless the organiser covers it; hosts pay the standard commission on more seats.
 
 ## 3. Packaging
 

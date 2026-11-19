@@ -47,7 +47,7 @@ GoHen already sells our core promise, individual payments with no chasing, to ou
 | Booking deposit | One small deposit from the organiser (homepage shows £25) | TBC: when the organiser is charged is still an open question |
 | Guest deposits | Each guest pays their own deposit within four weeks (amount unverified) | None: each guest pays their full share through a link by the deadline set at booking (Module 5) |
 | Final balance | Due about 6 weeks before the event, with final numbers (unverified) | None: the full share is due by the deadline, when unpaid places are covered or released |
-| Unpaid places | Unverified | Organiser covers or releases seats (proposed) |
+| Unpaid places | Unverified | Organiser covers or releases places (proposed) |
 | Guest drops out after paying | Unverified | Before the cut-off, their own place is refunded and their part of the honoured guest's share stays; after it, no refund, but they can transfer the place (Module 5) |
 | Package price | From £59 a head (Liverpool) to £229 (HenFest) | Per head, set in Module 5: the host's usual price for a Shared session, about 25% more for a private session, about £110–£150 for a private celebration |
 | Honoured guest's place | Guests pay on her behalf; her cost can't be spread across everyone's price (unverified) | Split across the paying guests by default and shown on the invite before anyone pays; the organiser can cover it instead (Module 5) |
@@ -73,7 +73,7 @@ Terms vary by itinerary and promotion, including zero-deposit offers. Check live
 - **Hen and stag only.** Little fit for milestone birthdays, mixed-gender groups or a single experience rather than a weekend.
 - **Package lock-in.** The value is in the bundle. An organiser who already has accommodation, or wants one great experience, gets less from them.
 - **No life beyond the event.** Guests have little reason to return once the hen is over. Their model is episodic.
-- **Payment rules can feel rigid.** For example, the bride's cost can't be spread across everyone's price. Guests have to pay on her behalf.
+- **Payment rules can feel rigid.** For example, the bride's cost can't be spread across everyone's price (unverified). Guests have to pay on her behalf.
 
 *Assessment note:* the weaknesses are our reading of their model from public pages, not verified customer complaints. Validate them in win/loss interviews.
 
@@ -84,7 +84,7 @@ Terms vary by itinerary and promotion, including zero-deposit offers. Check live
 | Where we win | Why it's defensible |
 | --- | --- |
 | **Distinctive local experiences** from vetted hosts in 40 cities | The moat is supply. Recruiting and vetting local experts city by city takes years and is costly for a package aggregator to replicate. |
-| **Self-serve in minutes**, no quote or phone call | Product-led flow on a platform users already trust (repeat rate 3x industry). Defensible only while we keep speed and reliability ahead. |
+| **Self-serve in minutes**, no quote or phone call | Product-led flow on a platform users already trust (repeat rate 3× industry). Defensible only while we keep speed and reliability ahead. |
 | **Occasions beyond hen and stag**: milestone birthdays, mixed groups, a single experience | Our catalogue isn't party-specific, so the segment is wider than theirs by design. |
 | **Guests become customers** | Every guest already sees Roamly and can book their own trip later. GoHen's audience leaves after the event. Compounds only if the guest loop is proven. |
 | **Bolt-on to a trip already booked** | The organiser keeps their own accommodation and adds one great experience. GoHen's model needs the bundle. |
@@ -105,7 +105,7 @@ Be honest about these. We lose these deals today.
 
 ##### Why you
 
-**For organisers who want a group experience worth remembering, not a party package:** Roamly lets you book one standout experience with a vetted local host for the whole group in minutes. Everyone pays their own share and sees the same plan, so you never chase money. If someone doesn't pay by the deadline, you decide whether to cover their seat or release it.
+**For organisers who want a group experience worth remembering, not a party package:** Roamly lets you book one standout experience with a vetted local host for the whole group in minutes. Everyone pays their own share and sees the same plan, so you never chase money. If someone doesn't pay by the deadline, you decide whether to cover their place or release it.
 
 #### Handle the hard moments
 
@@ -132,7 +132,7 @@ Ask these to surface where GoHen is a weak fit, without attacking them:
 | --- | --- |
 | "GoHen already lets everyone pay individually." | "True, and so do we. The difference is what you're booking: a vetted local host's experience, self-serve in minutes, not a quoted package." |
 | "GoHen is ABTA protected. Are you?" | Answer honestly with Roamly's actual payment and cancellation protection. Never imply protection we don't have. If the gap matters to the organiser, this is a GoHen deal. |
-| "What if someone doesn't pay?" | "Every guest has a deadline to pay their share. At the deadline, you choose: cover the gap or release the seat. The host gets confirmed numbers either way." |
+| "What if someone doesn't pay?" | "Every guest has a deadline to pay their share. At the deadline, you choose: cover the gap or release the place. The host gets confirmed numbers either way." |
 | "What if someone drops out after paying?" | "Before the cut-off, they get their place back, and no one else's price changes. After it, they can pass their place to someone else. If a private session falls below the host's minimum, you choose: cover the gap, switch to a Shared session or cancel with everyone refunded." |
 | "I want accommodation, activities and nightlife in one place." | "Then a package planner may suit you better for the weekend. Book Roamly for the one experience that makes it special." Don't overreach. |
 | "I'd rather talk to a person." | Point to Roamly support for group bookings. If the organiser needs a dedicated planner, concede it. |

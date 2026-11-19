@@ -19,7 +19,7 @@
 
 ### Audience 2: Guests invited to the celebration
 - **Value prop:** Say yes, pay your share in a minute and just turn up, with no bank details to swap or IOUs to remember.
-- **Capabilities:** A personal invite link showing the plan, the host and your share, including any split of the honoured guest's place; pay by card before the deadline; the shared plan on your phone; a light path to your own Roamly account afterwards.
+- **Capabilities:** A personal invite link showing the plan, the host and your share, including any split of the honoured guest's place; pay by card before the deadline; your place back if you drop out before the cut-off, or a free transfer after it; the shared plan on your phone; a light path to your own Roamly account afterwards.
 - **Evidence:** The same vetted hosts; the guest-to-own-booking rate from the beta (a target, not yet a result).
 
 ## 4. Copy across three surfaces
@@ -30,7 +30,7 @@
 
 ### Where the copy came from
 
-All three are Claude's lines, chosen over GPT-6's because they stay on the pillar; GPT-6's social post implied every host takes groups. Both models' copy, word for word: [copy generation](ai-replies/1-copy-generation.md). After the blind reads, I named the occasion and the experience in the social post's opening and added the guarantee to the organiser pillar's capabilities, then, after Module 5, the honoured guest's split; the generation prompt and the visual used the first versions.
+All three are Claude's lines, chosen over GPT-6's because they stay on the pillar; GPT-6's social post implied every host takes groups. Both models' copy, word for word: [copy generation](ai-replies/1-copy-generation.md). After the blind reads, I named the occasion and the experience in the social post's opening and added the guarantee to the organiser pillar's capabilities, then, after Module 5, the honoured guest's split to both pillars and the drop-out terms to the guest pillar; the generation prompt and the visual used the first versions.
 
 ## 5. Visual asset
 
@@ -45,4 +45,4 @@ Two cold AI reads stood in for a classmate, and each model also read GPT-6's vis
 - **Who it's for:** both readers found the organiser who ends up as the debt collector, but guessed hen and stag parties as readily as birthdays.
 - **What it does:** both got the mechanism, and both read it as "a split-payment and commitment tool"; neither could say what they'd book.
 - **What makes them trust it:** moderate at best; "vetted" isn't explained, and there's no rating, review, refund or cancellation promise.
-- **V2:** the copy now names the occasion and the experience (section 4), and the V2 ad above shows the experience as a booking card, says what Roamly is and adds the guarantee. A refund or cancellation promise becomes the trust line once its terms are set.
+- **V2:** the copy now names the occasion and the experience (section 4), and the V2 ad above shows the experience as a booking card, says what Roamly is and adds the guarantee. Module 5 has since set the drop-out terms, now in the guest pillar; the guarantee, if a booking falls through, becomes the trust line once its terms are set.

@@ -46,8 +46,8 @@ Both models' replies, word for word: [pressure test](ai-replies/1-pressure-test.
 | **Pricing** | No Groups fee: Roamly's standard commission on every seat, and each guest pays their own share. Stage 1 offers Shared session and Private session (Module 5). |
 
 **Before launch**
-- **Unpaid-share rule (proposed V1 default):** each guest pays by a deadline set at booking; at the deadline the organiser covers unpaid shares or releases the seats; the host gets a confirmed headcount. A guest who drops out after paying gets their own place back before the cut-off and can transfer it after; below a host's minimum, the organiser covers the gap, moves to a Shared session or cancels (Module 5). Roamly does not underwrite unpaid shares in V1. The rule is shown to the organiser before inviting and to guests at payment. Needs payments, risk and legal sign-off.
-- **Host terms:** opt-in to groups of 6–12, group cancellations and released seats, agreed with host ops.
+- **Unpaid-share rule (proposed V1 default):** each guest pays by a deadline set at booking; at the deadline the organiser covers unpaid shares or releases the places; the host gets a confirmed headcount. A guest who drops out after paying gets their own place back before the cut-off and can transfer it after; below a host's minimum, the organiser covers the gap, moves to a Shared session or cancels (Module 5). Roamly does not underwrite unpaid shares in V1. The rule is shown to the organiser before inviting and to guests at payment. Needs payments, risk and legal sign-off.
+- **Host terms:** opt-in to groups of 6–12, a minimum price for private sessions, group cancellations and released places, agreed with host ops.
 - **Guarantee:** what organisers and guests get back if a booking falls through, shown before anyone pays.
 - **Tracking:** every step live, from group created to booking confirmed, plus the occasion tag.
 - **Baselines:** multi-account completion rate, solo conversion and host cancellation rate captured; holdout group set.
