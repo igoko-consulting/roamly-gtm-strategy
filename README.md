@@ -1,6 +1,6 @@
 # Roamly Groups: Go-To-Market Strategy, by Martin Cook
 
-> My final project for Product School's **Go-To-Market** certification. A complete go-to-market strategy for **Roamly Groups**: a new group-booking feature, built across six in-class labs, no homework required.
+> A go-to-market strategy for **Roamly Groups**, a fictional group-booking feature on a fictional curated-experiences platform. Each of the five chapters draws on one module of a Product School go-to-market course and settles one area: strategy, competition, positioning, messaging and pricing. In each, a test, mostly run in two AI models, changed an earlier answer. Roamly's own figures belong to the scenario; competitor facts are real and dated where checked.
 
 **How to read this repo:** each module folder holds its deliverable and a `NOTES.md` with the module's ideas and my takeaways. [PROMPTS.md](PROMPTS.md) keeps every lab prompt, run word for word in GPT-6 and Claude, and how the replies differed; each module's `ai-replies/` folder holds both models' replies as evidence. [CLAUDE.md](CLAUDE.md) holds the working rules I set for Claude Code, which I used to run the labs, check facts and keep the repo consistent.
 
@@ -15,7 +15,7 @@
 | 3 | **Positioning Statement** (framework + statement) | M3 | ✅ | [`03-positioning/positioning.md`](03-positioning/positioning.md) |
 | 4 | **Messaging Pillars** | M4 | ✅ | [`04-messaging/messaging-pillars.md`](04-messaging/messaging-pillars.md) |
 | 5 | **Pricing Recommendation** | M5 | ✅ | [`05-pricing/pricing-recommendation.md`](05-pricing/pricing-recommendation.md) |
-| 6 | **Final Presentation** (your five deliverables + a reflection on the course) | M6 | ☐ | `final-presentation.html`, downloaded from the Final Project Deliverables Builder |
+| 6 | **Final Presentation** (the five chapters in one page, and what I would change) | M6 | ☐ | `final-presentation.html` |
 
 ## The strategy in one sentence
 
@@ -35,10 +35,9 @@ Each module tested an earlier answer, and all five changed one. Every change was
 
 ___
 
-## How to submit
+## Final presentation
 
-- In Module 6, generate your presentation in the **[Final Project Deliverables Builder](https://product-school-platform.github.io/ps-content-library/certifications/gtmc/2026.1/Modules/Final%20Project%20Deliverables%20Builder.html)**. It pulls your deliverables from this repo, then you add your reflection and download `final-presentation.html`. Commit it to the root of this repo.
-- You have 7 days from the day your cohort ends to submit your presentation and the link to this repo on the learning platform.
+`final-presentation.html` brings the five chapters into one page, with what I would do differently.
 
 ## Repo structure
 
@@ -69,5 +68,5 @@ roamly-gtm-strategy/
 │   ├── pricing-recommendation.md      ← M5: pricing model + recommendation  ★ Deliverable 5
 │   ├── NOTES.md                       ← M5 class notes and takeaways
 │   └── ai-replies/                    ← both models' replies, word for word
-└── final-presentation.html            ← M6: your final presentation         ★ Deliverable 6
+└── final-presentation.html            ← M6: the five chapters in one page   ★ Deliverable 6
 ```
