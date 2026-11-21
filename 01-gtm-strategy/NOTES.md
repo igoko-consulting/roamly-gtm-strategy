@@ -1,6 +1,6 @@
 # Module 1 notes: Choose the GTM Motion and the Goal
 
-Session 1, 3 Nov 2026. Sources: Module 1 slides, class notes and Lab Guide. Output: [gtm-strategy.md](gtm-strategy.md).
+3 Nov 2026. Draws on module 1 of Product School's go-to-market course. Output: [gtm-strategy.md](gtm-strategy.md).
 
 ## The big idea
 
@@ -14,7 +14,7 @@ Session 1, 3 Nov 2026. Sources: Module 1 slides, class notes and Lab Guide. Outp
 | Strong retention, stalled growth | Value is proven; the strategy isn't scaling it | Partly: repeat booking at 3× the industry average, growth not stated |
 | An underserved segment | The market exists; nothing reaches it | Groups who can't book together |
 | Behavioural data showing unmet demand | Users work around gaps | Yes: bookings across separate accounts, payments split by hand |
-| A competitor winning your customers | Someone else is moving faster | Unknown: the brief names no competitor |
+| A competitor winning your customers | Someone else is moving faster | Unknown: the scenario names no competitor |
 
 - **Opportunity, not a product or pricing problem in disguise:** many GTM strategies fail because the team solved the wrong problem. Missed: Roamly Groups is arguably a product gap first, since the workaround exists because a feature is missing. The GTM opportunity is the reach the feature opens, through the guests.
 
@@ -72,7 +72,7 @@ Session 1, 3 Nov 2026. Sources: Module 1 slides, class notes and Lab Guide. Outp
 
 **4 · An investment tier, scored on reach, impact and the risk of saying nothing.** Tier 1 gets a full strategy, Tier 2 a focused plan, Tier 3 a release. Treating every launch as Tier 1 exhausts the organisation and trains the audience to ignore you; defaulting to Tier 3 leaves value on the table.
 
-## Labs
+## What I ran and decided
 
 - **Discover Framework:** chose occasion groups (hen and stag parties, milestone birthdays), because the most acute pain and the authority to book sit with one person. Module 2 narrowed this to milestone celebrations, because specialists already sell per-guest payment to hen and stag groups.
 - **V1 strategy:** PLG + CLG and Acquire went into the pressure test. GPT-6 and Claude, each as a sceptical CMO, both called Acquire the weakest input and asked whether payment friction was really commitment friction. I accepted Expand and a rule for unpaid shares, and pushed back on "prove it before you build": the product is built, so a staged launch is the faster test. Prompts and both models' replies compared: [PROMPTS.md](../PROMPTS.md); the replies, word for word: [ai-replies/](ai-replies/).
@@ -82,5 +82,5 @@ Session 1, 3 Nov 2026. Sources: Module 1 slides, class notes and Lab Guide. Outp
 ## What this means for Roamly Groups
 
 - **Tier 1:** reach grows from multi-account users to every user and their guests; the impact is a new revenue line and an acquisition loop; saying nothing leaves users on the workaround. Missed: the staged launch can look like Tier 2. The tier sets the GTM investment, not how fast access widens.
-- **No competitor signal yet:** the brief names none. Module 2 has to find who wins these groups today, even if it's WhatsApp and a bank transfer. Module 2 found it: GoHen for hen and stag groups, the status quo for milestone celebrations.
+- **No competitor signal yet:** the scenario names none. Module 2 has to find who wins these groups today, even if it's WhatsApp and a bank transfer. Module 2 found it: GoHen for hen and stag groups, the status quo for milestone celebrations.
 - **Segment evidence is the open risk:** the signals probably come from friend groups, not milestone celebrations. The occasion tag at group creation is how I'll find out.

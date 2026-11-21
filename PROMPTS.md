@@ -1,6 +1,6 @@
 # Prompts
 
-Every lab prompt I ran, word for word. Each one went to GPT-6 and Claude in new chats, identical in both, so the replies can be compared. Follow-up prompts ran in the same chat as the prompt before them. From Module 3 the chats keep no memory (ChatGPT's Temporary Chat, Claude's incognito chat), because both models' Module 2 replies drew on earlier chats.
+Every prompt I ran, word for word. Each one went to GPT-6 and Claude in new chats, identical in both, so the replies can be compared. Follow-up prompts ran in the same chat as the prompt before them. From Module 3 the chats keep no memory (ChatGPT's Temporary Chat, Claude's incognito chat), because both models' Module 2 replies drew on earlier chats.
 
 - **Why two models:** it's how I work in practice. A second model is a cheap second reviewer: where both agree, the point carries more weight; where they differ, I look harder before deciding. Missed: two models reading the same prompt aren't fully independent, so agreement is a signal, not proof.
 - **Evidence:** every reply is kept word for word in each module's `ai-replies/` folder, linked under each step, so each comparison below can be checked against its source.
@@ -156,13 +156,13 @@ Be direct and specific. Where Roamly loses, say so honestly. Where it wins, expl
 
 **Checked against GoHen's site, 5 Nov 2026:** the organiser pays one small deposit (the homepage shows £25) and each guest pays their own within four weeks ([how payments work](https://www.gohen.com/planning-tips/how-do-payments-work.asp)). Neither model's £50 appears there, and the site doesn't say what happens to a guest who doesn't pay, so Claude's "unpaid places released" is unverified. Claude still has the old owner, Groupia, and ABTOT bonding; GoHen is now Funktion Leisure's and states ABTA.
 
-- **Claude's is the more honest card:** its "Why they win" names what Roamly lacks, which is what the lab asks for. GPT-6's reads as GoHen's sales strengths.
+- **Claude's is the more honest card:** its "Why they win" names what Roamly lacks, which is what the prompt asks for. GPT-6's reads as GoHen's sales strengths.
 - **GPT-6 adds the best single question:** "what's still the hardest part?" moves the talk off payments, the feature GoHen already has.
 - **Both missed two uncomfortable points:** whether Roamly's hosts want hen and stag groups at all, and whether Roamly's 40 cities include the towns where hen weekends happen.
 
 ### 3. Corrections · same chat as each battlecard
 
-My tweaks before the clean-up, as the Lab Guide asks: the facts the checks above corrected, the two missed points, and GPT-6's best landmine question. I chose Claude's card as the base.
+My tweaks before the clean-up: the facts the checks above corrected, the two missed points, and GPT-6's best landmine question. I chose Claude's card as the base.
 
 ```text
 Before we format it, correct and add to the battlecard:
@@ -194,7 +194,7 @@ Now format the completed battlecard as a clean, structured document I can save a
 | Scope | Grew into a rollout plan, success measures and a "CPO verdict" drawn from Module 1 | Stayed a battlecard |
 
 - **Claude edited like a careful colleague:** it changed only what I asked, and turned the two new risks into actions a team can take.
-- **GPT-6 kept adding:** a new unsourced claim, and a launch plan the battlecard didn't ask for. Its checks before scaling are still worth keeping for Lab 2.
+- **GPT-6 kept adding:** a new unsourced claim, and a launch plan the battlecard didn't ask for. Its checks before scaling are still worth keeping for the strategic bet.
 
 ---
 
@@ -232,7 +232,7 @@ Using these inputs, write a sharp positioning statement of one to two sentences 
 
 ### 2. Pressure test · same chat as each statement
 
-Test B, competitor discomfort, run on my first draft (Claude's statement) in both chats. The Lab Guide fills in my Module 2 competitor, GoHen; I swapped in Airbnb Experiences, because GoHen doesn't serve milestone celebrations and Airbnb is the likelier copier.
+Test B, competitor discomfort, run on my first draft (Claude's statement) in both chats. The prompt template fills in my Module 2 competitor, GoHen; I swapped in Airbnb Experiences, because GoHen doesn't serve milestone celebrations and Airbnb is the likelier copier.
 
 ```text
 Now role-play as a product leader at Airbnb Experiences. Read the following positioning statement for Roamly Groups. Could your company use this statement word for word without anyone noticing? If yes, what specifically makes it too generic? If no, what makes it ownable to Roamly specifically?
@@ -336,7 +336,7 @@ For each, tell me which part of the pillar it leads with and why.
 
 ### 2. Visual asset · same chat as each set of copy
 
-The Lab Guide gives no prompt for this step, so I wrote one and sent it identically to both. It uses my chosen social post (Claude's), not each model's own.
+There was no template prompt for this step, so I wrote one and sent it identically to both. It uses my chosen social post (Claude's), not each model's own.
 
 ```text
 Turn this social post into a single standalone visual for Instagram (a 4:5 portrait image). Keep the copy as written, and make three things clear at a glance to someone who has never heard of Roamly: who it's for, what Roamly Groups does, and why they should trust it. Don't add statistics, testimonials or logos that aren't in the copy.
@@ -363,7 +363,7 @@ Hosted by locals from Roamly's 12,000+ vetted hosts.
 
 ### 3. Blind read · new memory-off chats, the image attached
 
-In place of a classmate's blind read: each model sees only my chosen visual (Claude's) and the Lab Guide's three questions, with no other context.
+In place of a person's blind read: each model sees only my chosen visual (Claude's) and the three standard questions, with no other context.
 
 ```text
 Look at this image for about a minute, as if it had appeared in your social feed. Without any other context, answer three questions:
@@ -382,7 +382,7 @@ It took three rounds to get clean reads: in the first, GPT-6's chat had context 
 | GPT-6 | Who: "a birthday, hen or stag party". What: "less about discovering experiences and more about … getting everyone committed". Trust: specificity and the unpaid-share rule | Who: the occasions, from its own label. What: "the photograph suggests dining". Trust: "photography feels authentic" |
 | Claude | Who: "the birthday, hen do or reunion". What: "really it's a split-payment and commitment tool". Trust: "moderate" | Who: "the birthday dinner or reunion trip". What: "group booking with split payment built in". Trust: "not much"; the labels feel "like filler" |
 
-- **All four reads got the organiser and the mechanism; trust was the weakest layer in every one.** "Vetted" is never explained, and there's no rating, review, refund or cancellation promise. The course says evidence is usually the weakest layer.
+- **All four reads got the organiser and the mechanism; trust was the weakest layer in every one.** "Vetted" is never explained, and there's no rating, review, refund or cancellation promise. Evidence is usually the weakest layer of a message.
 - **My visual reads as a payment tool, and both readers guessed hen and stag parties,** the segment I deprioritised in Module 2. Without an occasion named, "eleven friends" reads as a hen do as easily as a birthday.
 - **The photo helps less than I expected:** GPT-6 read dining from it, but Claude called it generic stock and still asked what an experience is. The copy has to name the experience, not just the picture.
 - **No sign of a model favouring its own work:** Claude was the harsher reader of both visuals.
@@ -392,7 +392,7 @@ It took three rounds to get clean reads: in the first, GPT-6's chat had context 
 
 ## Module 5 · Pricing recommendation
 
-Both models run in memory-off chats, ChatGPT's Temporary Chat and Claude's incognito chat, with `battlecard-and-bet.md`, `positioning.md` and `messaging-pillars.md` attached, as the Lab Guide asks.
+Both models run in memory-off chats, ChatGPT's Temporary Chat and Claude's incognito chat, with `battlecard-and-bet.md`, `positioning.md` and `messaging-pillars.md` attached.
 
 ### 1. Recommendation
 
@@ -412,7 +412,7 @@ Write a one-page pricing recommendation for Finance, Sales Leadership and Produc
 
 **How the two recommendations compared** · all three replies, word for word: [1-recommendation.md](05-pricing/ai-replies/1-recommendation.md)
 
-GPT-6 took two runs. The first couldn't find the three files and drew on older work in my ChatGPT Library, so it brought back hen and stag. The second read the files, but it also knew the first ("the previous recommendation"), so it wasn't fully cold. After the lab I renamed Join a session to Shared session; the prompt and replies keep the old name.
+GPT-6 took two runs. The first couldn't find the three files and drew on older work in my ChatGPT Library, so it brought back hen and stag. The second read the files, but it also knew the first ("the previous recommendation"), so it wasn't fully cold. After the replies I renamed Join a session to Shared session; the prompt and replies keep the old name.
 
 | Point | GPT-6 (rerun, with the files) | Claude |
 |---|---|---|

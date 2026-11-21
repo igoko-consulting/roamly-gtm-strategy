@@ -40,7 +40,7 @@ All three are Claude's lines, chosen over GPT-6's because they stay on the pilla
 
 ### Blind read of V1
 
-Two cold AI reads stood in for a classmate, and each model also read GPT-6's visual for contrast ([all reads](ai-replies/3-blind-read.md)).
+Two cold AI reads stood in for a first-time reader, and each model also read GPT-6's visual for contrast ([all reads](ai-replies/3-blind-read.md)).
 
 - **Who it's for:** both readers found the organiser who ends up as the debt collector, but guessed hen and stag parties as readily as birthdays.
 - **What it does:** both got the mechanism, and both read it as "a split-payment and commitment tool"; neither could say what they'd book.

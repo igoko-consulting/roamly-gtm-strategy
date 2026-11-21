@@ -1,6 +1,6 @@
 # Module 4 notes: Turn Positioning Into a Message That Ships
 
-Session 4, 16 Nov 2026. Sources: Module 4 slides and Lab Guide. Output: [messaging-pillars.md](messaging-pillars.md).
+16 Nov 2026. Draws on module 4 of Product School's go-to-market course. Output: [messaging-pillars.md](messaging-pillars.md).
 
 ## The big idea
 
@@ -10,7 +10,7 @@ Session 4, 16 Nov 2026. Sources: Module 4 slides and Lab Guide. Output: [messagi
 ## Building the message
 
 - **Fro/To:** before any pillar, describe what changed in the world that made the product necessary, not a feature. Peloton moved fitness from a studio's timetable to any time at home; Shop Pay moved checkout from hunting for your wallet to details filled in for you. It may never appear in copy, but it shapes all of it. Missed: my From ("one person carries the celebration") did appear once, as the social post's hook about chasing eleven friends, and it was the line that stopped both cold readers.
-- **How many audiences:** split only when one message would miss someone. The course's tests are role or buying position, use case, sophistication, journey stage, geography and price sensitivity. Missed: I split on role. The organiser chooses and books; the guest pays through a link they didn't choose. That is the consumer version of buyer versus user. Hosts got no message, though they are the biggest threat.
+- **How many audiences:** split only when one message would miss someone. The tests are role or buying position, use case, sophistication, journey stage, geography and price sensitivity. Missed: I split on role. The organiser chooses and books; the guest pays through a link they didn't choose. That is the consumer version of buyer versus user. Hosts got no message, though they are the biggest threat.
 - **The pillar pyramid:** the value prop leads, capabilities make it real, evidence proves it. Cursor runs two pillars, for developers and for engineering leaders, with the same three layers written for each. Missed: my evidence layer is weak by construction. Before launch, Roamly Groups has platform figures and beta targets, nothing about groups.
 - **Evidence rules:** specific beats vague, authentic beats polished, named beats anonymous; "customers love it" proves nothing. Missed: the one piece of evidence I can create before launch is a promise, a refund or cancellation guarantee, which is the trust line every blind reader asked for.
 - **Four craft filters:** be human, use fewer words, use the customer's words, be specific. Missed: "use their words" means interviews, reviews and support tickets. Mine came from AI role-play, which is the model's language, not the customer's.
@@ -20,16 +20,16 @@ Session 4, 16 Nov 2026. Sources: Module 4 slides and Lab Guide. Output: [messagi
 | Surface | Why it matters | Roamly Groups |
 |---|---|---|
 | Marketing copy | The widest reach, and the first place consistency breaks | The social post: a stage-3 community surface |
-| In-product copy | The highest-leverage surface for a product-led motion | The in-app notification at the moment of intent |
+| In-product copy | The surface that matters most for a product-led motion | The in-app notification at the moment of intent |
 | Sales assets | For buyers who never use the product | None: no sales team |
 | Interactive demos | Converts when the product speaks for itself | Not in V1 |
 
-- Missed: for a product-led launch, the in-app line matters most, yet I spent most of the lab on the social post and its visual, a stage-3 surface.
+- Missed: for a product-led launch, the in-app line matters most, yet I spent most of the work on the social post and its visual, a stage-3 surface.
 - **Shop Pay's landing page:** the value prop leads ("the best-converting accelerated checkout"), capabilities follow for each kind of merchant, and evidence closes with a specific conversion figure. Missed: a specific number does the selling. Mine can't until the beta produces one.
 - **AI is the execution layer, not the judgement:** it drafts copy across surfaces, prototypes visuals, monitors the market (Klue, Crayon) and flags which variants convert. It can't replace customer language or positioning judgement. Missed: AI blind reads only work if they're blind, and context leaks more easily than I expected.
 - **Is it working?** Watch conversion by surface, win/loss themes, in-product engagement and language drift. Missed: for Roamly Groups, language drift is the test that matters. Do organisers call it "a way to book something together" or "a bill-splitting tool"? The cold reads already said the second.
 
-## Labs
+## What I ran and decided
 
 - **Pillars:** both pillars and the copy are in the deliverable. Prompts, comparisons and every reply: [PROMPTS.md](../PROMPTS.md); the replies and visuals, word for word: [ai-replies/](ai-replies/).
 - **Decision, From/To:** from "one person carries the celebration" to "the group carries it together". Missed: "commits" in the To sets up the unpaid-share rule, but no reader saw commitment as a benefit.

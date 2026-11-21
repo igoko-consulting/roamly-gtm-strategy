@@ -89,6 +89,6 @@ With no sales team, sales here means host supply.
 
 - **Base:** Claude's reply, with its figures checked. GPT-6's reply, which read the three files, added the incremental-revenue rule, the package-price warning, the guarantee as a commercial priority, the interviews, and treating privacy as an attribute of the experience, tested apart from the celebration. Both models' replies, word for word: [1-recommendation.md](ai-replies/1-recommendation.md).
 - **Changed after the replies:** the honoured guest's split is shown on the invite (both models asked for it to be explicit); Private celebration waits for hosts who can deliver it, and Private session gets a host-set minimum price (GPT-6 argued against launching three tiers at all); the assumption is tested at the price each guest pays (Claude), and the result now decides the default tier. The [recommendation prompt](../PROMPTS.md#1-recommendation) used the first version of sections 2 to 4.
-- **Renamed after the lab:** Join a session became Shared session, so all three names say what changes between tiers. The prompt and replies keep the old name.
+- **Renamed after the replies:** Join a session became Shared session, so all three names say what changes between tiers. The prompt and replies keep the old name.
 - **Added after testing:** the drop-out rules, from working through each tier for a group of 8 that loses one paying guest.
 - **Not adopted:** GPT-6's single price with no tiers. The tiers stand, staged, and the test decides the default.

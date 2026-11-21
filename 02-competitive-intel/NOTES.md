@@ -1,6 +1,6 @@
 # Module 2 notes: Turn Competitor Signals Into a Battlecard
 
-Session 2, 5 Nov 2026. Sources: Module 2 slides and Lab Guide. Output: [battlecard-and-bet.md](battlecard-and-bet.md).
+5 Nov 2026. Draws on module 2 of Product School's go-to-market course. Output: [battlecard-and-bet.md](battlecard-and-bet.md).
 
 ## The big idea
 
@@ -47,7 +47,7 @@ Session 2, 5 Nov 2026. Sources: Module 2 slides and Lab Guide. Output: [battleca
 
 - **Spotify's Summer Rewind:** "Your Top Songs" was shared more than anything else on Spotify, because it said something about the listener. To test that, Spotify tried three playlists. A birthday playlist failed (people gave false birthdays, and the songs had nothing to do with their taste). A city playlist failed (where you live isn't who you are). Summer throwbacks held, because past summers carry real memories. Surveys then chose "Your Summer Rewind" over "Throwback" or "Nostalgia" because it signalled both personal and past. The bet on personalisation ran through Daily Mixes, Discover Weekly and Blend into Wrapped, with no paid media. Missed: the two failures did as much work as the winner, because each one narrowed what "personal" meant. Hen and stag weekends played that role for my segment.
 
-## Labs
+## What I ran and decided
 
 - **Research:** both models named GoHen as the competitor I hadn't considered, and the status quo (WhatsApp, one card, bank transfers) as where most drop-off goes. Prompts, comparisons and my checks: [PROMPTS.md](../PROMPTS.md); the replies, word for word: [ai-replies/](ai-replies/).
 - **Decision, primary competitor: GoHen.** It already sells "everyone pays their own share, no chasing" to hen organisers: my value proposition, in my segment. Airbnb Experiences is better known and the likelier fast follower, but it doesn't split payments yet. Missed: GoHen sells packaged UK and European weekends, so it only ever threatened the hen and stag part of my segment.
@@ -60,7 +60,7 @@ Session 2, 5 Nov 2026. Sources: Module 2 slides and Lab Guide. Output: [battleca
 ## What this means for Roamly Groups
 
 - **Insight, per-guest payment is table stakes, not the edge:** it is standard where the specialists sell, and missing where milestone groups book. Lead with the curated experience, and use payment as proof that no one gets chased. Missed: in milestone celebrations, per-guest payment is still a differentiator until Airbnb adds it, so it shouldn't be dropped from the message, only demoted.
-- **Biggest open risk, host fit:** the bet rests on hosts accepting groups of 6–12 on the dates groups want. Hosts need their own research before stage 1, as the motion slide says for any marketplace, and Module 1's stage 0 gate now requires host opt-in for groups of 6–12. Missed: hosts may welcome groups if the price per head works, so Module 5's pricing partly answers this: hosts set a minimum price for private sessions, so a small group never costs them a full session.
+- **Biggest open risk, host fit:** the bet rests on hosts accepting groups of 6–12 on the dates groups want. Hosts need their own research before stage 1, since a marketplace should research the side that limits growth, and Module 1's stage 0 gate now requires host opt-in for groups of 6–12. Missed: hosts may welcome groups if the price per head works, so Module 5's pricing partly answers this: hosts set a minimum price for private sessions, so a small group never costs them a full session.
 - **The unpaid-share rule is now competitive, not just operational:** organisers will compare it with GoHen's familiar deposit structure, and until it is live and visible, GoHen wins on certainty. Missed: a visible guarantee on payments and cancellations matters as much as the rule itself, since that is what ABTA protection gives GoHen. Module 1's stage 0 gate now requires one.
 - **Module 3 carries the change:** the README pitch now leads with the experience, and Module 3 refined the Module 1 value proposition so it no longer leads with "everyone pays their own share". Missed: the segment change rests on one competitor's evidence. Module 3's persona work should test whether milestone organisers recognise the pain as sharply as hen organisers do.
 - **Watch list:** Airbnb (Tripadvisor supply on the way, private groups of up to 30, no per-guest payment yet), GetYourGuide (marketing to the organiser), Viator (inside Gemini).

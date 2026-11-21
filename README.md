@@ -2,7 +2,7 @@
 
 > A go-to-market strategy for **Roamly Groups**, a fictional group-booking feature on a fictional curated-experiences platform. Each of the five chapters draws on one module of a Product School go-to-market course and settles one area: strategy, competition, positioning, messaging and pricing. In each, a test, mostly run in two AI models, changed an earlier answer. Roamly's own figures belong to the scenario; competitor facts are real and dated where checked.
 
-**How to read this repo:** each module folder holds its deliverable and a `NOTES.md` with the module's ideas and my takeaways. [PROMPTS.md](PROMPTS.md) keeps every lab prompt, run word for word in GPT-6 and Claude, and how the replies differed; each module's `ai-replies/` folder holds both models' replies as evidence. [CLAUDE.md](CLAUDE.md) holds the working rules I set for Claude Code, which I used to run the labs, check facts and keep the repo consistent.
+**How to read this repo:** each module folder holds its deliverable and a `NOTES.md` with the module's ideas and my takeaways. [PROMPTS.md](PROMPTS.md) keeps every prompt, run word for word in GPT-6 and Claude, and how the replies differed; each module's `ai-replies/` folder holds both models' replies as evidence. [CLAUDE.md](CLAUDE.md) holds the working rules I set for Claude Code, which I used to run the prompts, check facts and keep the repo consistent.
 
 ---
 
@@ -44,29 +44,29 @@ ___
 ```
 roamly-gtm-strategy/
 ├── README.md                          ← this dashboard
-├── PROMPTS.md                         ← every lab prompt, and how GPT-6 and Claude replied
+├── PROMPTS.md                         ← every prompt, and how GPT-6 and Claude replied
 ├── CLAUDE.md                          ← my working rules for Claude Code
 ├── 01-gtm-strategy/
 │   ├── gtm-strategy.md                ← M1: Discover Framework + motion    ★ Deliverable 1
-│   ├── NOTES.md                       ← M1 class notes and takeaways
+│   ├── NOTES.md                       ← M1 notes and takeaways
 │   └── ai-replies/                    ← both models' replies, word for word
 ├── 02-competitive-intel/
 │   ├── battlecard-and-bet.md          ← M2: competitive battlecard + bet   ★ Deliverable 2
-│   ├── NOTES.md                       ← M2 class notes and takeaways
+│   ├── NOTES.md                       ← M2 notes and takeaways
 │   └── ai-replies/                    ← both models' replies, word for word
 ├── 03-positioning/
-│   ├── positioning.md                 ← M3: positioning framework + stmt    ★ Deliverable 3
-│   ├── NOTES.md                       ← M3 class notes and takeaways
+│   ├── positioning.md                 ← M3: positioning framework + statement ★ Deliverable 3
+│   ├── NOTES.md                       ← M3 notes and takeaways
 │   └── ai-replies/                    ← both models' replies, word for word
 ├── 04-messaging/
 │   ├── messaging-pillars.md           ← M4: messaging pillars + copy        ★ Deliverable 4
 │   ├── visual-asset-v2.png            ← M4: the Instagram ad, ready to post
 │   ├── visual-asset-v2-labelled.png   ← the same ad, with its three layers labelled
-│   ├── NOTES.md                       ← M4 class notes and takeaways
+│   ├── NOTES.md                       ← M4 notes and takeaways
 │   └── ai-replies/                    ← both models' replies and visuals
 ├── 05-pricing/
 │   ├── pricing-recommendation.md      ← M5: pricing model + recommendation  ★ Deliverable 5
-│   ├── NOTES.md                       ← M5 class notes and takeaways
+│   ├── NOTES.md                       ← M5 notes and takeaways
 │   └── ai-replies/                    ← both models' replies, word for word
 └── final-presentation.html            ← M6: the five chapters in one page   ★ Deliverable 6
 ```

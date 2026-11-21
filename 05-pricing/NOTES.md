@@ -1,6 +1,6 @@
 # Module 5 notes: Price and Package from Willingness to Pay
 
-Session 5, 18 Nov 2026. Sources: Module 5 slides and Lab Guide. Output: [pricing-recommendation.md](pricing-recommendation.md).
+18 Nov 2026. Draws on module 5 of Product School's go-to-market course. Output: [pricing-recommendation.md](pricing-recommendation.md).
 
 ## The big idea
 
@@ -23,12 +23,12 @@ Session 5, 18 Nov 2026. Sources: Module 5 slides and Lab Guide. Output: [pricing
 - **The order: value, then packaging, then stakeholders:** start with how the customer experiences value, match packaging to the audiences, then test it with each function. Missed: the stakeholder step found what the first two missed, that the price each guest pays isn't the tier price.
 - **A pricing change is a launch:** localise beyond currency, protect existing customers with grandfathering, default to annual billing, explain the first rise before it lands, and set the monitoring dashboard and rollback threshold before roll-out. Missed: for Roamly Groups, localisation matters most. Roamly runs in 40 cities on four continents, and my figures are in pounds.
 
-## Labs
+## What I ran and decided
 
 - **Answers and recommendation:** both are in the deliverable. The prompt and comparison: [PROMPTS.md](../PROMPTS.md#1-recommendation); all three replies, word for word: [ai-replies/1-recommendation.md](ai-replies/1-recommendation.md).
 - **Decision, goal: grow revenue from a known audience,** matching Expand in Module 1. Missed: milestone celebrations are new territory for Roamly, so "enter a new market" was a fair reading too.
-- **Decision, model: transaction-based, with no Groups fee.** Each guest pays their own share, the organiser pays their own place and any unpaid place they cover, and hosts pay the standard commission. Missed: the brief gives no commission rate, so Finance can't size the revenue until the beta.
-- **Decision, tiers: Shared session, Private session ★ and Private celebration,** staged so stage 1 launches the first two, with a minimum price the host sets for private sessions. After the lab I renamed Join a session to Shared session, so every name says who's in the room; status names like VIP or All Inclusive would have turned a privacy premium into a status premium and pulled back towards party packages. Missed: privacy is an attribute, not a tier, as GPT-6 said, and Airbnb already sells private groups with a minimum price, so privacy can't be Roamly's edge.
+- **Decision, model: transaction-based, with no Groups fee.** Each guest pays their own share, the organiser pays their own place and any unpaid place they cover, and hosts pay the standard commission. Missed: the scenario sets no commission rate, so Finance can't size the revenue until the beta.
+- **Decision, tiers: Shared session, Private session ★ and Private celebration,** staged so stage 1 launches the first two, with a minimum price the host sets for private sessions. After the replies I renamed Join a session to Shared session, so every name says who's in the room; status names like VIP or All Inclusive would have turned a privacy premium into a status premium and pulled back towards party packages. Missed: privacy is an attribute, not a tier, as GPT-6 said, and Airbnb already sells private groups with a minimum price, so privacy can't be Roamly's edge.
 - **Decision, assumption: the private premium, tested at the price each guest pays,** about £80 against a £56 usual price for a group of 8. If fewer than half of organisers choose Private session at that price, Shared session becomes the default. Missed: if guests won't pay it, Groups still earns the standard commission on recovered bookings. The revenue lever fails, not the case for Groups.
 - **Insight, the honoured guest's split is a price change:** Claude worked out that splitting one guest's share adds 9% a head for a group of 12 and 20% for a group of 6, so group size sets the real price as much as the tier does. Missed: neither model asked whether guests mind paying for the honoured guest at all. GPT-6's interviews are where to find out.
 - **What AI cracked open:** GPT-6's first run never saw the files and pulled older work from my ChatGPT Library, the same leak as Module 4's blind reads. The rerun read the files but knew its first answer, and argued against it. Missed: a model that knows its earlier answer tends to change something, so its case against the tiers may be partly that. It's one reason I staged the tiers rather than dropping them.
