@@ -36,7 +36,7 @@ For Finance, Sales Leadership and Product Marketing · 18 Nov 2026
 | Private session ★ | Milestone celebrations of 6–12 | £55–£90, about 25% more, above a minimum the host sets | The host to themselves | 1 |
 | Private celebration | The biggest milestones | £110–£150 | A private session built around the occasion (a toast, photos, a chosen menu or route) and one free date change | Once hosts can deliver it |
 
-Prices are rough estimates: the brief gives no Roamly prices or commission rate. Hosts price within each range.
+Prices are rough estimates: the scenario sets no Roamly prices or commission rate. Hosts price within each range.
 
 ### What each guest pays
 
@@ -50,7 +50,7 @@ Prices are rough estimates: the brief gives no Roamly prices or commission rate.
 
 **What Finance needs to hear:** there is no new revenue line, and no new payment risk once payments, risk and legal sign off the unpaid-share rule at stage 0.
 
-- **Revenue:** bookings × seats × price a head × standard commission. For 8 people, illustratively: £448 at Shared session (£56 a head), £560 at Private session (£70) and £1,040 at Private celebration (£130).
+- **Revenue:** bookings × seats × price a head × standard commission. Booking value for 8 people, illustratively: £448 at Shared session (£56 a head), £560 at Private session (£70) and £1,040 at Private celebration (£130); Roamly's revenue is its commission on each, at a rate the scenario doesn't set.
 - **Levers:** recovered bookings and tier mix. Count only the lift over the holdout, since some groups already complete across separate accounts.
 - **Costs:** payment processing, refunds under the guarantee, and Private celebration's date change, capped at one per booking with a notice window and an agreed rule on host costs.
 - **Ask:** approve no fee for stage 1, book no revenue until the beta reads completion against the multi-account baseline, and agree now how to read it.

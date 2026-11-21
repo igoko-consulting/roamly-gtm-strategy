@@ -7,7 +7,7 @@
 - **What success looks like:** Groups complete bookings on Roamly instead of dropping off; invitees come back to book on their own accounts; hosts fill more seats per session; Roamly becomes where you plan a trip together, not only alone; solo ratings and repeat rates hold.
 
 ### Do the Research
-- **Signals of a real opportunity:** Users raise it with support unprompted; they are already working around the gap across accounts, so the job is real; high drop-off shows demand failing at the point of payment; repeat booking at 3× the industry average shows the trust to try something new; hosts can already take groups.
+- **Signals of a real opportunity:** Users raise it with support unprompted; they are already working around the gap across accounts, so the job is real; high drop-off shows demand failing at the point of payment; repeat booking at 3× the industry average shows a loyal base with low switching risk, not demand for groups; hosts can already take groups.
 - **Top 5 possible segments:** Occasion groups (hen and stag parties, milestone birthdays); friend groups of 4–8; families and multigenerational trips; corporate team offsites; community-led groups (travel clubs, creators, alumni).
 - **How to size the opportunity:** From Roamly's data: sessions booked by several accounts within a short window, drop-off on those sessions, support ticket volume, and group size and spend per head against solo bookings. Externally: group travel market reports and a short survey of current users on group trips planned in the next 12 months. Host capacity per city caps what can be served.
 
@@ -71,7 +71,7 @@ Out of V1: paid acquisition, influencers, corporate offsites and launch PR.
 - **Guardrails:** solo conversion, ratings and repeat booking, host cancellation rate, payment failures and chargebacks, and support contacts per group booking.
 
 **Launch plan**
-- **Type:** closed beta, widening by stage. Timings and percentages are placeholders, like the X and Z targets, until baselines are in.
+- **Type:** closed beta, widening by stage. Timings and percentages are placeholders until baselines are in, as is the north-star target.
 - **Stage 0, before launch:** gate on the unpaid-share rule signed, host terms agreed, the guarantee live in the booking flow, tracking live and baselines captured.
 - **Stage 1, closed beta (weeks 1–4):** 5–10% of eligible multi-account users in 1–2 cities with spare host capacity, the rest of the eligible users as the holdout; owned channels only; Shared session and Private session only, with Private celebration once hosts can deliver it (Module 5). Gate: completion beats baseline and guardrails hold.
 - **Stage 2, widen (weeks 5–10):** all eligible existing organisers, and group size in search for every user; fix the step where groups drop most. Gate: completion holds and an early read of the guest loop shows signal.

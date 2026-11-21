@@ -20,7 +20,7 @@ Claude's statement, chosen over GPT-6's because it names the occasion and the ou
 
 ### Pressure test
 - **Test I ran:** B · Competitor discomfort, against Airbnb Experiences in place of my Module 2 competitor, GoHen, which doesn't serve milestone celebrations.
-- **What it revealed:** Airbnb could use it almost word for word: 'curated local experience', the examples and the shared plan are category defaults, and per-guest payment is a feature it could copy; only hosts who opt in to groups and a clear promise on unpaid places are ownable.
+- **What it revealed:** Airbnb could use it almost word for word: 'curated local experience', the examples and the shared plan are category defaults, and per-guest payment is a feature it could copy; Claude named hosts who opt in to groups and a clear promise on unpaid places as the ownable parts.
 
 The final statement started as Claude's rewrite from this test, with "booking something memorable in minutes" cut because both models called it generic. Tests C and A, run afterwards in place of the blind read, replaced "chef's table" and asked what happens to an unpaid place. I put that rule into the statement, then cut the statement from 77 words to 56, moving the rule to Module 4's messaging, where objections belong, and finally to a punchier 40. Both models' replies, word for word: [test B](ai-replies/2-pressure-test.md) · [test C](ai-replies/3-stranger-clarity.md) · [test A](ai-replies/4-audience-recognition.md).
 
