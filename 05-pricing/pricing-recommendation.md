@@ -12,6 +12,7 @@
 ## 3. Packaging
 
 - **Tiers:** Good: Shared session, for groups of 6–12 happy to share a host's scheduled session, at the host's usual price (about £40–£70 a head); Better ★: Private session, for milestone celebrations of 6–12 who want the host to themselves, about 25% above the usual price, with a minimum price the host sets (about £55–£90 a head); Best: Private celebration, a private session built around the occasion (a toast, photos, a menu or route the group chooses) plus one free date change, for the biggest milestones (about £110–£150 a head).
+- **Group of 8, worked through:** at a £56 usual price, a Shared session costs £448 and a Private session £560; the honoured guest pays nothing, so each of the 7 paying guests pays £64 or £80, and Roamly earns its standard commission on the total.
 - **Launch order:** Stage 1 offers Shared session and Private session; Private celebration follows once hosts can deliver it reliably and the private premium has been tested.
 
 ## 4. Assumption to test
