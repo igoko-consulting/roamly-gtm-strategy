@@ -70,5 +70,7 @@ roamly-gtm-strategy/
 │   ├── pricing-recommendation.md      ← M5: pricing model + recommendation  ★ Deliverable 5
 │   ├── NOTES.md                       ← M5 notes and takeaways
 │   └── ai-replies/                    ← both models' replies, word for word
+├── 06-final-presentation/
+│   └── ai-replies/                    ← both models' final reviews, word for word
 └── final-presentation.html            ← M6: the five chapters in one page   ★ Deliverable 6
 ```

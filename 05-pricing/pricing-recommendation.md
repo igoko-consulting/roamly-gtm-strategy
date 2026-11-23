@@ -92,4 +92,5 @@ With no sales team, sales here means host supply.
 - **Changed after the replies:** the honoured guest's split is shown on the invite (both models asked for it to be explicit); Private celebration waits for hosts who can deliver it, and Private session gets a host-set minimum price (GPT-6 argued against launching three tiers at all); the assumption is tested at the price each guest pays (Claude), and the result now decides the default tier. The [recommendation prompt](../PROMPTS.md#1-recommendation) used the first version of sections 2 to 4.
 - **Renamed after the replies:** Join a session became Shared session, so all three names say what changes between tiers. The prompt and replies keep the old name.
 - **Added after testing:** the drop-out rules, from working through each tier for a group of 8 that loses one paying guest.
+- **Added after the final review:** the group-of-8 worked example in Packaging, the one change GPT-6's review of the presentation asked for ([final review](../PROMPTS.md#1-review)).
 - **Not adopted:** GPT-6's single price with no tiers. The tiers stand, staged, and the test decides the default.

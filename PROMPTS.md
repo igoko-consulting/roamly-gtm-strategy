@@ -12,6 +12,7 @@ Every prompt I ran, word for word. Each one went to GPT-6 and Claude in new chat
 - [Module 3 · Positioning](#module-3--positioning): [1. Generation](#1-generation) · [2. Pressure test](#2-pressure-test--same-chat-as-each-statement) · [3. Stranger clarity](#3-stranger-clarity--same-chat-as-each-pressure-test) · [4. Audience recognition](#4-audience-recognition--same-chat-as-each-stranger-test)
 - [Module 4 · Messaging](#module-4--messaging): [1. Copy generation](#1-copy-generation) · [2. Visual asset](#2-visual-asset--same-chat-as-each-set-of-copy) · [3. Blind read](#3-blind-read--new-memory-off-chats-the-image-attached)
 - [Module 5 · Pricing recommendation](#module-5--pricing-recommendation): [1. Recommendation](#1-recommendation)
+- [Module 6 · Final presentation](#module-6--final-presentation): [1. Review](#1-review)
 
 ---
 
@@ -427,3 +428,57 @@ GPT-6 took two runs. The first couldn't find the three files and drew on older w
 - **Claude's became the one-pager:** it works from my plan, its figures check out, and its £80 finding changed my assumption. Its one slip: "our £55–£150 range fits the category" leaves out Shared session at £40, and compares experiences with GoHen's packages.
 - **GPT-6's was the stronger challenge:** it questioned whether the tiers and the premium were earned at all. I kept the tiers but staged them, gave Private session a minimum price the host sets, made the test decide the default tier, and took its incremental-revenue rule, the package-price warning, the guarantee as a commercial priority and its interviews before the Conjoint.
 - **Both ended on Conjoint, and both wanted the honoured guest's split made explicit.** Missed: Claude cited Airbnb's private groups for host controls but didn't draw the conclusion. Airbnb already sells privacy, so privacy isn't Roamly's edge; per-guest payment and hosts who welcome groups are.
+
+---
+
+## Module 6 · Final presentation
+
+GPT-6 read the prompt with the downloaded presentation attached. Claude's reply comes from the Claude Code session that built this repo, so it isn't a cold read.
+
+### 1. Review
+
+```text
+You are a VP of Product reviewing a final project from a PM who just finished a Go-To-Market course. The project is a go-to-market plan for Roamly Groups, a group-booking feature on a travel experience marketplace. Here is everything in their presentation:
+
+Title: Roamly Groups: Go-To-Market Strategy, by Martin Cook
+The strategy in one sentence: A vetted local host who welcomes the group, and everyone pays their own share: Roamly Groups is for organisers of milestone celebrations, and the bet is Expand first, then Acquire through the guests.
+
+Module 1, GTM strategy. Target segment: Milestone celebrations (big birthdays, anniversaries, reunions), narrowed in Module 2 from occasion groups that included hen and stag parties: the pain is most acute, with one organiser chasing money from 6–12 people against a fixed date, and that organiser chooses and books, so pain and buying authority sit with one person. GTM motion: PLG for V1, adding community-led discovery (CLG) as a gated test in stage 3: The users with the problem are already on Roamly, time to value is minutes, the organiser books without talking to anyone and value per booking is low, so in-product prompts and lifecycle messages convert them at the point of intent; community seeding waits until stages 1–2 give real organiser stories to tell and the guest loop has shown it works. Primary goal: Expand. The evidence comes from existing users: they already try to book in groups and drop off before paying. V1 moves those users onto Groups and measures completed group bookings against a holdout. Acquire is the secondary goal to prove: the share of guests who book on their own account within 90 days. PLG usually pairs with Acquire; here it serves expansion, because the users with the problem are already in the product.
+Module 2, battlecard and strategic bet. Primary competitor: GoHen Strategic bet: Owning milestone celebrations: one standout experience with a vetted local host, booked for the whole group in minutes, with every guest paying their own share. Deprioritizing: Hen and stag weekends as a target, and anything packaged (accommodation, nightlife, a human planner), leaving that market to GoHen.
+Module 3, positioning. Target audience: Organisers of milestone celebrations (big birthdays, anniversaries, reunions) booking one standout experience for 6–12 people. Positioning statement: Roamly Groups books your whole group, 6–12 people, into an experience with a vetted local host who welcomes groups, and everyone pays their own share. Organising a big birthday, anniversary or reunion? Enjoy the day too, without fronting the bill.
+Module 4, messaging pillars. From/To shift: From: One person carries the celebration: they choose, book and pay for everyone, then spend weeks chasing friends for their share. To: The group carries it together: everyone commits and pays their own share up front, so the organiser picks something special and enjoys the day like everyone else. Audience 1 pillar: For: Organisers of milestone celebrations
+- Value prop: Pick something special for the big day and enjoy it with everyone else, without fronting the bill or chasing anyone.
+- Capabilities: One booking for 6–12 people with a vetted local host who has opted in to groups; each guest pays their own share through a link by a deadline, and the honoured guest's share is split across the group unless the organiser covers it; at the deadline, the organiser decides whether to cover or release any unpaid place; everyone sees one shared plan; and a guarantee, shown before anyone pays, of what everyone gets back if the booking falls through.
+- Evidence: Repeat booking at 3× the industry average and 12,000+ vetted hosts; group proof comes from the stage 1 beta: completion rate against the multi-account baseline and organisers' own stories (targets, not yet results). Copy across three surfaces: - Surface 1: In-app notification, shown when the group size reaches 6 or a group checkout starts: "Booking for 6 or more? Book once for the whole group. Everyone pays their own share through a link, so you don't front the bill."
+- Surface 2: Email subject line: "Book the big day, then enjoy it like everyone else", with the preview text "Everyone pays their own share. No fronting the bill, no chasing."
+- Surface 3: Social post: "You picked the date for her 40th. You found something special. Then you spent weeks chasing eleven friends for their share. Roamly Groups sorts the last bit: book a private cooking class, food tour or other local experience for 6–12 people with a vetted host who's said yes to groups. Send everyone a link and each person pays their own share by the deadline. Anyone who hasn't paid? Your call: cover them or free up the place. Pick something special. Then enjoy it with everyone else. Hosted by locals from Roamly's 12,000+ vetted hosts."
+Module 5, pricing recommendation. Goal and model: Goal: Grow revenue from a known audience: existing users who already book in groups across separate accounts and drop off before paying, matching my Module 1 goal (Expand) and my Module 2 bet on milestone celebrations.
+Model: Transaction-based: Roamly earns its standard commission on every seat in a group booking, with no separate fee for using Groups.
+Who pays: Each guest pays for their own place through a link; the organiser pays only for their own place and any unpaid place they choose to cover; the honoured guest's share is split across the paying guests by default and shown on the invite before anyone pays, unless the organiser covers it; hosts pay the standard commission on more seats. Tiers: Good: Shared session, for groups of 6–12 happy to share a host's scheduled session, at the host's usual price (about £40–£70 a head); Better ★: Private session, for milestone celebrations of 6–12 who want the host to themselves, about 25% above the usual price, with a minimum price the host sets (about £55–£90 a head); Best: Private celebration, a private session built around the occasion (a toast, photos, a menu or route the group chooses) plus one free date change, for the biggest milestones (about £110–£150 a head).
+Launch order: Stage 1 offers Shared session and Private session; Private celebration follows once hosts can deliver it reliably and the private premium has been tested. Assumption to test: Guests at a milestone celebration will pay about 25% more a head for a private session, even with the honoured guest's share split across them (about £80 each against a £56 usual price for a group of 8), so most organisers choose Private session over joining a scheduled one.
+
+Reflection. Friction: Letting evidence overrule answers I'd committed to, then carrying each change back through every earlier module. All five modules changed an earlier answer. I chose Acquire in Module 1 because product-led growth pairs with it, though every signal came from existing users; both models caught it. Module 2's battlecard showed a specialist already selling per-guest payment to hen and stag groups, so I narrowed to milestone celebrations. In Module 5, GPT-6 argued my tiers weren't earned, so I staged them. Each change cost another pass through everything I'd written. Key learnings: Run two models on the same prompt in memory-off chats, and treat their agreement as a signal, not proof. Control what each model sees: getting a cold read in Module 4 took three rounds. Check the facts a decision rests on: both models quoted a £50 GoHen deposit that isn't on its site. Give every test a decision rule, so its result changes something. Test a design with one concrete case: a group of 8 losing one paying guest showed my pricing covered only guests who never pay. And state the weakness plainly: not every host takes groups, so my positioning leads with the hosts who do, which Airbnb couldn't copy. Aha moment: AI made me faster at producing options, but no better at knowing which was right. In Modules 2, 4 and 5, my earlier work leaked into the replies; GPT-6 even handed my own "Expand, prove, acquire" sequence back to me as advice. The decisions that held came from what I checked: GoHen's live terms, Claude's arithmetic on the honoured guest's share, and Airbnb's minimum price for private groups. My job moved from writing answers to controlling what the models see and judging what they return.
+
+Review it in three short paragraphs:
+1. Could you tell who Roamly Groups is for, how it goes to market and why it wins? Name anything unclear.
+2. Do the bet, positioning, messaging and pricing tell the same story? Say which part is weakest.
+3. The one change that would make this presentation stronger before it is submitted.
+
+End with one line: "Ready to submit" or "Needs another pass", and why.
+```
+
+**How the two reviews compared** · both replies, word for word: [1-review.md](06-final-presentation/ai-replies/1-review.md)
+
+The prompt carries the presentation as it stood before the final fixes, so it still has the old title, "eleven friends", £55–£90 and the old aha wording. GPT-6 reviewed the version with the name typo fixed and before the group-of-8 example was added.
+
+| Point | GPT-6 | Claude |
+|---|---|---|
+| Verdict | Ready to submit | Ready to submit |
+| What's unclear | How big the milestone-celebration opportunity is | Who Roamly beats for milestone groups; course labels such as "Expand" and "stage 3" |
+| Weakest part | Pricing: the 25% premium is an assumption, and the tiers come before customers' preferences are known | Messaging: the in-app and email copy lead with payment; host opt-in appears only in the social post |
+| One change | A worked example for a group of 8: prices, the honoured guest's share, what each guest pays, what Roamly earns | Name the milestone competitors, Airbnb Experiences and GetYourGuide, on the competitor card |
+| Also noted | "Everyone pays their own share" sits awkwardly with the honoured guest's share being split; host coverage as a launch constraint | The name typo, the untrimmed title and the dropped month on the cover |
+
+- **GPT-6's change went in:** the group-of-8 example now sits in Module 5's Packaging section and on the presentation's Tiers card. The figures were already in the repo; only the presentation lacked them.
+- **Claude's competitor change didn't:** GPT-6 understood the GoHen trade-off without it, and Claude's reply came from the session that built the repo, so it isn't an independent read.
+- **Two points stay open on purpose:** sizing, since the scenario gives Roamly no volumes; and "everyone pays their own share" against the honoured guest's split, since the invite shows the split before anyone pays and rewording would reopen Modules 3 and 4.
