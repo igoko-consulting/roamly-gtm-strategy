@@ -34,7 +34,7 @@ All three are Claude's lines, chosen over GPT-6's because they stay on the pilla
 
 ## 5. Visual asset
 
-**V2, the asset:** [ready to post](visual-asset-v2.png) · [with value prop, capabilities and evidence labelled](visual-asset-v2-labelled.png). I built it with Claude Code after the blind reads, from the organiser pillar's wording: a booking card shows what you'd book, a line says what Roamly is, the occasion is named, and value prop, capabilities and evidence run top to bottom.
+**V2, the asset:** [ready to post](visual-asset-v2.png) · [with value prop, capabilities and evidence labelled](visual-asset-v2-labelled.png). I built it with Claude Code after the blind reads, from the organiser pillar's wording: a booking card shows what you'd book, a line says what Roamly is, the occasion is named, and value prop, capabilities and evidence run top to bottom. After Module 5, the card counts 11 paying guests out of 12, since the honoured guest doesn't pay.
 
 **V1:** Claude's, built from the social post ([PDF](ai-replies/2-visual-asset-claude.pdf)), chosen over GPT-6's because it kept the reviewed copy word for word; the blind reads below found it showed the payment steps rather than the experience. Both models' visuals: [GPT-6](ai-replies/2-visual-asset-gpt6.pdf) · [Claude](ai-replies/2-visual-asset-claude.pdf).
 
