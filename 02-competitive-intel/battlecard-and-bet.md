@@ -12,7 +12,7 @@ Both models' research, word for word, and my checks against live sources: [resea
 
 ## 2. Battlecard
 
-Claude's clean version, with two fact fixes of mine; claims I couldn't verify on GoHen's site are marked. Both models' work, word for word: [first battlecards](ai-replies/2-battlecard.md) · [clean versions](ai-replies/4-clean-up.md).
+Claude's clean version, with two fact fixes of mine and, from Module 5, the pricing and drop-out terms; claims I couldn't verify on GoHen's site are marked. Both models' work, word for word: [first battlecards](ai-replies/2-battlecard.md) · [clean versions](ai-replies/4-clean-up.md).
 
 ### Battlecard: Roamly Groups vs GoHen
 
@@ -49,7 +49,7 @@ GoHen already sells our core promise, individual payments with no chasing, to ou
 | Final balance | Due about 6 weeks before the event, with final numbers (unverified) | None: the full share is due by the deadline, when unpaid places are covered or released |
 | Unpaid places | Unverified | Organiser covers or releases places (proposed) |
 | Guest drops out after paying | Unverified | Before the cut-off, their own place is refunded and their part of the honoured guest's share stays; after it, no refund, but they can transfer the place (Module 5) |
-| Package price | From £59 a head (Liverpool) to £229 (HenFest) | Per head, set in Module 5: the host's usual price for a Shared session, about 25% more for a private session, about £110–£150 for a private celebration |
+| Package price | From £59 a head (Liverpool) to £229 (HenFest) | Per head, set in Module 5: the host's usual price for a Shared session, about 25% more for a Private session, about £110–£150 for a Private celebration |
 | Honoured guest's place | Guests pay on her behalf; her cost can't be spread across everyone's price (unverified) | Split across the paying guests by default and shown on the invite before anyone pays; the organiser can cover it instead (Module 5) |
 
 Terms vary by itinerary and promotion, including zero-deposit offers. Check live terms before quoting them to prospects.

@@ -26,11 +26,11 @@
 
 - **Surface 1:** In-app notification, shown when the group size reaches 6 or a group checkout starts: "Booking for 6 or more? Book once for the whole group. Everyone pays their own share through a link, so you don't front the bill."
 - **Surface 2:** Email subject line: "Book the big day, then enjoy it like everyone else", with the preview text "Everyone pays their own share. No fronting the bill, no chasing."
-- **Surface 3:** Social post: "You picked the date for her 40th. You found something special. Then you spent weeks chasing eleven friends for their share. Roamly Groups sorts the last bit: book a private cooking class, food tour or other local experience for 6–12 people with a vetted host who's said yes to groups. Send everyone a link and each person pays their own share by the deadline. Anyone who hasn't paid? Your call: cover them or free up the place. Pick something special. Then enjoy it with everyone else. Hosted by locals from Roamly's 12,000+ vetted hosts."
+- **Surface 3:** Social post: "You picked the date for her 40th. You found something special. Then you spent weeks chasing ten friends for their share. Roamly Groups sorts the last bit: book a private cooking class, food tour or other local experience for 6–12 people with a vetted host who's said yes to groups. Send everyone a link and each person pays their own share by the deadline. Anyone who hasn't paid? Your call: cover them or free up the place. Pick something special. Then enjoy it with everyone else. Hosted by locals from Roamly's 12,000+ vetted hosts."
 
 ### Where the copy came from
 
-All three are Claude's lines, chosen over GPT-6's because they stay on the pillar; GPT-6's social post implied every host takes groups. Both models' copy, word for word: [copy generation](ai-replies/1-copy-generation.md). After the blind reads, I named the occasion and the experience in the social post's opening and added the guarantee to the organiser pillar's capabilities, then, after Module 5, the honoured guest's split to both pillars and the drop-out terms to the guest pillar; the generation prompt and the visual used the first versions.
+All three are Claude's lines, chosen over GPT-6's because they stay on the pillar; GPT-6's social post implied every host takes groups. Both models' copy, word for word: [copy generation](ai-replies/1-copy-generation.md). After the blind reads, I named the occasion and the experience in the social post's opening and added the guarantee to the organiser pillar's capabilities, then, after Module 5, the honoured guest's split to both pillars, the drop-out terms to the guest pillar and "ten friends" to the social post, since the honoured guest doesn't pay; the generation prompt and the visual used the first versions.
 
 ## 5. Visual asset
 
@@ -42,7 +42,7 @@ All three are Claude's lines, chosen over GPT-6's because they stay on the pilla
 
 Two cold AI reads stood in for a first-time reader, and each model also read GPT-6's visual for contrast ([all reads](ai-replies/3-blind-read.md)).
 
-- **Who it's for:** both readers found the organiser who ends up as the debt collector, but guessed hen and stag parties as readily as birthdays.
+- **Who it's for:** both readers found the organiser who ends up as the debt collector, but guessed hen parties as readily as birthdays.
 - **What it does:** both got the mechanism, and both read it as "a split-payment and commitment tool"; neither could say what they'd book.
 - **What makes them trust it:** moderate at best; "vetted" isn't explained, and there's no rating, review, refund or cancellation promise.
 - **V2:** the copy now names the occasion and the experience (section 4), and the V2 ad above shows the experience as a booking card, says what Roamly is and adds the guarantee. Module 5 has since set the drop-out terms, now in the guest pillar; the guarantee, if a booking falls through, becomes the trust line once its terms are set.

@@ -65,7 +65,7 @@ Based on this, refine my strategic inputs and generate a V1 GTM strategy one-pag
 | Launch audience | By behaviour (multi-account users), not demographics | Same, defined as 3+ accounts on the same experience and date; occasion tag tests the segment |
 | Primary metric | Incremental completed group bookings per organiser, against a holdout | Group booking completion rate, against the multi-account baseline |
 | Motion | PLG, CLG still called secondary but run as an experiment | PLG only in V1; CLG a gated stage-3 test |
-| Unpaid shares | Named as a rule to set | Proposed one: payment deadline, organiser covers or releases seats, Roamly doesn't underwrite |
+| Unpaid shares | Named as a rule to set | Proposed one: payment deadline, organiser covers or releases places, Roamly doesn't underwrite |
 | Launch gates | Three stages, no timings or gates | Four stages with timings and three gates, a pre-launch checklist, and decision rules per funnel outcome |
 
 - **Claude's was the stronger base.** It made every decision the CMO had asked for. GPT-6 added the holdout, which measures what Groups adds rather than what would have happened anyway.
@@ -128,8 +128,8 @@ Also tell me what the status quo alternative is for a buyer who chooses none of 
 - **GetYourGuide and Viator:** "Holiday Hero or Zero" was a UK campaign in summer 2026 aimed at the group's organiser ([Creative Salon](https://creative.salon/articles/work/getyourguide-holiday-hero-or-zero-ace-of-hearts)). Viator became Gemini's first connected app for travel experiences on 30 July 2026 ([Tripadvisor](https://tripadvisor.mediaroom.com/2026-07-30-Viator-Becomes-Googles-First-Connected-App-for-Travel-Experiences)).
 
 - **They agreed on what matters:** specialists already sell my value proposition to my segment, so split payment is the entry ticket, not the edge, and the status quo is where most drop-off goes.
-- **Claude's was the more useful research:** it found GoHen's rule for unpaid places, GetYourGuide's campaign aimed at the organiser, and Airbnb's new supply. GPT-6 got the ownership right and had the clearer capability table.
-- **Neither reply is context-free:** GPT-6 quoted my "Expand, Prove, Acquire" sequence and the multi-account pattern, which aren't in the prompt. Claude's mentions of Roamly's drop-off and an unset rule for unpaid shares suggest it drew on earlier chats too.
+- **Claude's was the more useful research:** it named a GoHen rule for unpaid places (unverified), GetYourGuide's campaign aimed at the organiser, and Airbnb's new supply. GPT-6 got the ownership right and had the clearer capability table.
+- **Neither reply is context-free:** GPT-6 quoted the "Expand, Prove, Acquire" sequence from its own Module 1 reply and the multi-account pattern, which aren't in the prompt. Claude's mentions of Roamly's drop-off and an unset rule for unpaid shares suggest it drew on earlier chats too.
 
 ### 2. Battlecard · same chat as each research reply
 
@@ -245,7 +245,7 @@ Roamly Groups lets one person book a curated local experience, such as a food to
 | Point | GPT-6 | Claude |
 |---|---|---|
 | Could Airbnb use it? | "most of this word for word" | "almost word for word"; only per-guest payment gives it pause, and that goes "on our roadmap" |
-| What's ownable | One booking, per-guest payment and vetted hosts, together | Hosts who have opted in to groups, a plain promise on unpaid seats, proof from Roamly's base, and a product built for groups |
+| What's ownable | One booking, per-guest payment and vetted hosts, together | Hosts who have opted in to groups, a plain promise on unpaid places, proof from Roamly's base, and a product built for groups |
 | Its rewrite leads with | The payment mechanism | A vetted local host who welcomes groups |
 | Its caveat | Benchmark the guest-payment journey against Airbnb and GetYourGuide | Confirm host opt-in and the payment rule are true at launch |
 
@@ -383,7 +383,7 @@ It took three rounds to get clean reads: in the first, GPT-6's chat had context 
 | Claude | Who: "the birthday, hen do or reunion". What: "really it's a split-payment and commitment tool". Trust: "moderate" | Who: "the birthday dinner or reunion trip". What: "group booking with split payment built in". Trust: "not much"; the labels feel "like filler" |
 
 - **All four reads got the organiser and the mechanism; trust was the weakest layer in every one.** "Vetted" is never explained, and there's no rating, review, refund or cancellation promise. Evidence is usually the weakest layer of a message.
-- **My visual reads as a payment tool, and both readers guessed hen and stag parties,** the segment I deprioritised in Module 2. Without an occasion named, "eleven friends" reads as a hen do as easily as a birthday.
+- **My visual reads as a payment tool, and both readers guessed hen parties,** part of the segment I deprioritised in Module 2. Without an occasion named, "eleven friends" reads as a hen do as easily as a birthday.
 - **The photo helps less than I expected:** GPT-6 read dining from it, but Claude called it generic stock and still asked what an experience is. The copy has to name the experience, not just the picture.
 - **No sign of a model favouring its own work:** Claude was the harsher reader of both visuals.
 - **What I changed after the blind reads:** the social post's opening now names the occasion and the experience, and the organiser pillar lists the guarantee. V1 stays as tested; a V2 ad, built afterwards, shows the experience as a booking card and has not been blind-read.
