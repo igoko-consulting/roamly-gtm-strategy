@@ -15,7 +15,7 @@
 | 3 | **Positioning Statement** (framework + statement) | M3 | ✅ | [`03-positioning/positioning.md`](03-positioning/positioning.md) |
 | 4 | **Messaging Pillars** | M4 | ✅ | [`04-messaging/messaging-pillars.md`](04-messaging/messaging-pillars.md) |
 | 5 | **Pricing Recommendation** | M5 | ✅ | [`05-pricing/pricing-recommendation.md`](05-pricing/pricing-recommendation.md) |
-| 6 | **Final Presentation** (the five chapters in one page, and what I would change) | M6 | ☐ | `final-presentation.html` |
+| 6 | **Final Presentation** (the five chapters in one page, and what I learned) | M6 | ✅ | [`final-presentation.html`](final-presentation.html) |
 
 ## The strategy in one sentence
 
@@ -39,7 +39,7 @@ ___
 
 ## Final presentation
 
-`final-presentation.html` brings the five chapters into one page, with what I would do differently.
+[`final-presentation.html`](final-presentation.html) brings the five chapters into one page, with what I learned: where it was hardest, what I'll keep doing and the moment my thinking changed.
 
 ## Repo structure
 
